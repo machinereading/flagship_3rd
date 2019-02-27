@@ -9,6 +9,7 @@ Then, receiving user's answer, it expands its KB.
 ## prerequisite
 * `python 3`
 
+
 ## Set up
 Download a pretrained korean FastText from <https://fasttext.cc/docs/en/crawl-vectors.html>  
 pip install -r requirements.txt
