@@ -17,10 +17,10 @@ python chatbot.py
 ```
 
 ## Licenses
-
-
+  
 
 ## Mailing List
-`asm427@kaist.ac.kr`
+`asm427@kaist.ac.kr`  
+
 
 ## Acknowledgement
