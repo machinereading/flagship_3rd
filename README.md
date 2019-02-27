@@ -2,9 +2,9 @@
 
 ## About
 
-KB-Agnet: Interactive Learning through dialog between bot and user.\n
-It recognizes current dialog's topic, and asks unknown knowledge to user.
-Then, receiving user's answer, it expands its KB.
+KB-Agnet: Interactive Learning through dialog between bot and user.  
+It recognizes current dialog's topic, and asks unknown knowledge to user.  
+Then, receiving user's answer, it expands its KB.  
 
 ## prerequisite
 * `python 3`
