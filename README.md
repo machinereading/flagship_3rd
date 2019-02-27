@@ -5,6 +5,7 @@
 KB-Agnet: Interactive Learning through dialog between bot and user.  
 It recognizes current dialog's topic, and asks unknown knowledge to user.  
 Then, receiving user's answer, it expands its KB.  
+[FastText](https://fasttext.cc/docs/en/crawl-vectors.html)
 
 ## prerequisite
 * `python 3`
