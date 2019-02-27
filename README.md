@@ -11,7 +11,7 @@ Then, receiving user's answer, it expands its KB.
 
 
 ## Set up
-1. Download a pretrained korean FastText from <https://fasttext.cc/docs/en/crawl-vectors.html>  
+Download a pretrained korean FastText from <https://fasttext.cc/docs/en/crawl-vectors.html>  
 ```
 pip install -r requirements.txt
 ```
