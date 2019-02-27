@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/프로듀서
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/DJ
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/포터_로빈슨	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/OWSLA
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/birthDate	1992-07-15
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/더브스텝
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로_하우스
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로니카
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/신스팝
+http://ko.dbpedia.org/resource/포터_로빈슨	http://dbpedia.org/ontology/activeYearsStartYear	2010

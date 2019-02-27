@@ -1,0 +1,18 @@
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	세페르 할릴로비치
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	라심 델리치
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	아티프 파샬리치
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/날짜	1992
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	알리야 이제트베고비치
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	프라뇨 투지만 
+
+25px 마테 보반
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	25
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/보스니아_헤르체고비나
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/교전국	보스니아 헤르체고비나 공화국
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/결과	교착 상태, 워싱턴 협정과 보스니아 헤르체고비나 연방 탄생
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/지휘관	----
+25px 블라주 크랄리예비치
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/교전국	----
+22px 크로아티아 국방군
+http://ko.dbpedia.org/resource/크로아티아-보스니아_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/네레트바_강

@@ -1,0 +1,20 @@
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/에비스_역_(도쿄_도)
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	도쿄 급행 전철 ■ 도요코 선
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/후역	유텐지 TY 04
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/후역	TY 04 유텐지
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/전역	TY 02 다이칸야마
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/후역	TY 07 지유가오카
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/후역	TY 05 가쿠게이 대학
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_히비야_선
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/후역	에비스 H 02
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_급행_전철
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_급행_전철_도요코_선
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_(기업)
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/소재지	가미메구로 3초메 4-1
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/파일:Subway_TokyoHibiya.png
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/역명	나카메구로
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/개업일	1964
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/개업일	1927
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/소재지	도쿄 도 메구로 구
+http://ko.dbpedia.org/resource/나카메구로_역	http://ko.dbpedia.org/property/전역	TY 01 시부야

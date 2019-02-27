@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/한진중공업	http://ko.dbpedia.org/property/제품	컨테이너선, LNG선, RO-RO선, 화학제품운반선, 케이블선, 제철설비, 물류설비, 철구조물
+http://ko.dbpedia.org/resource/한진중공업	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/조선_(산업)
+http://ko.dbpedia.org/resource/한진중공업	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/부산광역시
+http://ko.dbpedia.org/resource/한진중공업	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/한진중공업	http://ko.dbpedia.org/property/산업	조선업, 건설업, 플랜트설비업, 서비스업
+http://ko.dbpedia.org/resource/한진중공업	http://dbpedia.org/ontology/foundingYear	1937

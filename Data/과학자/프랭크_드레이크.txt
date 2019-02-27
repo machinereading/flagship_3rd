@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/프랭크_드레이크	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/시카고
+http://ko.dbpedia.org/resource/프랭크_드레이크	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/천문학자
+http://ko.dbpedia.org/resource/프랭크_드레이크	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/천문학
+http://ko.dbpedia.org/resource/프랭크_드레이크	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일리노이_주
+http://ko.dbpedia.org/resource/프랭크_드레이크	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/드레이크_방정식

@@ -1,0 +1,22 @@
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/activeYearsStartYear	1999
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/activeYearsStartYear	1999
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/충청북도
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/진천군
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_록
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/birthDate	1981-12-03
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로닉_음악
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/포크_록
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/기타_연주자
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/베이스_기타
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/드럼_세트
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/피아노
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가_겸_가수
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작사가
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악_프로듀서
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/포크_록_가수
+http://ko.dbpedia.org/resource/김사랑_(가수)	http://ko.dbpedia.org/property/소속사	쇼파르뮤직, 아이오컴퍼니

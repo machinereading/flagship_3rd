@@ -1,0 +1,21 @@
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	에드워드 알몬드
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/인천
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	아서 듀이 스트러블
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	더글러스 맥아더
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/유엔군
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/서울_수복_전투
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	최용건 
+ 남일
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	백인엽 
+ 백선엽
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/날짜	1950
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/UN군
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	로버트 싱크
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	올리버 P. 스미스
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/교전국	:
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/경기도
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/인천광역시
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/사상자	1350
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/사상자	222
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	신현준
+http://ko.dbpedia.org/resource/인천_상륙_작전	http://ko.dbpedia.org/property/지휘관	김일성

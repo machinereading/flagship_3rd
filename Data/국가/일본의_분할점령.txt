@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/일본의_분할점령	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/도쿄
+http://ko.dbpedia.org/resource/일본의_분할점령	http://dbpedia.org/ontology/country	일본
+http://ko.dbpedia.org/resource/일본의_분할점령	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/기미가요
+http://ko.dbpedia.org/resource/일본의_분할점령	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌_군주제
+http://ko.dbpedia.org/resource/일본의_분할점령	http://dbpedia.org/ontology/foundingYear	1945
+http://ko.dbpedia.org/resource/일본의_분할점령	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/일본어

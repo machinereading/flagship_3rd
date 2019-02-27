@@ -1,0 +1,91 @@
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	----
+ 아이티 
+----
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	뉴펀들랜드
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/대서양
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	프랑스 왕당파
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	그레이트브리튼
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	프랑스 반혁명파
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/이집트
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/지중해
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/유럽
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/카리브_해
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/중동
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/뤼네빌_조약
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/실론
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/아미앵_조약
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	시칠리아 왕국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/토바고
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/스페인
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/네덜란드
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/프랑스_제1공화국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/나폴레옹_전쟁
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	아일랜드인 연합
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	폴란드 군단
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	* 로마 공화국 
+*
+*
+* 
+ 덴마크-노르웨이
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	* 오스트리아
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	----
+ 마이소르 왕국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	프랑스 입헌왕국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	네덜란드 공화국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	나폴리 왕국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	프랑스 공화국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/교전국	아일랜드 왕국
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	막시밀리앵 로베스피에르
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	샤를 뒤무리에
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	장 빅토르 모로
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	루이 16세 †
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	자크 마크도날
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	자크 피에르 브리소 †
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	자크 뒤고미에
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	루이 샤를 드제
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	장 클레베르
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	아당 필리프
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	폴 바라스
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	루이 라자르 오슈
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	조지 3세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	페드루 3세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	파벨 1세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	앙드레 마세나
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	프리드리히 3세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	카를로스 4세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	마리아 1세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	셀림 3세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	장바티스트 주르당
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	나폴레옹 보나파르트
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	윌리엄 피트
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	무라드 베이
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	알렉산드르 수보로프
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	빌럼 5세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	호엔로에 공작
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	브라운슈바이크 공작
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	지자르 파샤
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	에마누엘 비탈레
+----
+ 투생 루베르튀르
+----
+ 존 애덤스
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	루이스 조제프
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	제임스 월러스
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	카를로 에마누엘레 4세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	로렌스 스피에겔
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	페르디난도 4세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	미하일 폰 멜라스
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	프란츠 2세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	요제프 알빈치
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	프랑수아 켈레르만
+----
+ 얀 헨리크 돔브로프스키
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	샤를 피슈그뤼
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	크리스티안 7세
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	호레이쇼 넬슨
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	프레더릭 왕자
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	랄프 에버크럼비†
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	뷔름저 원수
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/지휘관	페터 쿠아스다노비치
+http://ko.dbpedia.org/resource/프랑스_혁명_전쟁	http://ko.dbpedia.org/property/날짜	1792

@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/전역	232
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/대구은행역
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/수성구청역
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/후역	234
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/역명	범어
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/개업일	2005
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/대구_도시철도_2호선
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/수성구
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/소재지	달구벌대로 지하2396
+http://ko.dbpedia.org/resource/범어역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/대구광역시

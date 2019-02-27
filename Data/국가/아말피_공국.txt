@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/아말피_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/나폴리어
+http://ko.dbpedia.org/resource/아말피_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/그리스어
+http://ko.dbpedia.org/resource/아말피_공국	http://dbpedia.org/ontology/foundingYear	0958
+http://ko.dbpedia.org/resource/아말피_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아말피
+http://ko.dbpedia.org/resource/아말피_공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공작령
+http://ko.dbpedia.org/resource/아말피_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아말피의_만소_1세

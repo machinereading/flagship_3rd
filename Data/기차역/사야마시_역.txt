@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/혼카와고에_역
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/도코로자와_역
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신사야마_역
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/소재지	사이타마 현 사야마 시
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/개업일	1895
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/신토코로자와_역
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/이리소_역
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/세이부_철도
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/세이부_철도_신주쿠_선
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/노선	세이부 철도■신주쿠선
+http://ko.dbpedia.org/resource/사야마시_역	http://ko.dbpedia.org/property/역명	사야마 시

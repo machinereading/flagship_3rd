@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/조경철	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	미국 필라델피아 주 펜실베이니아 대학교 대학원 이학박사 졸업
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대위
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	동양화가, 서예가, 서양화가
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	천문학자, 대학 교수, 정치가, 수필가
+http://ko.dbpedia.org/resource/조경철	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/평안북도
+http://ko.dbpedia.org/resource/조경철	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/선천군
+http://ko.dbpedia.org/resource/조경철	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	경희대학교 명예교수
+http://ko.dbpedia.org/resource/조경철	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/천문학자
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	새정치국민회의 중앙위원
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	공업사평론가, 정치평론가, 저술가
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	철학평론가, 과학평론가, 스포츠평론가
+http://ko.dbpedia.org/resource/조경철	http://ko.dbpedia.org/property/기타이력	경희대학교 부총장

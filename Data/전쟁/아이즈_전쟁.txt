@@ -1,0 +1,27 @@
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/오우에쓰_열번_동맹
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/아이즈_번
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/사도와라_번
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/파일:Flag_of_the_Tokugawa_Shogunate.svg
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/사상자	알려지지 않음
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/결과	신정부군의 승리
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/에도_막부
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	18
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/아이즈_번
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/파일:Flag_of_Aizu_domain.svg
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/파일:Flag_of_Ouetsu_Reppan_Domei_or_the_Northen_Alliance_in_Japan.svg
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/교전국	16
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/구로다_기요타카
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/마쓰다이라_가타모리
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/사이토_하지메
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/야마가타_아리토모
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/사이온지_긴모치
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/날짜	1868
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/이타가키_다이스케
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/가야노_곤베이
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/야마가와_시로시
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/나가노_다케코
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/다나카_도사
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/이지치_마사하루
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/기리노_도시아키
+http://ko.dbpedia.org/resource/아이즈_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/사이고_다노모

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/하이마크_스타디움
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/펜실베이니아_주
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://ko.dbpedia.org/property/구단주	테리 셀렌버거
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/유나이티드_사커_리그
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://ko.dbpedia.org/property/감독	마크 스테펜즈
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://dbpedia.org/ontology/foundingYear	1998
+http://ko.dbpedia.org/resource/피츠버그_리버하운즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/미국

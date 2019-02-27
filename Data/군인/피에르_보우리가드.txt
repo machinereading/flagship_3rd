@@ -1,0 +1,23 @@
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/United_States
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://ko.dbpedia.org/property/최종계급	대장
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/남부동맹
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제1차_불런_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/멕시코-미국_전쟁
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/남북전쟁
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/루이지애나_주
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://ko.dbpedia.org/property/기타이력	작가, 정치인, 발명가 등
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/세인트버나드페리쉬
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://ko.dbpedia.org/property/복무	25
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/미국_남북_전쟁
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/발명가
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/군인
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/버뮤다_100일_전역
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/와그너_요새_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/샤일로_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/1차_불런_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/코린트_공방전
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/미국-멕시코_전쟁
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/추루부스코_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/섬터_요새_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/차풀테펙_전투
+http://ko.dbpedia.org/resource/피에르_보우리가드	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/2차_피터스버그_전투

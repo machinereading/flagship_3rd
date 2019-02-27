@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/토론토
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/birthPlace	25
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캐나다
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/프린스에드워드아일랜드_주
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/religion	http://ko.dbpedia.org/resource/장로교
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/빨간_머리_앤
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/캐나다_문학
+http://ko.dbpedia.org/resource/루시_모드_몽고메리	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/댈하우지_대학교

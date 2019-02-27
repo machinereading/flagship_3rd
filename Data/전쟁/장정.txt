@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/중화소비에트공화국
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/중국_국민당
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/홍군
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/교전국	중화소비에트공화국
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/지휘관	장제스
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/교전국	중화민국
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/옌안
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/중국_공산당
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/지휘관	마오쩌둥외 다수
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/날짜	1934
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/중국
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/장시_성
+http://ko.dbpedia.org/resource/장정	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/산시_성_(섬서성)

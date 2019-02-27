@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/파이살_1세
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/다마스쿠스
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/하심_알_아타시
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/리다_알_리카비
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/foundingYear	1920
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/country	시리아
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어
+http://ko.dbpedia.org/resource/시리아_아랍_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제

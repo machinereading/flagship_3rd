@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/시라토리_닌자부로	http://dbpedia.org/ontology/firstAppearance	http://ko.dbpedia.org/resource/명탐정_코난:_시한장치의_마천루
+http://ko.dbpedia.org/resource/시라토리_닌자부로	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼
+http://ko.dbpedia.org/resource/시라토리_닌자부로	http://dbpedia.org/ontology/gender	남
+http://ko.dbpedia.org/resource/시라토리_닌자부로	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/경부
+http://ko.dbpedia.org/resource/시라토리_닌자부로	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan

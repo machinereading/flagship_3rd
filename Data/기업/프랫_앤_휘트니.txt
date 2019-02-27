@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/가스_터빈
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/비행기_엔진
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/발전_(전기)
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공우주
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/항공_우주_산업
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://dbpedia.org/ontology/foundingYear	1925
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/우주선_추진장치
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공_우주_산업
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/하트퍼드_(코네티컷_주)
+http://ko.dbpedia.org/resource/프랫_앤_휘트니	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/코네티컷_주

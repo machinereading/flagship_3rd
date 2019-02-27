@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/결과	추축국의 승리
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/날짜	1942
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/장소	소련, 보로네시
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/지휘관	필리프 골리코프
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/지휘관	구스타브 비테즈 야니
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/사상자	총 56만 8347명 사상
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/사상자	불명
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/지휘관	헤르만 호트
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/교전국	헝가리 왕국
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/사상자	37
+http://ko.dbpedia.org/resource/보로네시_전투_(1942년)	http://ko.dbpedia.org/property/사상자	19

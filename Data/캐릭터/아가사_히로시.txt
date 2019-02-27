@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/아가사_히로시	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼
+http://ko.dbpedia.org/resource/아가사_히로시	http://dbpedia.org/ontology/firstAppearance	1
+http://ko.dbpedia.org/resource/아가사_히로시	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
+http://ko.dbpedia.org/resource/아가사_히로시	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/발명가
+http://ko.dbpedia.org/resource/아가사_히로시	http://dbpedia.org/ontology/occupation	발명가
+http://ko.dbpedia.org/resource/아가사_히로시	http://dbpedia.org/ontology/gender	남

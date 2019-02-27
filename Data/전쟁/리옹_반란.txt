@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/프랑스_혁명
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/사상자	반란 진압 후 2000명 이상 처형
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/교전국	23
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/지휘관	23
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/날짜	1793
+http://ko.dbpedia.org/resource/리옹_반란	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/리옹

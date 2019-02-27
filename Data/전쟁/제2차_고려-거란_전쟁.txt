@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/날짜	1010
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/결과	고려의 막심한 피해. 거란의 철수
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/한반도
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/고려
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/요나라
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	강조
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/김숙흥
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/작전_중_사망
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/양규
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/사상자	정규군 전멸
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/사상자	15000
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	대도수
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	이현운
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/요_성종
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/소배압
+http://ko.dbpedia.org/resource/제2차_고려-거란_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/하공진

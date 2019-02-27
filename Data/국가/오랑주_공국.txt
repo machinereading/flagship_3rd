@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/윌리엄_3세
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/버트란드_1세
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/foundingYear	1163
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/오랑주
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/오렌지_주
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
+http://ko.dbpedia.org/resource/오랑주_공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공국

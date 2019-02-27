@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/역명	가스가야마
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/소재지	가스가야마마치 3초메 1-1
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/개업일	1928
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/노선	에치고토키메키 철도 ■ 묘코 하네우마 라인
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/소재지	니가타 현 조에쓰 시
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/나오에쓰_역
+http://ko.dbpedia.org/resource/가스가야마_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다카다_역_(니가타_현)

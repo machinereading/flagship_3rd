@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/후역	107
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/전역	105
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/괴정역
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/서대신역
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/소재지	부산광역시 사하구 낙동대로 지하141
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/역명	대티
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/개업일	1994
+http://ko.dbpedia.org/resource/대티역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/부산_도시철도_1호선

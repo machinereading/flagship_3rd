@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/예일_대학교	http://ko.dbpedia.org/property/표어	אורים ותמים
+http://ko.dbpedia.org/resource/예일_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/불독
+http://ko.dbpedia.org/resource/예일_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/United_States
+http://ko.dbpedia.org/resource/예일_대학교	http://ko.dbpedia.org/property/표어	Lux et veritas
+http://ko.dbpedia.org/resource/예일_대학교	http://ko.dbpedia.org/property/총장	피터 살로비
+http://ko.dbpedia.org/resource/예일_대학교	http://ko.dbpedia.org/property/설립	1701
+http://ko.dbpedia.org/resource/예일_대학교	http://ko.dbpedia.org/property/표어	빛과 진리
+http://ko.dbpedia.org/resource/예일_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/뉴헤이븐
+http://ko.dbpedia.org/resource/예일_대학교	http://dbpedia.org/ontology/mascot	불독

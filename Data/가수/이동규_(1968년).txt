@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/이동규_(1968년)	http://dbpedia.org/ontology/activeYearsStartYear	1986
+http://ko.dbpedia.org/resource/이동규_(1968년)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악
+http://ko.dbpedia.org/resource/이동규_(1968년)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/베이스_기타
+http://ko.dbpedia.org/resource/이동규_(1968년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/이동규_(1968년)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/이동규_(1968년)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/베이시스트

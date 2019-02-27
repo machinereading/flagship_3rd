@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/소말리어
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/압디라흐만_모하무드_파롤레
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/가로웨
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/소말리아어
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/country	푼틀란드
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/자주권
+http://ko.dbpedia.org/resource/푼틀란드	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/압디사마드_알리_시레

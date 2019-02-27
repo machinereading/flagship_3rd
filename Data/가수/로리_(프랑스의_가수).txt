@@ -1,0 +1,23 @@
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://ko.dbpedia.org/property/본명	Laure Pester
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/젬베
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악_프로듀서
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/프로듀서
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스_음악
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://ko.dbpedia.org/property/본명	로르 페스테르
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스_팝
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/R&B
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/삼바
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/activeYearsStartYear	2000
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/activeYearsStartYear	2001
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/주크
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/발두아즈_주
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/르플레시부샤르
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/로리_(프랑스의_가수)	http://dbpedia.org/ontology/birthDate	1982-05-02

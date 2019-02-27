@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/종근당그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/종근당그룹	http://ko.dbpedia.org/property/제품	일반의약품, 의약외품, 전문의약품, 건강기능식품
+http://ko.dbpedia.org/resource/종근당그룹	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/이종근_(1919년)
+http://ko.dbpedia.org/resource/종근당그룹	http://ko.dbpedia.org/property/산업	제약
+http://ko.dbpedia.org/resource/종근당그룹	http://ko.dbpedia.org/property/산업	지주회사
+http://ko.dbpedia.org/resource/종근당그룹	http://dbpedia.org/ontology/industry	지주회사
+http://ko.dbpedia.org/resource/종근당그룹	http://dbpedia.org/ontology/industry	제약

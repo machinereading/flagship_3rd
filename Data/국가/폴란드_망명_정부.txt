@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/폴란드어
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/파리
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/country	폴란드
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/폴란드의_국가
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/governmentType	공화국
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/foundingYear	1939
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/바르샤바
+http://ko.dbpedia.org/resource/폴란드_망명_정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/런던

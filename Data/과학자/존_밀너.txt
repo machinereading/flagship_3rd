@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/필즈상
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/울프상
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/아벨상
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/밀너_환
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/초구
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/수학자
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/존_밀너	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/대수적_K군

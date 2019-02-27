@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/gender	남
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/firstAppearance	(1966년 7월)
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/birthPlace	와칸다
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/nationality	와칸다
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/스탠_리
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/occupation	지도자
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/firstAppearance	판타스틱 4#52
+http://ko.dbpedia.org/resource/블랙_팬서_(마블_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/잭_커비

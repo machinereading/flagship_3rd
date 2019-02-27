@@ -1,0 +1,4 @@
+http://ko.dbpedia.org/resource/다울라기리_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/네팔
+http://ko.dbpedia.org/resource/다울라기리_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/다왈라기리
+http://ko.dbpedia.org/resource/다울라기리_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/히말라야_산맥
+http://ko.dbpedia.org/resource/다울라기리_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/예지_쿠쿠츠카

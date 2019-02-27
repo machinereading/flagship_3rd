@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/지바_시
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이치하라_임해_경기장
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/후쿠다_전자_아레나
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://ko.dbpedia.org/property/감독	하세베 시게토시
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/J리그_디비전_2
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/J2리그
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://dbpedia.org/ontology/foundingYear	1946
+http://ko.dbpedia.org/resource/제프_유나이티드_이치하라_지바	http://ko.dbpedia.org/property/구단주	요도가와 타카히로

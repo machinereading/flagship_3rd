@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로팝
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스_음악
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/activeYearsStartYear	2002
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/activeYearsStartYear	2002
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/멕시코
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/birthDate	1983-08-07
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/멕시코시티
+http://ko.dbpedia.org/resource/크리스티안_차베스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/피자피자	http://dbpedia.org/ontology/industry	레스토랑
+http://ko.dbpedia.org/resource/피자피자	http://dbpedia.org/ontology/foundingYear	1967
+http://ko.dbpedia.org/resource/피자피자	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주
+http://ko.dbpedia.org/resource/피자피자	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/패스트_푸드
+http://ko.dbpedia.org/resource/피자피자	http://ko.dbpedia.org/property/제품	피자, 치킨, 패스트 푸드
+http://ko.dbpedia.org/resource/피자피자	http://ko.dbpedia.org/property/산업	레스토랑

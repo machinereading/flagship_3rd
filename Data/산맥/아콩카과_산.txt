@@ -1,0 +1,4 @@
+http://ko.dbpedia.org/resource/아콩카과_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/마티아스_추르브리겐
+http://ko.dbpedia.org/resource/아콩카과_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/안데스_산맥
+http://ko.dbpedia.org/resource/아콩카과_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/멘도사_주
+http://ko.dbpedia.org/resource/아콩카과_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/아르헨티나

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/Bic	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/마르셀_비히
+http://ko.dbpedia.org/resource/Bic	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/에두아르_버파드
+http://ko.dbpedia.org/resource/Bic	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/클리시
+http://ko.dbpedia.org/resource/Bic	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/라이터
+http://ko.dbpedia.org/resource/Bic	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/볼펜
+http://ko.dbpedia.org/resource/Bic	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/소비재
+http://ko.dbpedia.org/resource/Bic	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소비재

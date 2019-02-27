@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/Japan
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/activeYearsStartYear	2003
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/J-pop
+http://ko.dbpedia.org/resource/오오츠카_아이	http://ko.dbpedia.org/property/본명	大塚愛
+http://ko.dbpedia.org/resource/오오츠카_아이	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/에이벡스_엔터테인먼트
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오사카_부
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오사카_시
+http://ko.dbpedia.org/resource/오오츠카_아이	http://dbpedia.org/ontology/birthDate	1982-09-09

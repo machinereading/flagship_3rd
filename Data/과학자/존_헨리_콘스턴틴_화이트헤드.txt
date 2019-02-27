@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/화이트헤드_괄호
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/인도
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/화이트헤드_문제
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/첸나이
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/왕립_학회
+http://ko.dbpedia.org/resource/존_헨리_콘스턴틴_화이트헤드	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/CW_복합체

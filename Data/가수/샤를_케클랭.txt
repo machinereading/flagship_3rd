@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/샤를_케클랭	http://dbpedia.org/ontology/birthPlace	파리
+http://ko.dbpedia.org/resource/샤를_케클랭	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/이론가
+http://ko.dbpedia.org/resource/샤를_케클랭	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/샤를_케클랭	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/서양_고전_음악
+http://ko.dbpedia.org/resource/샤를_케클랭	http://ko.dbpedia.org/property/본명	샤를 루이 외젠 케클랭
+http://ko.dbpedia.org/resource/샤를_케클랭	http://dbpedia.org/ontology/activeYearsStartYear	1890
+http://ko.dbpedia.org/resource/샤를_케클랭	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/파리

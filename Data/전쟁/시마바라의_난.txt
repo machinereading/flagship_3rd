@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/장소	일본 하라 성
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/사상자	야마다 에몬사쿠를 제외한 전원 전사
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/교전국	20
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/사상자	1900
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/날짜	간에이 14년 10월 25일 - 간에이 15년 2월 28일
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/지휘관	20
+http://ko.dbpedia.org/resource/시마바라의_난	http://ko.dbpedia.org/property/결과	막부군이 고전 끝에 승리

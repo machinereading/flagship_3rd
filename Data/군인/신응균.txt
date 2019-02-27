@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/신응균	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/신응균	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/일본_제국_육군
+http://ko.dbpedia.org/resource/신응균	http://ko.dbpedia.org/property/최종계급	대한민국 육군 중장
+http://ko.dbpedia.org/resource/신응균	http://ko.dbpedia.org/property/기타이력	국방과학연구소 소장
+http://ko.dbpedia.org/resource/신응균	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/신응균	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/한국_전쟁
+http://ko.dbpedia.org/resource/신응균	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/태평양_전쟁
+http://ko.dbpedia.org/resource/신응균	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제_강점기_조선
+http://ko.dbpedia.org/resource/신응균	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/신응균	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/경성부

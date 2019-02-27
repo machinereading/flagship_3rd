@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/젠하이저	http://dbpedia.org/ontology/foundingYear	1945
+http://ko.dbpedia.org/resource/젠하이저	http://ko.dbpedia.org/property/산업	음향기기
+http://ko.dbpedia.org/resource/젠하이저	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/헤드폰
+http://ko.dbpedia.org/resource/젠하이저	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/스피커
+http://ko.dbpedia.org/resource/젠하이저	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/하노버
+http://ko.dbpedia.org/resource/젠하이저	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/니더작센_주
+http://ko.dbpedia.org/resource/젠하이저	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/프리츠_젠하이저
+http://ko.dbpedia.org/resource/젠하이저	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/독일
+http://ko.dbpedia.org/resource/젠하이저	http://dbpedia.org/ontology/industry	음향기기

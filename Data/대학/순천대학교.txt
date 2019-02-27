@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/순천대학교	http://dbpedia.org/ontology/mascot	낙우송,매화,독수리
+http://ko.dbpedia.org/resource/순천대학교	http://ko.dbpedia.org/property/총장	박진성
+http://ko.dbpedia.org/resource/순천대학교	http://dbpedia.org/ontology/mascot	낙우송(교목),매화(교화),독수리
+http://ko.dbpedia.org/resource/순천대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/순천대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/순천대학교	http://ko.dbpedia.org/property/표어	진리, 창조
+http://ko.dbpedia.org/resource/순천대학교	http://ko.dbpedia.org/property/설립	1935

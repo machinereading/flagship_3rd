@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/activeYearsStartYear	1940
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/activeYearsStartYear	1940
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/테너
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/토스카나_주
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/피렌체
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/오페라
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/birthDate	1915-07-27
+http://ko.dbpedia.org/resource/마리오_델_모나코	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/이탈리아

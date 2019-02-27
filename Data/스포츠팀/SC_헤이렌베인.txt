@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://ko.dbpedia.org/property/구단주	바르트 판 데르 메이르
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/에레디비시
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://dbpedia.org/ontology/foundingYear	1920
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://ko.dbpedia.org/property/구단주	퇸 판 데르 묄런
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/네덜란드
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://ko.dbpedia.org/property/감독	트론 솔리드
+http://ko.dbpedia.org/resource/SC_헤이렌베인	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아버_렌스트라_스타디온

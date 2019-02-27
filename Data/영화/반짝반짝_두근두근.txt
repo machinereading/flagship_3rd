@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/반짝반짝_두근두근	http://ko.dbpedia.org/property/장르	드라마, 가족
+http://ko.dbpedia.org/resource/반짝반짝_두근두근	http://ko.dbpedia.org/property/등급	전체관람가
+http://ko.dbpedia.org/resource/반짝반짝_두근두근	http://ko.dbpedia.org/property/감독	김태균
+http://ko.dbpedia.org/resource/반짝반짝_두근두근	http://ko.dbpedia.org/property/시간	15
+http://ko.dbpedia.org/resource/반짝반짝_두근두근	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/반짝반짝_두근두근	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어

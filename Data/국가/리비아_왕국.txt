@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/트리폴리_(리비아)
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/foundingYear	1951
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이드리스_1세
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/리비아,_리비아,_리비아
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/벵가지
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
+http://ko.dbpedia.org/resource/리비아_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/알바이다_(리비아)

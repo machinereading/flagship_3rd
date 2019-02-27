@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://dbpedia.org/ontology/foundingYear	1955
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://ko.dbpedia.org/property/제품	백화점, 통신판매
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/이병철
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://dbpedia.org/ontology/industry	종합소매업
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://ko.dbpedia.org/property/산업	종합소매업
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/신세계_(백화점)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소매_(상업)

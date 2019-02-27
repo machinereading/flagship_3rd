@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/country	사라왁
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/스테픈_칼롱_닝칸
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/foundingYear	1946
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/왕령식민지
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조지_6세
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/알렉산더_워델
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/말레이어
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/쿠칭
+http://ko.dbpedia.org/resource/사라왁_왕령식민지	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이반어

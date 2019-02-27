@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/activeYearsStartYear	2012
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/birthDate	1986-09-19
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/래퍼
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스웨덴
+http://ko.dbpedia.org/resource/실바나_이맘	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스톡홀름

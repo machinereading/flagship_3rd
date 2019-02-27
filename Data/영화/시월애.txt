@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/감독	이현승
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/시간	94
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/개봉	2000
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/이정재_(배우)
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/전지현
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/등급	12
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/장르	로맨스, 판타지
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/관객수	248597
+http://ko.dbpedia.org/resource/시월애	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어

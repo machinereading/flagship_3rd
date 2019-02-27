@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/시간	122
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/오카다_마사키
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/이노우에_마오
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/신조_타케히코
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/일본어
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/장르	드라마, 로맨스
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/순정만화
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/개봉	2009
+http://ko.dbpedia.org/resource/내_첫사랑을_너에게_바친다	http://ko.dbpedia.org/property/개봉	2010

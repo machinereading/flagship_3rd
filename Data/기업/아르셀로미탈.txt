@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/아르셀로미탈	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/룩셈부르크_시
+http://ko.dbpedia.org/resource/아르셀로미탈	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/룩셈부르크
+http://ko.dbpedia.org/resource/아르셀로미탈	http://ko.dbpedia.org/property/제품	평강, 도금 강판, 파이프 및 튜브
+http://ko.dbpedia.org/resource/아르셀로미탈	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/강철
+http://ko.dbpedia.org/resource/아르셀로미탈	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/철강
+http://ko.dbpedia.org/resource/아르셀로미탈	http://dbpedia.org/ontology/foundingYear	2006
+http://ko.dbpedia.org/resource/아르셀로미탈	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/철강

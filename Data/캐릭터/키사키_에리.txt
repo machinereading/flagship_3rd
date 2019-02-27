@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/키사키_에리	http://dbpedia.org/ontology/birthDate	10
+http://ko.dbpedia.org/resource/키사키_에리	http://dbpedia.org/ontology/gender	여
+http://ko.dbpedia.org/resource/키사키_에리	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
+http://ko.dbpedia.org/resource/키사키_에리	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼
+http://ko.dbpedia.org/resource/키사키_에리	http://dbpedia.org/ontology/firstAppearance	32
+http://ko.dbpedia.org/resource/키사키_에리	http://dbpedia.org/ontology/occupation	변호사

@@ -1,0 +1,22 @@
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악_프로듀서
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	소설가
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/activeYearsStartYear	1965
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/activeYearsStartYear	1958
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/블루스
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/피아노
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/피아노_연주자
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/birthDate	1937-02-08
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작사가
+http://ko.dbpedia.org/resource/조_래포소	http://ko.dbpedia.org/property/본명	조지프 길럼 래포소
+http://ko.dbpedia.org/resource/조_래포소	http://ko.dbpedia.org/property/본명	Joseph Guilherme Raposo
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/남자_가수
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/영화_음악_작곡가
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/영화
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/소설가
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	영화지휘감독
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/영화_음악
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/재즈
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/기자
+http://ko.dbpedia.org/resource/조_래포소	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/코통_스포르_FC_드_가루아	http://ko.dbpedia.org/property/구단주	피에르 카프테네
+http://ko.dbpedia.org/resource/코통_스포르_FC_드_가루아	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/카메룬_프리미어리그
+http://ko.dbpedia.org/resource/코통_스포르_FC_드_가루아	http://dbpedia.org/ontology/foundingYear	1986
+http://ko.dbpedia.org/resource/코통_스포르_FC_드_가루아	http://ko.dbpedia.org/property/감독	알렌 웜블레옹 구에두
+http://ko.dbpedia.org/resource/코통_스포르_FC_드_가루아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/가루아

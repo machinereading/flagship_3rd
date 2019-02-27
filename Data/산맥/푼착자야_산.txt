@@ -1,0 +1,4 @@
+http://ko.dbpedia.org/resource/푼착자야_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/인도네시아
+http://ko.dbpedia.org/resource/푼착자야_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/하인리히_하러
+http://ko.dbpedia.org/resource/푼착자야_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/마오케_산맥
+http://ko.dbpedia.org/resource/푼착자야_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/파푸아_주

@@ -1,0 +1,3 @@
+http://ko.dbpedia.org/resource/킬리만자로_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/킬리만자로_주
+http://ko.dbpedia.org/resource/킬리만자로_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/1889년
+http://ko.dbpedia.org/resource/킬리만자로_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/탄자니아

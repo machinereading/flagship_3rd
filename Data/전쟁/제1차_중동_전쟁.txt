@@ -1,0 +1,29 @@
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	다비드 샬티엘
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	야고보 도리
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	이세르 비에리
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/장소	이스라엘
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	이갈 앨런
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/날짜	1948
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	이스라엘 갈릴리
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	모세 다얀
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/결과	이스라엘의 승리와 독립
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/교전국	수단
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/교전국	이집트 왕국
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/교전국	예멘 왕국
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/교전국	----
+지원국
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	이츠하크 푼다크
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	존 베것 글러브
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	시몬 아비던
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	하비스 알-마야리
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	노르만 래쉬
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	하임 바이츠만
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	이가엘 야딘
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/지휘관	다비드 벤구리온
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/교전국	*  트란스요르단
+* 
+* 
+* 
+*
+http://ko.dbpedia.org/resource/제1차_중동_전쟁	http://ko.dbpedia.org/property/교전국	무슬림 형제단

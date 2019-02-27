@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/레알_모나크스_SLC	http://ko.dbpedia.org/property/구단주	델 로이 한센
+http://ko.dbpedia.org/resource/레알_모나크스_SLC	http://dbpedia.org/ontology/foundingYear	2014
+http://ko.dbpedia.org/resource/레알_모나크스_SLC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/유나이티드_사커_리그
+http://ko.dbpedia.org/resource/레알_모나크스_SLC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/리오_틴토_스타디움
+http://ko.dbpedia.org/resource/레알_모나크스_SLC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/유타_주
+http://ko.dbpedia.org/resource/레알_모나크스_SLC	http://ko.dbpedia.org/property/감독	프레디 후아레즈

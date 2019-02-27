@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/스즈키_소노코	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼
+http://ko.dbpedia.org/resource/스즈키_소노코	http://dbpedia.org/ontology/gender	여
+http://ko.dbpedia.org/resource/스즈키_소노코	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
+http://ko.dbpedia.org/resource/스즈키_소노코	http://dbpedia.org/ontology/firstAppearance	6
+http://ko.dbpedia.org/resource/스즈키_소노코	http://dbpedia.org/ontology/occupation	고등학생

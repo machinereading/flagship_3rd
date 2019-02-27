@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/역명	니시아가노
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/아가노_역
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/노선	세이부 철도 ■ 세이부 지치부 선
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/소재지	사이타마 현 한노 시
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/개업일	1969
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/쇼마루_역
+http://ko.dbpedia.org/resource/니시아가노_역	http://ko.dbpedia.org/property/전역	아가노

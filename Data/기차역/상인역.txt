@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/전역	119
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/월배역
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/개업일	1997
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/대구_도시철도_1호선
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/소재지	대구광역시 달서구 월배로 지하223
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/역명	상인
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/후역	121
+http://ko.dbpedia.org/resource/상인역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/월촌역

@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/birthDate	1993-09-16
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/사업가
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악_프로듀서
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/베이스_기타
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/occupation	*
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/FL_스튜디오
+http://ko.dbpedia.org/resource/메트로_붐인	http://ko.dbpedia.org/property/본명	Leland Wayne
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/프로_툴스
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미주리_주
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/디스크_자키
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/instrument	*
+http://ko.dbpedia.org/resource/메트로_붐인	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비

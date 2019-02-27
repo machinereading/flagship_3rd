@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/activeYearsStartYear	2003
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일본
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/나고야_시
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/activeYearsStartYear	2003
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/영화배우
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/birthDate	1984-10-07
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아이치_현
+http://ko.dbpedia.org/resource/카토_카즈키	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악

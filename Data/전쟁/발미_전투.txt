@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/교전국	23
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/날짜	1792
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/사상자	사상자 184명
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/사상자	사상자 300명
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/마른_주
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/지휘관	23
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/샹파뉴아르덴
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/부르봉_왕조
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/프랑스_제1공화국
+http://ko.dbpedia.org/resource/발미_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/발미

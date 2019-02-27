@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/대원대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/용
+http://ko.dbpedia.org/resource/대원대학교	http://ko.dbpedia.org/property/총장	http://ko.dbpedia.org/resource/이원탁
+http://ko.dbpedia.org/resource/대원대학교	http://ko.dbpedia.org/property/표어	진리·자주·봉사
+http://ko.dbpedia.org/resource/대원대학교	http://dbpedia.org/ontology/mascot	용
+http://ko.dbpedia.org/resource/대원대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/대원대학교	http://ko.dbpedia.org/property/설립	1994

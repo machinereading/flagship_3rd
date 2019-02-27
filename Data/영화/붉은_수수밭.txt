@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/전쟁
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/언어	관화
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/시간	95
+http://ko.dbpedia.org/resource/붉은_수수밭	http://dbpedia.org/ontology/country	중국
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/드라마
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/개봉	1989
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/개봉	1987
+http://ko.dbpedia.org/resource/붉은_수수밭	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/장이머우

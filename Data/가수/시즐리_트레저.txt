@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로니카
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/activeYearsStartYear	2002
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/activeYearsStartYear	2002
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/베이스_기타
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/롱비치_(캘리포니아_주)
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/전자_키보드
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악
+http://ko.dbpedia.org/resource/시즐리_트레저	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국

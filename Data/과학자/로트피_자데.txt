@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/퍼지_논리
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/인공지능
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/Z변환
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/퍼지_집합
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/ACM
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/미국_예술_과학_아카데미
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/전기_전자_기술자_협회
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/전기공학
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/전미인공지능학회
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/컴퓨터_과학자
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/바쿠
+http://ko.dbpedia.org/resource/로트피_자데	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/수학자

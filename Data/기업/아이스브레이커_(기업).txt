@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/아이스브레이커_(기업)	http://ko.dbpedia.org/property/산업	아웃도어 용품 판매
+http://ko.dbpedia.org/resource/아이스브레이커_(기업)	http://dbpedia.org/ontology/foundingYear	1994
+http://ko.dbpedia.org/resource/아이스브레이커_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/오클랜드
+http://ko.dbpedia.org/resource/아이스브레이커_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/옷
+http://ko.dbpedia.org/resource/아이스브레이커_(기업)	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/제레미_문
+http://ko.dbpedia.org/resource/아이스브레이커_(기업)	http://ko.dbpedia.org/property/제품	등산화, 배낭 등

@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/게임포지_AG	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/비디오_게임
+http://ko.dbpedia.org/resource/게임포지_AG	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/이카리암
+http://ko.dbpedia.org/resource/게임포지_AG	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/카를스루에
+http://ko.dbpedia.org/resource/게임포지_AG	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/오게임
+http://ko.dbpedia.org/resource/게임포지_AG	http://dbpedia.org/ontology/foundingYear	2003
+http://ko.dbpedia.org/resource/게임포지_AG	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/바이트파이트
+http://ko.dbpedia.org/resource/게임포지_AG	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/독일
+http://ko.dbpedia.org/resource/게임포지_AG	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임

@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/역명	미카와미야
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/노선	■ 도카이도 본선
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이도_본선
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/도요하시_역
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/미카와오쓰카_역
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/가마고리_역
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/개업일	1929
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/소재지	아이치 현 가마고리 시
+http://ko.dbpedia.org/resource/미카와미야_역	http://ko.dbpedia.org/property/소재지	미야초 우에노 13

@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/1988년_동계_올림픽	http://dbpedia.org/ontology/motto	느낄 수 있니?
+http://ko.dbpedia.org/resource/1988년_동계_올림픽	http://ko.dbpedia.org/property/참가국	57
+http://ko.dbpedia.org/resource/1988년_동계_올림픽	http://ko.dbpedia.org/property/참가선수	1423
+http://ko.dbpedia.org/resource/1988년_동계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/캘거리
+http://ko.dbpedia.org/resource/1988년_동계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/잔_마틸드_소베

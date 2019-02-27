@@ -1,0 +1,41 @@
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	무라카미 케사쿠
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	도조 히데키
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	오이카와 고시로
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	나가노 오사미
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	니시바키 소키치
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	야마모토 이소로쿠
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	우메즈 요시지로
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	야마다 오토조
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	히로히토
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	스기야마 하지메
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/교전국	( )
+
+
+
+ 프랑스 임시 정부
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/일본_열도
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	더글라스 맥아더
+ 커티스 르메이
+ 체스터 니미츠
+ 홀랜드 스미스
+ 사이먼 B. 버크너 †
+ 조지프 스틸웰
+ 레이먼드 A. 스프루언스
+ 윌리엄 홀시 주니어
+ 마크 밋처
+ 로버트 아이첼버거
+ 어니스트 킹
+ 루이스 마운트배튼
+ 버나드 롤링스
+ 브루스 프레이저
+ 알렉산드르 바실렙스키
+ 이반 유마셰프
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/날짜	1942
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/태평양
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	도고 시게노리
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	....
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/지휘관	시마다 시게타로
+http://ko.dbpedia.org/resource/일본_전역	http://ko.dbpedia.org/property/결과	연합군의 승리
+* 오키나와에 미 군정이 들어섬
+* 소련의 쿠릴 열도 및 사할린 병합
+* 일본의 항복으로 몰락 작전 폐지

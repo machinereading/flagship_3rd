@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://dbpedia.org/ontology/country	인도
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://dbpedia.org/ontology/country	방글라데시
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://dbpedia.org/ontology/country	중국
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/티베트
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://dbpedia.org/ontology/length	2896
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://ko.dbpedia.org/property/발원지	지마양쫑 빙하
+http://ko.dbpedia.org/resource/브라마푸트라_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/갠지스_삼각주

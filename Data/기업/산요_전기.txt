@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/산요_전기	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/반도체
+http://ko.dbpedia.org/resource/산요_전기	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/휴대_전화
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/모리구치_시
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/모리구치
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/전자공학
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/일렉트로닉스
+http://ko.dbpedia.org/resource/산요_전기	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/전지
+http://ko.dbpedia.org/resource/산요_전기	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/전자공학
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/foundingYear	1950
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/오사카
+http://ko.dbpedia.org/resource/산요_전기	http://ko.dbpedia.org/property/창립자	이우에 토시오
+http://ko.dbpedia.org/resource/산요_전기	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/전자_제품
+http://ko.dbpedia.org/resource/산요_전기	http://dbpedia.org/ontology/foundingYear	1947

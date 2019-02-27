@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/작센의_프리드리히_아우구스트_1세
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/foundingYear	1806
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/작센_찬가
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/country	작센
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/드레스덴
+http://ko.dbpedia.org/resource/작센_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/작센의_프리드리히_아우구스트_3세

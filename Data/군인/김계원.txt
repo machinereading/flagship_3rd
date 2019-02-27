@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/경상북도
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/군인
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/외교관
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/영주시
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/김계원	http://ko.dbpedia.org/property/기타이력	원효실업 명예회장
+http://ko.dbpedia.org/resource/김계원	http://ko.dbpedia.org/property/최종계급	40
+http://ko.dbpedia.org/resource/김계원	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/한국_전쟁
+http://ko.dbpedia.org/resource/김계원	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/대한민국의_국가정보원장
+http://ko.dbpedia.org/resource/김계원	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/김계원	http://ko.dbpedia.org/property/기타이력	원효실업 회장
+http://ko.dbpedia.org/resource/김계원	http://ko.dbpedia.org/property/기타이력	대통령 비서실 실장

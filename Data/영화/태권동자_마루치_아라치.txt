@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/히어로
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/무협
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/액션
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/등급	연소자 관람가
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/시간	76
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/임정규
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/개봉	1977
+http://ko.dbpedia.org/resource/태권동자_마루치_아라치	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어

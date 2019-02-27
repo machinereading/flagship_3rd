@@ -1,0 +1,19 @@
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/던레러
+http://ko.dbpedia.org/resource/밥_겔도프	http://ko.dbpedia.org/property/본명	로버트 프레더릭 제논 겔도프
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/더블린_주
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/사회_운동
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/하모니카
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/birthDate	1951-10-05
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악가
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작가
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/박애주의
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아일랜드
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/디스크_자키
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/activeYearsStartYear	1975
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/activeYearsStartYear	1975
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/활동주의
+http://ko.dbpedia.org/resource/밥_겔도프	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악

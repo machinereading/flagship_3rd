@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/닛토덴코	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/액정_디스플레이
+http://ko.dbpedia.org/resource/닛토덴코	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/제조업
+http://ko.dbpedia.org/resource/닛토덴코	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/의약품
+http://ko.dbpedia.org/resource/닛토덴코	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/오사카_부
+http://ko.dbpedia.org/resource/닛토덴코	http://dbpedia.org/ontology/foundingYear	1918
+http://ko.dbpedia.org/resource/닛토덴코	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/제조업

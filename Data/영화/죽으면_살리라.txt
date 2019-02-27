@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/죽으면_살리라	http://ko.dbpedia.org/property/시간	100
+http://ko.dbpedia.org/resource/죽으면_살리라	http://ko.dbpedia.org/property/개봉	1982
+http://ko.dbpedia.org/resource/죽으면_살리라	http://ko.dbpedia.org/property/감독	강대진
+http://ko.dbpedia.org/resource/죽으면_살리라	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/죽으면_살리라	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/죽으면_살리라	http://ko.dbpedia.org/property/장르	드라마
+http://ko.dbpedia.org/resource/죽으면_살리라	http://ko.dbpedia.org/property/등급	전체관람가

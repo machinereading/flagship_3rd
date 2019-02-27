@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_긴자_선
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_(기업)
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/노선	도쿄 지하철 15px|G 긴자 선
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/소재지	도라노몬 1초메 1-21
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/소재지	도쿄 도 미나토 구
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/개업일	1938
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/후역	신바시 G 08
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/역명	도라노몬
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/후역	G08 신바시
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/전역	G06 다메이케산노
+http://ko.dbpedia.org/resource/도라노몬_역	http://ko.dbpedia.org/property/전역	G 06 다메이케산노

@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/미하일_안드레예비치_밀로라도비치
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/조제프_안토니_포니아토스키
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/미셸_네
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/사상자	8000
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/사상자	1800
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/뱌지마
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/결과	러시아의 승리
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/러시아
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/루이_니콜라_다부
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/날짜	1812
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/외젠_드_보아르네
+http://ko.dbpedia.org/resource/뱌지마_전투	http://ko.dbpedia.org/property/교전국	22

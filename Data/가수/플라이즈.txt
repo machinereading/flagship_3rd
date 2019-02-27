@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/birthDate	1976-07-01
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/포트마이어스
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/플로리다_주
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/랩_(음악)
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/랩퍼
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악가
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/activeYearsStartYear	2004
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/플라이즈	http://ko.dbpedia.org/property/본명	Algernod Lanier Washington
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/트랩_음악
+http://ko.dbpedia.org/resource/플라이즈	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악

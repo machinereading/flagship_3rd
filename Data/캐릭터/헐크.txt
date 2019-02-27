@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/헐크	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/스탠_리
+http://ko.dbpedia.org/resource/헐크	http://dbpedia.org/ontology/firstAppearance	헐크
+http://ko.dbpedia.org/resource/헐크	http://dbpedia.org/ontology/nationality	미국
+http://ko.dbpedia.org/resource/헐크	http://dbpedia.org/ontology/occupation	슈퍼히어로
+http://ko.dbpedia.org/resource/헐크	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/헐크	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/잭_커비

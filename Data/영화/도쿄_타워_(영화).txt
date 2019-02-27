@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/멜로
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/오카다_준이치
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/일본어
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/드라마
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/쿠로키_히토미
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/로맨스
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/개봉	2005
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/등급	청소년 관람불가
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/미나모토_타카시
+http://ko.dbpedia.org/resource/도쿄_타워_(영화)	http://ko.dbpedia.org/property/시간	125

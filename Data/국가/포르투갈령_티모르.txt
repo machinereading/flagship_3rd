@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/말레이어
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/foundingYear	1702
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/포르투갈어
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/딜리
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/capital	딜리
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/테툼어
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/안토니우_코엘류_구테헤스
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/프란시스쿠_다_코스타_고메스
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/country	포르투갈
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/마리우_레무스_피르스
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/마누엘_1세_(포르투갈)
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/식민지
+http://ko.dbpedia.org/resource/포르투갈령_티모르	http://dbpedia.org/ontology/leaderName	----

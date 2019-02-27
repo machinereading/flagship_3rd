@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/마리아_(하야테처럼!)	http://dbpedia.org/ontology/birthDate	1987
+http://ko.dbpedia.org/resource/마리아_(하야테처럼!)	http://dbpedia.org/ontology/occupation	메이드
+http://ko.dbpedia.org/resource/마리아_(하야테처럼!)	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
+http://ko.dbpedia.org/resource/마리아_(하야테처럼!)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/하타_켄지로
+http://ko.dbpedia.org/resource/마리아_(하야테처럼!)	http://dbpedia.org/ontology/gender	여
+http://ko.dbpedia.org/resource/마리아_(하야테처럼!)	http://dbpedia.org/ontology/firstAppearance	제2화

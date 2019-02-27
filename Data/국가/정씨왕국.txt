@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/중화민국
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/foundingYear	1661
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/타이난_시
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/타이난
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/정성공
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/정극상
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/country	중화민국
+http://ko.dbpedia.org/resource/정씨왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/정경

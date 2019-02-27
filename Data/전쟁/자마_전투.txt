@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/자마
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/고대_카르타고
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/카르타고
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/결과	로마 공화정의 승리
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/결과	제2차 포에니 전쟁의 종결
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/로마_공화정
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/누미디아
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/사상자	사망: 1500~4000
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/마시니사
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/사상자	부상: 3,000
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/날짜	http://ko.dbpedia.org/resource/기원전_202년
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/날짜	http://ko.dbpedia.org/resource/10월_19일
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/스키피오_아프리카누스
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/사상자	포로:10,000
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/한니발
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/사상자	부상:11,000
+http://ko.dbpedia.org/resource/자마_전투	http://ko.dbpedia.org/property/사상자	사망: 20,000

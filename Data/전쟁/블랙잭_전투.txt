@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/교전국	노예 제도 폐지론자 정착민
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/교전국	노예 제도 옹호론자 정착민
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/날짜	1856
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/결과	노예 제도 폐지론자들의 승리
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/더글라스_군
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/사상자	23
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/사상자	불명
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/캔자스_주
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/존_브라운
+http://ko.dbpedia.org/resource/블랙잭_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/헨리_C._페이트

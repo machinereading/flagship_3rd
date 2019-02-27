@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/시스
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/birthPlace	세레노
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/firstAppearance	《클론의 습격》 (2002년)
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루카스
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/gender	http://ko.dbpedia.org/resource/수컷
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/제다이
+http://ko.dbpedia.org/resource/두쿠_백작	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/백작

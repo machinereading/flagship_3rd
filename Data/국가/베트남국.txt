@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/임시_정부
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/foundingYear	1949
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/호찌민_시
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/바오다이
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/베트남_공화국의_국가
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/베트남
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/베트남어
+http://ko.dbpedia.org/resource/베트남국	http://dbpedia.org/ontology/country	베트남

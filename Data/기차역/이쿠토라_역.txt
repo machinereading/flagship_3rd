@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/역명	이쿠토라
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/소재지	홋카이도 소라치 군 미나미후라노 정 아자 이쿠토라
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/개업일	1902
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/후역	오치아이 T37
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/노선	홋카이도 여객철도 네무로 본선
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/전역	T35 히가시시카고에
+http://ko.dbpedia.org/resource/이쿠토라_역	http://ko.dbpedia.org/property/노선	■ 네무로 본선

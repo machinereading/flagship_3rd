@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/컨버스	http://ko.dbpedia.org/property/산업	스포츠웨어
+http://ko.dbpedia.org/resource/컨버스	http://ko.dbpedia.org/property/제품	신발, 의류, 액세서리 등
+http://ko.dbpedia.org/resource/컨버스	http://ko.dbpedia.org/property/창립자	마르키스 컨버스
+http://ko.dbpedia.org/resource/컨버스	http://dbpedia.org/ontology/industry	스포츠웨어
+http://ko.dbpedia.org/resource/컨버스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/장신구
+http://ko.dbpedia.org/resource/컨버스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/매사추세츠_주
+http://ko.dbpedia.org/resource/컨버스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/보스턴
+http://ko.dbpedia.org/resource/컨버스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미국

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/레벨파이브
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://dbpedia.org/ontology/foundingYear	1982
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/하카타_구
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/J1리그
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/J리그_디비전_1
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://ko.dbpedia.org/property/구단주	쓰즈쿠 코
+http://ko.dbpedia.org/resource/아비스파_후쿠오카	http://ko.dbpedia.org/property/감독	이하라 마사미

@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/사상자	사망 및 부상 3,000명~6,000명
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/사상자	포로 9,000명~12,000명,
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/사상자	사망 및 부상 4,600명~8,000명,
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/날짜	1800
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/사상자	대포 손실 76문~100문
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/교전국	23
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/지휘관	모로 장군
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/뮌헨
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/결과	프랑스의 승리
+http://ko.dbpedia.org/resource/호엔린덴_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/독일

@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/소재지	대구광역시 남구 대명로 지하71
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/개업일	1997
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/대구_도시철도_1호선
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/후역	125
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/안지랑역
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/역명	대명
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/전역	123
+http://ko.dbpedia.org/resource/대명역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/성당못역

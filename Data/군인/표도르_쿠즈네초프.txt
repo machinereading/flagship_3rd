@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/표도르_쿠즈네초프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/소비에트_연방
+http://ko.dbpedia.org/resource/표도르_쿠즈네초프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/마힐료우_주
+http://ko.dbpedia.org/resource/표도르_쿠즈네초프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/동부_전선_(제2차_세계_대전)
+http://ko.dbpedia.org/resource/표도르_쿠즈네초프	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/소비에트_연방
+http://ko.dbpedia.org/resource/표도르_쿠즈네초프	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/파일:CCCP_army_Rank_general-polkovnik_infobox.svg
+http://ko.dbpedia.org/resource/표도르_쿠즈네초프	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/소비에트_연방

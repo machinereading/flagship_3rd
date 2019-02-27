@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/아이슬란드_왕국	http://dbpedia.org/ontology/country	아이슬란드
+http://ko.dbpedia.org/resource/아이슬란드_왕국	http://dbpedia.org/ontology/foundingYear	1918
+http://ko.dbpedia.org/resource/아이슬란드_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/레이캬비크
+http://ko.dbpedia.org/resource/아이슬란드_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아이슬란드어
+http://ko.dbpedia.org/resource/아이슬란드_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/크리스티안_10세
+http://ko.dbpedia.org/resource/아이슬란드_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제

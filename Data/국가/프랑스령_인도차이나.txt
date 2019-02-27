@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/프랑스의_국가
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/크메르어
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/인도차이나_반도
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/사이공
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/달랏
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라오스어
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/프랑스_식민제국
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/foundingYear	1887
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/하노이
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/베트남어
+http://ko.dbpedia.org/resource/프랑스령_인도차이나	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/호찌민_시

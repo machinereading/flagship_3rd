@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/수도고속도로	http://ko.dbpedia.org/property/산업	서비스업
+http://ko.dbpedia.org/resource/수도고속도로	http://dbpedia.org/ontology/foundingYear	2005
+http://ko.dbpedia.org/resource/수도고속도로	http://ko.dbpedia.org/property/제품	고속도로, 자동차 전용도로의 관리 운영
+http://ko.dbpedia.org/resource/수도고속도로	http://dbpedia.org/ontology/industry	서비스업
+http://ko.dbpedia.org/resource/수도고속도로	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/도쿄_도
+http://ko.dbpedia.org/resource/수도고속도로	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/일본

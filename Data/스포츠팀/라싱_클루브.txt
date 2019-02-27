@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/라싱_클루브	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아베야네다
+http://ko.dbpedia.org/resource/라싱_클루브	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/에스타디오_프레시덴테_페론
+http://ko.dbpedia.org/resource/라싱_클루브	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/그란_부에노스아이레스
+http://ko.dbpedia.org/resource/라싱_클루브	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아르헨티나
+http://ko.dbpedia.org/resource/라싱_클루브	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온
+http://ko.dbpedia.org/resource/라싱_클루브	http://dbpedia.org/ontology/foundingYear	1903
+http://ko.dbpedia.org/resource/라싱_클루브	http://ko.dbpedia.org/property/감독	미겔 미코
+http://ko.dbpedia.org/resource/라싱_클루브	http://ko.dbpedia.org/property/구단주	페르난도 데 토마소

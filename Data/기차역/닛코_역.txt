@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/역명	닛코
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/닛코_선
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/개업일	1890
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/노선	■ 닛코 선
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/이마이치_역
+http://ko.dbpedia.org/resource/닛코_역	http://ko.dbpedia.org/property/소재지	도치기 현 닛코 시

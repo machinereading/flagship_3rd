@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/소울_커넥션	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/음악
+http://ko.dbpedia.org/resource/소울_커넥션	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/레코드_레이블
+http://ko.dbpedia.org/resource/소울_커넥션	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/소울_커넥션	http://ko.dbpedia.org/property/창립자	CSP, 외 5인
+http://ko.dbpedia.org/resource/소울_커넥션	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/레코드_레이블
+http://ko.dbpedia.org/resource/소울_커넥션	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/음악
+http://ko.dbpedia.org/resource/소울_커넥션	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/양재동
+http://ko.dbpedia.org/resource/소울_커넥션	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/레코드_레이블
+http://ko.dbpedia.org/resource/소울_커넥션	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/음악

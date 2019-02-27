@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/소울맨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소울_음악
+http://ko.dbpedia.org/resource/소울맨	http://dbpedia.org/ontology/activeYearsStartYear	2003
+http://ko.dbpedia.org/resource/소울맨	http://ko.dbpedia.org/property/본명	강태우
+http://ko.dbpedia.org/resource/소울맨	http://ko.dbpedia.org/property/소속사	인플래닛
+http://ko.dbpedia.org/resource/소울맨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/R&B
+http://ko.dbpedia.org/resource/소울맨	http://dbpedia.org/ontology/instrument	보컬
+http://ko.dbpedia.org/resource/소울맨	http://dbpedia.org/ontology/occupation	가수

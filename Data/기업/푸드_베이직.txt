@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/푸드_베이직	http://ko.dbpedia.org/property/산업	유통업
+http://ko.dbpedia.org/resource/푸드_베이직	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주
+http://ko.dbpedia.org/resource/푸드_베이직	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/토론토
+http://ko.dbpedia.org/resource/푸드_베이직	http://dbpedia.org/ontology/industry	유통업
+http://ko.dbpedia.org/resource/푸드_베이직	http://dbpedia.org/ontology/foundingYear	1995
+http://ko.dbpedia.org/resource/푸드_베이직	http://ko.dbpedia.org/property/제품	식료품, 의류, 약국, 가정용품 등
+http://ko.dbpedia.org/resource/푸드_베이직	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소매_(상업)

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/마카오
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/foundingYear	1577
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/왕령식민지
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/foundingYear	1557
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/country	마카오
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/포르투갈의_노래
+http://ko.dbpedia.org/resource/포르투갈령_마카오	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/포르투갈어

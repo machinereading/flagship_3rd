@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/정흔	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/조선
+http://ko.dbpedia.org/resource/정흔	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/연천군
+http://ko.dbpedia.org/resource/정흔	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/정유재란
+http://ko.dbpedia.org/resource/정흔	http://ko.dbpedia.org/property/최종계급	보국숭록대부 행 호위대장
+http://ko.dbpedia.org/resource/정흔	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/경기도
+http://ko.dbpedia.org/resource/정흔	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/조선
+http://ko.dbpedia.org/resource/정흔	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/조선

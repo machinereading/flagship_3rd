@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/히우그란지_공화국	http://dbpedia.org/ontology/foundingYear	1836
+http://ko.dbpedia.org/resource/히우그란지_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/포르투갈어
+http://ko.dbpedia.org/resource/히우그란지_공화국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/벤투_곤살베스_다_실바
+http://ko.dbpedia.org/resource/히우그란지_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화국
+http://ko.dbpedia.org/resource/히우그란지_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/대통령제
+http://ko.dbpedia.org/resource/히우그란지_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/피라티니

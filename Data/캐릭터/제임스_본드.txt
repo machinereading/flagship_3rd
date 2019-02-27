@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/제임스_본드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/첩보
+http://ko.dbpedia.org/resource/제임스_본드	http://dbpedia.org/ontology/birthDate	1922
+http://ko.dbpedia.org/resource/제임스_본드	http://dbpedia.org/ontology/firstAppearance	《카지노 로얄》(1952년)
+http://ko.dbpedia.org/resource/제임스_본드	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/이언_플레밍
+http://ko.dbpedia.org/resource/제임스_본드	http://dbpedia.org/ontology/gender	http://ko.dbpedia.org/resource/남자
+http://ko.dbpedia.org/resource/제임스_본드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/군인

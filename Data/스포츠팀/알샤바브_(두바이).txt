@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://ko.dbpedia.org/property/구단주	H.H 셰이크 사이드 알막툼
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/알막툼_경기장
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/두바이
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/UAE_아라비안_걸프_리그
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/UAE_1부_리그
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://ko.dbpedia.org/property/감독	카이우 주니오르
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://dbpedia.org/ontology/foundingYear	1958
+http://ko.dbpedia.org/resource/알샤바브_(두바이)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아랍에미리트

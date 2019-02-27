@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/홋카이도_여객철도
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/개업일	1935
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/노선	■ 삿쇼 선
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/쓰키가오카_역
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/모토나카고야_역
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/역명	나카고야
+http://ko.dbpedia.org/resource/나카고야_역	http://ko.dbpedia.org/property/소재지	홋카이도 이시카리 군 도베쓰 정

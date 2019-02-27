@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/조선
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/운현궁
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/한성부
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://ko.dbpedia.org/property/최종계급	육군 참장
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한제국
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/육군
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한제국
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/birthDate	1870-06-25
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://ko.dbpedia.org/property/기타이력	형조참의, 승정원도승지, 성균관대사성,  보국숭록대부, 상보국숭록대부, 공
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/birthDate	1870
+http://ko.dbpedia.org/resource/이준용_(1870년)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/군인

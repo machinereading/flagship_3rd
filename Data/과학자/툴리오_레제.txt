@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/툴리오_레제	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/대니_하이너먼_수리물리학상
+http://ko.dbpedia.org/resource/툴리오_레제	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/이론물리학
+http://ko.dbpedia.org/resource/툴리오_레제	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/레제_이론
+http://ko.dbpedia.org/resource/툴리오_레제	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/이탈리아
+http://ko.dbpedia.org/resource/툴리오_레제	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학

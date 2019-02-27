@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/모컴_FC	http://ko.dbpedia.org/property/감독	짐 벤틀리
+http://ko.dbpedia.org/resource/모컴_FC	http://dbpedia.org/ontology/foundingYear	1920
+http://ko.dbpedia.org/resource/모컴_FC	http://ko.dbpedia.org/property/구단주	피터 맥기건
+http://ko.dbpedia.org/resource/모컴_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/잉글랜드
+http://ko.dbpedia.org/resource/모컴_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/풋볼_리그_2
+http://ko.dbpedia.org/resource/모컴_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/글로브_어리나

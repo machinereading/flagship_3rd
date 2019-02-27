@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/현대미포조선	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/동구_(울산광역시)
+http://ko.dbpedia.org/resource/현대미포조선	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/조선업
+http://ko.dbpedia.org/resource/현대미포조선	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/울산광역시
+http://ko.dbpedia.org/resource/현대미포조선	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/정주영
+http://ko.dbpedia.org/resource/현대미포조선	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/선박
+http://ko.dbpedia.org/resource/현대미포조선	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/조선_(산업)
+http://ko.dbpedia.org/resource/현대미포조선	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/조선업
+http://ko.dbpedia.org/resource/현대미포조선	http://dbpedia.org/ontology/foundingYear	1975

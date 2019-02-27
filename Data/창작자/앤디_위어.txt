@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/데이비스_(캘리포니아_주)
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/notableWork	《마션》
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/굿리즈
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/마션
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/과학_소설
+http://ko.dbpedia.org/resource/앤디_위어	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/캘리포니아_대학교_샌디에이고

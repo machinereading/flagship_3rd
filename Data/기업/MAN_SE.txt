@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/MAN_SE	http://dbpedia.org/ontology/foundingYear	1758
+http://ko.dbpedia.org/resource/MAN_SE	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/선박공학
+http://ko.dbpedia.org/resource/MAN_SE	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/제조업
+http://ko.dbpedia.org/resource/MAN_SE	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/디젤_엔진
+http://ko.dbpedia.org/resource/MAN_SE	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뮌헨
+http://ko.dbpedia.org/resource/MAN_SE	http://ko.dbpedia.org/property/산업	운송산업 및 제조업
+http://ko.dbpedia.org/resource/MAN_SE	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/아우크스부르크
+http://ko.dbpedia.org/resource/MAN_SE	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/독일
+http://ko.dbpedia.org/resource/MAN_SE	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/기계
+http://ko.dbpedia.org/resource/MAN_SE	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/트럭
+http://ko.dbpedia.org/resource/MAN_SE	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/터보
+http://ko.dbpedia.org/resource/MAN_SE	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/버스

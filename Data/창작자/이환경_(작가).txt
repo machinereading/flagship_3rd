@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/태조_왕건_(드라마)
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/야인시대
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/인천주안초등학교
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소설
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/사극
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/religion	http://ko.dbpedia.org/resource/개신교
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/인천광역시
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/영화_각본
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/award	1983
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/용의_눈물
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/award	2001
+http://ko.dbpedia.org/resource/이환경_(작가)	http://dbpedia.org/ontology/award	1998

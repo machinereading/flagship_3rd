@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/칼초_파도바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디오_에우가네오
+http://ko.dbpedia.org/resource/칼초_파도바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/파도바
+http://ko.dbpedia.org/resource/칼초_파도바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/레가_프로
+http://ko.dbpedia.org/resource/칼초_파도바	http://ko.dbpedia.org/property/구단주	마르첼로 체스타로
+http://ko.dbpedia.org/resource/칼초_파도바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이탈리아
+http://ko.dbpedia.org/resource/칼초_파도바	http://ko.dbpedia.org/property/감독	알레산드로 달 칸토
+http://ko.dbpedia.org/resource/칼초_파도바	http://dbpedia.org/ontology/foundingYear	1910
+http://ko.dbpedia.org/resource/칼초_파도바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세리에_B

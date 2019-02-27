@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://dbpedia.org/ontology/foundingYear	1995
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/전기_통신
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/전기_통신
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://dbpedia.org/ontology/foundingYear	1996
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://ko.dbpedia.org/property/제품	유선 전화, 이동통신, ISP, IPTV
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/본_(독일)
+http://ko.dbpedia.org/resource/도이체_텔레콤	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/독일

@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/개업일	1933
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/역명	우젠치토세
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/오우_본선
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다테야마_역_(야마가타)
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/센잔_선
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/기타야마가타_역
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/야마데라_역
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다테야마_역_(야마가타_현)
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/미나미데와_역
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/노선	■ 오우 본선
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/소재지	야마가타 현 야마가타 시
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/우젠치토세_역	http://ko.dbpedia.org/property/노선	■ 센잔 선

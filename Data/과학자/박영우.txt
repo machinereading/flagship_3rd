@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/대학_교수
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/과학자
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/야곱&마르쿠스_발렌베리_형제_기념_재단
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/전기전도도
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/물리학자
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/물리학
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/자기저항
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/한국물리학회_학술상
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/미국물리학회_펠로우
+http://ko.dbpedia.org/resource/박영우	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/한국과학상

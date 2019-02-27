@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/히라이시_역	http://ko.dbpedia.org/property/개업일	1963
+http://ko.dbpedia.org/resource/히라이시_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/고마쓰카와_역
+http://ko.dbpedia.org/resource/히라이시_역	http://ko.dbpedia.org/property/소재지	아키타 현 요코테 시
+http://ko.dbpedia.org/resource/히라이시_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/아이노노_역
+http://ko.dbpedia.org/resource/히라이시_역	http://ko.dbpedia.org/property/노선	■ 기타카미 선
+http://ko.dbpedia.org/resource/히라이시_역	http://ko.dbpedia.org/property/역명	히라이시

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/팰퍼틴	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루카스
+http://ko.dbpedia.org/resource/팰퍼틴	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/황제
+http://ko.dbpedia.org/resource/팰퍼틴	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/나부_(스타워즈)
+http://ko.dbpedia.org/resource/팰퍼틴	http://dbpedia.org/ontology/firstAppearance	《제국의 역습》 (1980년)
+http://ko.dbpedia.org/resource/팰퍼틴	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/팰퍼틴	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/나부_(스타워즈)

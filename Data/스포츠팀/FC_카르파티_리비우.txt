@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/FC_카르파티_리비우	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/우크라이나_프리미어리그
+http://ko.dbpedia.org/resource/FC_카르파티_리비우	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/우크라이나
+http://ko.dbpedia.org/resource/FC_카르파티_리비우	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아레나_리비우
+http://ko.dbpedia.org/resource/FC_카르파티_리비우	http://dbpedia.org/ontology/foundingYear	1963
+http://ko.dbpedia.org/resource/FC_카르파티_리비우	http://ko.dbpedia.org/property/감독	Aleh Konanaw
+http://ko.dbpedia.org/resource/FC_카르파티_리비우	http://ko.dbpedia.org/property/구단주	Petro Dyminsky

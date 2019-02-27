@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공국
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/foundingYear	0907
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이존욱
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/country	진
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/태원
+http://ko.dbpedia.org/resource/진_(오대_십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이극용

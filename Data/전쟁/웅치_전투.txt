@@ -1,0 +1,23 @@
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/사상자	http://ko.dbpedia.org/resource/정담
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/사상자	모름
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/일본
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/장소	전라도 전주부와 진안군 경계 웅치
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/사상자	http://ko.dbpedia.org/resource/박형길
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/날짜	1592
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/교전국	center|65px조선
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/교전국	center|65px도요토미 정권
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/사상자	http://ko.dbpedia.org/resource/강운
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	이복남
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	이광
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	방정영
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	정담†
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/고바야카와_다카카게
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	이정란
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/권율
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	강운†
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	이봉
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	안코쿠지 에케이
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	박형길†
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	황박
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	박석
+http://ko.dbpedia.org/resource/웅치_전투	http://ko.dbpedia.org/property/지휘관	변응정

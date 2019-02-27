@@ -1,0 +1,28 @@
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	멤논
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	로이사케스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/아케메네스_제국
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/장소	터키의 그라니코스 강
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	파르나케스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	미트리다테스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	아르시테스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	오마레스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/사상자	1150
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/사상자	2000
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/사상자	300
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/사상자	1000
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/고대_그리스
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/마케도니아_왕국
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/사상자	3000
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/결과	알렉산드로스의 소아시아 제압.
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/파르메니온
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/클레이토스
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/마케도니아_왕국
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/아르사메스
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/날짜	기원전 334년 5월
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/알렉산드로스_대왕
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	스피토리다테스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	페티네스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	아르브파레스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	미트로바르자네스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	니파테스†
+http://ko.dbpedia.org/resource/그라니코스_전투	http://ko.dbpedia.org/property/지휘관	레오미트레스

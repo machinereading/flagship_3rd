@@ -1,0 +1,21 @@
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/activeYearsStartYear	2004
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/birthDate	1989-08-15
+http://ko.dbpedia.org/resource/조_조너스	http://ko.dbpedia.org/property/본명	Joseph Adam Jonas
+http://ko.dbpedia.org/resource/조_조너스	http://ko.dbpedia.org/property/본명	조지프 애덤 조너스
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/애리조나_주
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캐사그랜디
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴저지_주
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	싱어송라이터
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/어린이_배우
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/남자_가수
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/어린이_가수
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/텔레비전_배우
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_록
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/영화배우
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/조_조너스	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

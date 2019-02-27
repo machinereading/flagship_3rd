@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/밴쿠버
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://ko.dbpedia.org/property/제품	테스트 드라이브 1,2
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://dbpedia.org/ontology/foundingYear	1982
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://ko.dbpedia.org/property/창립자	돈 매트릭, 제프 셈버
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/게임_개발
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/게임_개발
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://ko.dbpedia.org/property/제품	4
+http://ko.dbpedia.org/resource/디스팅티브_소프트웨어	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/브리티시컬럼비아_주

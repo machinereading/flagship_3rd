@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/도조_역_(아이치_현)
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/노선	■ 이다 선
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/이다_선
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/개업일	1918
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/소재지	아이치 현 신시로 시
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신시로_역
+http://ko.dbpedia.org/resource/노다조_역	http://ko.dbpedia.org/property/역명	노다조

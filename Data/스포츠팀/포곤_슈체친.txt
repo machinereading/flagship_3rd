@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/포곤_슈체친	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디온_플로리안_크리기에르
+http://ko.dbpedia.org/resource/포곤_슈체친	http://ko.dbpedia.org/property/구단주	Jarosław Mroczek
+http://ko.dbpedia.org/resource/포곤_슈체친	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/슈체친
+http://ko.dbpedia.org/resource/포곤_슈체친	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/폴란드
+http://ko.dbpedia.org/resource/포곤_슈체친	http://ko.dbpedia.org/property/감독	Czesław Michniewicz
+http://ko.dbpedia.org/resource/포곤_슈체친	http://dbpedia.org/ontology/foundingYear	1948
+http://ko.dbpedia.org/resource/포곤_슈체친	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/엑스트라클라사

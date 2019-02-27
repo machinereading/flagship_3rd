@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/코토팍시_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/1872년
+http://ko.dbpedia.org/resource/코토팍시_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/안데스_산맥
+http://ko.dbpedia.org/resource/코토팍시_산	http://ko.dbpedia.org/property/위치	http://ko.dbpedia.org/resource/에콰도르
+http://ko.dbpedia.org/resource/코토팍시_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/피친차_주
+http://ko.dbpedia.org/resource/코토팍시_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/코토팍시_주
+http://ko.dbpedia.org/resource/코토팍시_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/에콰도르

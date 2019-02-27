@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/안티오키아_공국
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/알레포
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/다마스쿠스
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/아사신
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/사상자	상당한 피해를 입음
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/사상자	알 수 없음
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/안티오키아의_레몽
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/지휘관	알리 이븐 와파†
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/날짜	1149
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/다마스쿠스의_우누르
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/누르_앗_딘
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/시리아
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/이나브
+http://ko.dbpedia.org/resource/이나브_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/장기_왕조

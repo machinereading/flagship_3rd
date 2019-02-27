@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/오비완_케노비	http://dbpedia.org/ontology/firstAppearance	《스타워즈》 (1977년)
+http://ko.dbpedia.org/resource/오비완_케노비	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/오비완_케노비	http://dbpedia.org/ontology/birthPlace	스튜존
+http://ko.dbpedia.org/resource/오비완_케노비	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루카스
+http://ko.dbpedia.org/resource/오비완_케노비	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/제다이

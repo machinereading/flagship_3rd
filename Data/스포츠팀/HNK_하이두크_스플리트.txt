@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/HNK_하이두크_스플리트	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/크로아티아
+http://ko.dbpedia.org/resource/HNK_하이두크_스플리트	http://dbpedia.org/ontology/foundingYear	1911
+http://ko.dbpedia.org/resource/HNK_하이두크_스플리트	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프르바_HNL
+http://ko.dbpedia.org/resource/HNK_하이두크_스플리트	http://ko.dbpedia.org/property/구단주	마린 브르비치
+http://ko.dbpedia.org/resource/HNK_하이두크_스플리트	http://ko.dbpedia.org/property/감독	이고르 투도르
+http://ko.dbpedia.org/resource/HNK_하이두크_스플리트	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디온_폴류드

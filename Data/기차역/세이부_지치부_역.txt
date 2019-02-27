@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/노선	■ 세이부 지치부 선, 지치부 철도■ 지치부 본선
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/개업일	1969
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/가게모리_역
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/세이부_철도_세이부_지치부_선
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/노선	■ 세이부 지치부 선
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/역명	세이부 지치부
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/세이부_철도
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/소재지	사이타마 현 지치부 시
+http://ko.dbpedia.org/resource/세이부_지치부_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/요코제_역

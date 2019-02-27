@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/젤러스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주
+http://ko.dbpedia.org/resource/젤러스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캐나다
+http://ko.dbpedia.org/resource/젤러스	http://ko.dbpedia.org/property/산업	유통업
+http://ko.dbpedia.org/resource/젤러스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/브램튼
+http://ko.dbpedia.org/resource/젤러스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/브램턴
+http://ko.dbpedia.org/resource/젤러스	http://dbpedia.org/ontology/foundingYear	1931
+http://ko.dbpedia.org/resource/젤러스	http://dbpedia.org/ontology/industry	유통업
+http://ko.dbpedia.org/resource/젤러스	http://ko.dbpedia.org/property/제품	가전, 의류, 가구, 가정용품 등

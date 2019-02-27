@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신길역
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/후역	138
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/경부선
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/노량진역
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/개업일	1974
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/역명	대방
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/소재지	서울특별시 영등포구 여의대방로 300
+http://ko.dbpedia.org/resource/대방역	http://ko.dbpedia.org/property/전역	136

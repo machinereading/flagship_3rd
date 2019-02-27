@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/역명	혼고다이
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/소재지	가나가와 현 요코하마 시 사카에 구 고스가야 1초메 1-2
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/노선	■ 네기시 선
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 네기시 선
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/개업일	1973
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/오후나_역
+http://ko.dbpedia.org/resource/혼고다이_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/고난다이_역

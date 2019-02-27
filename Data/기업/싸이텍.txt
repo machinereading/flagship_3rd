@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/싸이텍	http://dbpedia.org/ontology/foundingYear	1973
+http://ko.dbpedia.org/resource/싸이텍	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/산업_자동화
+http://ko.dbpedia.org/resource/싸이텍	http://ko.dbpedia.org/property/제품	싸이텍 스카다, 앰플라, 히스토리안
+http://ko.dbpedia.org/resource/싸이텍	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/싸이텍	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/파리_(프랑스)
+http://ko.dbpedia.org/resource/싸이텍	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/산업_자동화
+http://ko.dbpedia.org/resource/싸이텍	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/파리_(도시)

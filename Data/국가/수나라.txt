@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/장안
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/시안_시
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/뤄양_시
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/foundingYear	0581
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/수_문제
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/수_양제
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/country	중국
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/중국의_역사
+http://ko.dbpedia.org/resource/수나라	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어

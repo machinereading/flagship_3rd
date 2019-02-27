@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/소재지	시즈오카 현 고텐바 시
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/미나미고텐바_역
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/고텐바_선
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/역명	고텐바
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/소재지	니하시 1898
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/노선	■ 고텐바 선
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/아시가라_역_(시즈오카_현)
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/고텐바_역	http://ko.dbpedia.org/property/개업일	1889

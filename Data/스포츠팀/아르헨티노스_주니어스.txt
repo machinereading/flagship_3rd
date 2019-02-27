@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/아르헨티노스_주니어스	http://ko.dbpedia.org/property/구단주	루이스 미겔 세구라
+http://ko.dbpedia.org/resource/아르헨티노스_주니어스	http://dbpedia.org/ontology/foundingYear	1904
+http://ko.dbpedia.org/resource/아르헨티노스_주니어스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아르헨티나
+http://ko.dbpedia.org/resource/아르헨티노스_주니어스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온
+http://ko.dbpedia.org/resource/아르헨티노스_주니어스	http://ko.dbpedia.org/property/감독	네스토르 고로시토
+http://ko.dbpedia.org/resource/아르헨티노스_주니어스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/에스타디오_디에고_아르만도_마라도나

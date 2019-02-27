@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/country	캐나다
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/동군연합
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/퀘벡
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/온타리오
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조지_4세
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조지_3세
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/foundingYear	1791
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/빅토리아_여왕
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/윌리엄_4세
+http://ko.dbpedia.org/resource/더_캐나다스	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/식민지

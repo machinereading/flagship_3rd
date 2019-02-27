@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/우주_검열_가설
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/시공간
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/펜로즈_쪽매맞춤
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/펜로즈의_계단
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/로열_메달
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/대니_하이너먼_수리물리학상
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/울프상
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/코플리_메달
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/쪽매맞춤
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/콜체스터
+http://ko.dbpedia.org/resource/로저_펜로즈	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수리물리학

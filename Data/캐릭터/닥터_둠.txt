@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/닥터_둠	http://dbpedia.org/ontology/firstAppearance	판타스틱 4#5 (1962년 7월)
+http://ko.dbpedia.org/resource/닥터_둠	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/지구
+http://ko.dbpedia.org/resource/닥터_둠	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/잭_커비
+http://ko.dbpedia.org/resource/닥터_둠	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/인간
+http://ko.dbpedia.org/resource/닥터_둠	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/스탠_리
+http://ko.dbpedia.org/resource/닥터_둠	http://dbpedia.org/ontology/gender	http://ko.dbpedia.org/resource/남자

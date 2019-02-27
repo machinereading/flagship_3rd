@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/모데나
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/foundingYear	1452
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/황제_찬가
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라틴어
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/보르소_데스테
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/알폰소_2세
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에르콜레_1세
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공국
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/알폰소_1세_데스테
+http://ko.dbpedia.org/resource/모데나_레조_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에르콜레_2세

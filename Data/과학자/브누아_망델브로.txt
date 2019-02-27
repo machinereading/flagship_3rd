@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/하비_상
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/레지옹_도뇌르_훈장
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/공기역학
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/혼돈_이론
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/망델브로_집합
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/폴란드
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/바르샤바
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/프랙털
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/울프_상
+http://ko.dbpedia.org/resource/브누아_망델브로	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/폴란드_제2공화국

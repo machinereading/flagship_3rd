@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도호쿠_본선
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/노선	■ 도호쿠 본선
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/시미즈하라_역
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/역명	하나이즈미
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/유시마_역_(이와테_현)
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/개업일	1890
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/소재지	이와테 현 이치노세키 시
+http://ko.dbpedia.org/resource/하나이즈미_역	http://ko.dbpedia.org/property/소재지	하나이즈미초 하나이즈미 아자 지다이라 17

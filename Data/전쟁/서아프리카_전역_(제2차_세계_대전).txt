@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	피엥르 프란수아 부아송
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	마르셀 테투
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프랑스령_서아프리카
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프랑스령_적도아프리카
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	앤드류 커닝엄
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	샤를 드 골
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/결과	• 프랑스령 서아프리카 : 비시 프랑스 승리
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/결과	• 프랑스령 적도아프리카 : 연합군 승리
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/교전국	자유 프랑스
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/교전국	비시 프랑스
+http://ko.dbpedia.org/resource/서아프리카_전역_(제2차_세계_대전)	http://ko.dbpedia.org/property/날짜	1940

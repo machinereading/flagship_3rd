@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/중앙아시아_아메리칸_대학교	http://ko.dbpedia.org/property/설립	1993
+http://ko.dbpedia.org/resource/중앙아시아_아메리칸_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/비슈케크
+http://ko.dbpedia.org/resource/중앙아시아_아메리칸_대학교	http://ko.dbpedia.org/property/총장	앤드루 워첼
+http://ko.dbpedia.org/resource/중앙아시아_아메리칸_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/키르기스스탄
+http://ko.dbpedia.org/resource/중앙아시아_아메리칸_대학교	http://dbpedia.org/ontology/mascot	파랑, 노랑
+http://ko.dbpedia.org/resource/중앙아시아_아메리칸_대학교	http://ko.dbpedia.org/property/표어	"Knowledge, Wisdom, Freedom"

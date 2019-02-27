@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/동부대우전자	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/복합기업
+http://ko.dbpedia.org/resource/동부대우전자	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/동부대우전자	http://ko.dbpedia.org/property/산업	전자 산업
+http://ko.dbpedia.org/resource/동부대우전자	http://dbpedia.org/ontology/foundingYear	1971
+http://ko.dbpedia.org/resource/동부대우전자	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/동부대우전자	http://ko.dbpedia.org/property/제품	텔레비전, 냉장고, 에어컨, 세탁기, 전자레인지

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/천재교육	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/출판사
+http://ko.dbpedia.org/resource/천재교육	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/교육
+http://ko.dbpedia.org/resource/천재교육	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/천재교육	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/출판사
+http://ko.dbpedia.org/resource/천재교육	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/교육
+http://ko.dbpedia.org/resource/천재교육	http://ko.dbpedia.org/property/창립자	최용준
+http://ko.dbpedia.org/resource/천재교육	http://ko.dbpedia.org/property/제품	해법수학

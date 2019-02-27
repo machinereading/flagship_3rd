@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/메이저_리그_사커
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/휴스턴
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://ko.dbpedia.org/property/구단주	벤 길
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/BBVV_컴패스_스타디움
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://ko.dbpedia.org/property/구단주	오스카 델라 호야
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://ko.dbpedia.org/property/구단주	재크 실버스테인
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://ko.dbpedia.org/property/구단주	개브리얼 브레너
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://ko.dbpedia.org/property/감독	/ 오언 코일
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://dbpedia.org/ontology/foundingYear	2005
+http://ko.dbpedia.org/resource/휴스턴_다이너모	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/텍사스_주

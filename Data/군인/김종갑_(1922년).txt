@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://ko.dbpedia.org/property/기타이력	국회의원
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/충청남도
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서천군
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제강점기
+http://ko.dbpedia.org/resource/김종갑_(1922년)	http://ko.dbpedia.org/property/최종계급	대한민국 육군 중장

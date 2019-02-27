@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/하우스_음악
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스톡홀름
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/birthDate	1980-08-22
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/인디_팝
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/욘_마르틴	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

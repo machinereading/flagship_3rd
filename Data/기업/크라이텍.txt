@@ -1,0 +1,18 @@
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	파 크라이
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/크라이시스_(시리즈)
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/라이즈:_선_오브_로마
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/홈프런트_2
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	워페이스
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	게임 엔진
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	크라이엔진
+http://ko.dbpedia.org/resource/크라이텍	http://dbpedia.org/ontology/foundingYear	1999
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	크라이엔진 3
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	게임
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/제품	크라이엔진 2
+http://ko.dbpedia.org/resource/크라이텍	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/프랑크푸르트
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/제와트_예를리
+http://ko.dbpedia.org/resource/크라이텍	http://dbpedia.org/ontology/location	프랑크푸르트
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/창립자	파루크 예를리
+http://ko.dbpedia.org/resource/크라이텍	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/창립자	아브니 예를리
+http://ko.dbpedia.org/resource/크라이텍	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/비디오_게임_산업

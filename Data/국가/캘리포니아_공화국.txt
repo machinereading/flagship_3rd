@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/캘리포니아_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/소노마
+http://ko.dbpedia.org/resource/캘리포니아_공화국	http://dbpedia.org/ontology/country	없음
+http://ko.dbpedia.org/resource/캘리포니아_공화국	http://dbpedia.org/ontology/foundingYear	1846
+http://ko.dbpedia.org/resource/캘리포니아_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화국
+http://ko.dbpedia.org/resource/캘리포니아_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어

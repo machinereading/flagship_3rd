@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/결과	십자군/비잔티움의 승리
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/날짜	1097
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/니케아
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/킬리지_아르슬란_1세
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/룸_술탄국
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/비잔티움_제국
+http://ko.dbpedia.org/resource/니케아_공방전	http://ko.dbpedia.org/property/교전국	22

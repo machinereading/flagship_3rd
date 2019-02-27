@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/콜롬비아_합중국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/스페인어
+http://ko.dbpedia.org/resource/콜롬비아_합중국	http://dbpedia.org/ontology/country	콜롬비아
+http://ko.dbpedia.org/resource/콜롬비아_합중국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/보고타
+http://ko.dbpedia.org/resource/콜롬비아_합중국	http://dbpedia.org/ontology/foundingYear	1863
+http://ko.dbpedia.org/resource/콜롬비아_합중국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/연방공화정

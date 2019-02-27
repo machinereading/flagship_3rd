@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/제임스_킹	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/트로트
+http://ko.dbpedia.org/resource/제임스_킹	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/제임스_킹	http://ko.dbpedia.org/property/본명	제임스 리
+http://ko.dbpedia.org/resource/제임스_킹	http://ko.dbpedia.org/property/본명	James Lee
+http://ko.dbpedia.org/resource/제임스_킹	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/경기도
+http://ko.dbpedia.org/resource/제임스_킹	http://dbpedia.org/ontology/activeYearsStartYear	1995

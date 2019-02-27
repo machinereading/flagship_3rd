@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/자유여자	http://ko.dbpedia.org/property/감독	박호태
+http://ko.dbpedia.org/resource/자유여자	http://ko.dbpedia.org/property/등급	청소년 관람불가
+http://ko.dbpedia.org/resource/자유여자	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/자유여자	http://ko.dbpedia.org/property/시간	105
+http://ko.dbpedia.org/resource/자유여자	http://ko.dbpedia.org/property/개봉	1990
+http://ko.dbpedia.org/resource/자유여자	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/자유여자	http://ko.dbpedia.org/property/장르	로맨스, 스릴러

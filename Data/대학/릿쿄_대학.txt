@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/릿쿄_대학	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/나리속
+http://ko.dbpedia.org/resource/릿쿄_대학	http://ko.dbpedia.org/property/설립	1874
+http://ko.dbpedia.org/resource/릿쿄_대학	http://dbpedia.org/ontology/mascot	백합
+http://ko.dbpedia.org/resource/릿쿄_대학	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/일본
+http://ko.dbpedia.org/resource/릿쿄_대학	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/Japan
+http://ko.dbpedia.org/resource/릿쿄_대학	http://ko.dbpedia.org/property/표어	신과 국가를 위하여
+http://ko.dbpedia.org/resource/릿쿄_대학	http://ko.dbpedia.org/property/총장	요시오카 토모야

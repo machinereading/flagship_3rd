@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/티펠리겐
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/프레드릭스타
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://dbpedia.org/ontology/foundingYear	1903
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/프레드릭스타_스타디온
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://ko.dbpedia.org/property/구단주	Carl-Morten Gjeldnes
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://ko.dbpedia.org/property/감독	Martin Andresen
+http://ko.dbpedia.org/resource/프레드릭스타_FK	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/노르웨이

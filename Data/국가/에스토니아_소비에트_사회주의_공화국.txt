@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/에스토니아어
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국의_국가
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/country	에스토니아
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/소비에트_연방의_공화국
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/러시아어
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/탈린
+http://ko.dbpedia.org/resource/에스토니아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/foundingYear	1940

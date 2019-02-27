@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/썬_마이크로시스템즈	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터
+http://ko.dbpedia.org/resource/썬_마이크로시스템즈	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/썬_마이크로시스템즈	http://ko.dbpedia.org/property/제품	서버, 워크스테이션, 스토리지, 프로세서, 씬 클라이언트, 운영체제, 소프트웨어 등
+http://ko.dbpedia.org/resource/썬_마이크로시스템즈	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/빌_조이
+http://ko.dbpedia.org/resource/썬_마이크로시스템즈	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터
+http://ko.dbpedia.org/resource/썬_마이크로시스템즈	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/샌타클라라_(캘리포니아_주)

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/나를_찾아줘	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/나를_찾아줘	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/데이비드_핀처
+http://ko.dbpedia.org/resource/나를_찾아줘	http://ko.dbpedia.org/property/시간	149
+http://ko.dbpedia.org/resource/나를_찾아줘	http://ko.dbpedia.org/property/장르	범죄, 스릴러, 미스터리, 드라마
+http://ko.dbpedia.org/resource/나를_찾아줘	http://ko.dbpedia.org/property/관객수	1764233
+http://ko.dbpedia.org/resource/나를_찾아줘	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국

@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/1988년_하계_올림픽	http://dbpedia.org/ontology/motto	화합과 전진
+http://ko.dbpedia.org/resource/1988년_하계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/1988년_하계_올림픽	http://ko.dbpedia.org/property/참가선수	8391
+http://ko.dbpedia.org/resource/1988년_하계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/노태우
+http://ko.dbpedia.org/resource/1988년_하계_올림픽	http://ko.dbpedia.org/property/참가국	160

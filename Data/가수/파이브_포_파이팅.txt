@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/얼터너티브_록
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소프트_록
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://ko.dbpedia.org/property/본명	Vladimir John Ondrasik
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/birthDate	1965-01-07
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/로스앤젤레스
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/남자_가수
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/activeYearsStartYear	1997
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/activeYearsStartYear	1997
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/파이브_포_파이팅	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/피아노

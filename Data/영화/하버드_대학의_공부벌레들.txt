@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/하버드_대학의_공부벌레들	http://ko.dbpedia.org/property/장르	드라마
+http://ko.dbpedia.org/resource/하버드_대학의_공부벌레들	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/티머시_보텀스
+http://ko.dbpedia.org/resource/하버드_대학의_공부벌레들	http://ko.dbpedia.org/property/언어	영어
+http://ko.dbpedia.org/resource/하버드_대학의_공부벌레들	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/제임스_브리지스
+http://ko.dbpedia.org/resource/하버드_대학의_공부벌레들	http://ko.dbpedia.org/property/개봉	1973
+http://ko.dbpedia.org/resource/하버드_대학의_공부벌레들	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/린지_와그너

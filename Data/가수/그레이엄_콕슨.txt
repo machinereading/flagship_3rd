@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/birthDate	1969-03-12
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/깁슨_SG
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/activeYearsStartYear	1988
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/activeYearsStartYear	1988
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/데이먼_알반
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/클라리넷
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/깁슨_레스폴
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/밴조
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/인디_포크
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/로우_파이
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/브릿팝
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/얼터너티브_록
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서독
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/인디_록
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/린텔른
+http://ko.dbpedia.org/resource/그레이엄_콕슨	http://dbpedia.org/ontology/birthPlace	린텔른

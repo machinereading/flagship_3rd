@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://dbpedia.org/ontology/foundingYear	1957
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/투르드_경기장_(톰스크)
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/러시아
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/톰스크
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/러시아_프리미어리그
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/바실리_바스카코프
+http://ko.dbpedia.org/resource/FC_톰_톰스크	http://ko.dbpedia.org/property/구단주	유리 스테파노프

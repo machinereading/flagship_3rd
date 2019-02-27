@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/나카야마_유마	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/자니스_사무소
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/activeYearsStartYear	2006
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/J-pop
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/birthDate	1994-01-13
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오사카_부
+http://ko.dbpedia.org/resource/나카야마_유마	http://dbpedia.org/ontology/activeYearsStartYear	2006

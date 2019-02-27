@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/foundingYear	-0204
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/남월_술양왕
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/고대_중국어
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/남월_무제
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/남월_애왕
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/governmentType	군주제
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/외왕내제
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/광저우_시
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/foundingYear	0203
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/country	베트남
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/남월_명왕
+http://ko.dbpedia.org/resource/남월	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/남월_문왕

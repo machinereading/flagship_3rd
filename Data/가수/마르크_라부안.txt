@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/activeYearsStartYear	1983
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/activeYearsStartYear	1983
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/롱쥐모
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/프랑스의_영화
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/샹송
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/birthDate	1962-08-06
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/가창
+http://ko.dbpedia.org/resource/마르크_라부안	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

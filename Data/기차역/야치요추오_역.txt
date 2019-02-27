@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/소재지	지바 현 야치요 시
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/무라카미_역_(지바_현)
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/역명	야치요추오
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/후역	TR08 무라카미
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/야치요미도리가오카_역
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/노선	도요 고속철도 T 도요 고속선
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/전역	TR06 야치요미도리가오카
+http://ko.dbpedia.org/resource/야치요추오_역	http://ko.dbpedia.org/property/개업일	1996

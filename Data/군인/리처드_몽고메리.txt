@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/미국_독립_전쟁
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/7년_전쟁
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/폰티액_전쟁
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/더블린
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/birthPlace	아일랜드
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/소드
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://ko.dbpedia.org/property/복무	영국 육군
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아일랜드
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대륙군
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/루이스버그_전투
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/퀘벡_전투
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/battle	7
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/영국_육군
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대륙군
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://ko.dbpedia.org/property/최종계급	대륙군 소장
+http://ko.dbpedia.org/resource/리처드_몽고메리	http://dbpedia.org/ontology/birthDate	1738-12-02

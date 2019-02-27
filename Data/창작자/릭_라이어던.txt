@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/올림포스_영웅전
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/추리물
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/퍼시_잭슨과_올림포스의_신
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/에드거상
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/텍사스_대학교_오스틴
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/판타지
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/텍사스_주
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/award	2007
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/신화
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/샌안토니오
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/신화학
+http://ko.dbpedia.org/resource/릭_라이어던	http://dbpedia.org/ontology/award	1999

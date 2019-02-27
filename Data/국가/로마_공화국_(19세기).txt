@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아우렐리오_사피
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/로마
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/의회_공화제
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/foundingYear	1849
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/주세페_마치니
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
+http://ko.dbpedia.org/resource/로마_공화국_(19세기)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/카를로_아르멜리니

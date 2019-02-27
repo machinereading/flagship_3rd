@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/블랙베리_(기업)	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/블랙베리_(스마트폰)
+http://ko.dbpedia.org/resource/블랙베리_(기업)	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/휴대전화
+http://ko.dbpedia.org/resource/블랙베리_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/휴대전화
+http://ko.dbpedia.org/resource/블랙베리_(기업)	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/마이크_라자리디스
+http://ko.dbpedia.org/resource/블랙베리_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/워털루_(온타리오_주)
+http://ko.dbpedia.org/resource/블랙베리_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주

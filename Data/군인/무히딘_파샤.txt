@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/무히딘_파샤	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/오스만_제국_육군
+http://ko.dbpedia.org/resource/무히딘_파샤	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/터키_육군
+http://ko.dbpedia.org/resource/무히딘_파샤	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/오스만_제국_육군
+http://ko.dbpedia.org/resource/무히딘_파샤	http://ko.dbpedia.org/property/최종계급	오스만 제국 육군 소장
+http://ko.dbpedia.org/resource/무히딘_파샤	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/독립_메달_(터키)
+http://ko.dbpedia.org/resource/무히딘_파샤	http://ko.dbpedia.org/property/최종계급	터키 육군 중장
+http://ko.dbpedia.org/resource/무히딘_파샤	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/갈리폴리의_별_(오스만_제국)
+http://ko.dbpedia.org/resource/무히딘_파샤	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/임티야즈_메달
+http://ko.dbpedia.org/resource/무히딘_파샤	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/이스탄불
+http://ko.dbpedia.org/resource/무히딘_파샤	http://ko.dbpedia.org/property/기타이력	카이로 대사
+http://ko.dbpedia.org/resource/무히딘_파샤	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/터키_육군
+http://ko.dbpedia.org/resource/무히딘_파샤	http://ko.dbpedia.org/property/기타이력	테헤란 대사

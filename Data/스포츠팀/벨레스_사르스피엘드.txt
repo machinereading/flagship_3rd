@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/벨레스_사르스피엘드	http://ko.dbpedia.org/property/구단주	미겔 칼레요
+http://ko.dbpedia.org/resource/벨레스_사르스피엘드	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/호세_아말피타니_경기장
+http://ko.dbpedia.org/resource/벨레스_사르스피엘드	http://ko.dbpedia.org/property/감독	리카르도 가레카
+http://ko.dbpedia.org/resource/벨레스_사르스피엘드	http://dbpedia.org/ontology/foundingYear	1910
+http://ko.dbpedia.org/resource/벨레스_사르스피엘드	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온

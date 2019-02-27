@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/요시	http://dbpedia.org/ontology/firstAppearance	슈퍼 마리오 월드(1990년)
+http://ko.dbpedia.org/resource/요시	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/요시_아일랜드
+http://ko.dbpedia.org/resource/요시	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/히노_시게후미
+http://ko.dbpedia.org/resource/요시	http://dbpedia.org/ontology/birthDate	1990
+http://ko.dbpedia.org/resource/요시	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/버섯_왕국
+http://ko.dbpedia.org/resource/요시	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/공룡

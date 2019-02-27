@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/하일랜드파크_(미시간_주)
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/재즈
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/birthDate	1930-10-08
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미시간_주
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/빅밴드
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/하드_밥
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/클라리넷
+http://ko.dbpedia.org/resource/페퍼_아담스	http://dbpedia.org/ontology/activeYearsStartYear	1947

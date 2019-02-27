@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/왕십리역
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/압구정로데오역
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/전역	K210 왕십리
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/역명	서울숲
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/소재지	서울특별시 성동구 왕십리로 지하77
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/후역	K212 압구정로데오
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/분당선
+http://ko.dbpedia.org/resource/서울숲역	http://ko.dbpedia.org/property/개업일	2012

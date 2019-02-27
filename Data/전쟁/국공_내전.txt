@@ -1,0 +1,18 @@
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	리쭝런→
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	천청
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	바이충시
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/교전국	국민혁명군
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	장제스
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/교전국	1927
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	옌시산
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/지휘관	허잉친
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/날짜	제1차 : 1927년 - 1936년
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/중국_대륙
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/날짜	제2차 : 1946년 - 1950년
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/교전국	중국 국민당
+http://ko.dbpedia.org/resource/국공_내전	http://ko.dbpedia.org/property/결과	사실상 중국 공산당의 승리
+*정전협정 미체결
+*1979년 1월 1일 미·중 국교 정상화 이후 사실상 정전 상태
+*중국 대륙에 중화인민공화국 수립
+*중화민국 정부는 난징에서 타이베이로 천도

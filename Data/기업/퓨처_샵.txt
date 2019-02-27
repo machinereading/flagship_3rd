@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/퓨처_샵	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/버너비
+http://ko.dbpedia.org/resource/퓨처_샵	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/브리티시컬럼비아_주
+http://ko.dbpedia.org/resource/퓨처_샵	http://ko.dbpedia.org/property/산업	전자제품 유통
+http://ko.dbpedia.org/resource/퓨처_샵	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/버나비
+http://ko.dbpedia.org/resource/퓨처_샵	http://dbpedia.org/ontology/foundingYear	1982
+http://ko.dbpedia.org/resource/퓨처_샵	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캐나다
+http://ko.dbpedia.org/resource/퓨처_샵	http://ko.dbpedia.org/property/제품	가전, 디지털 기기, 컴퓨터 등
+http://ko.dbpedia.org/resource/퓨처_샵	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소매_(상업)

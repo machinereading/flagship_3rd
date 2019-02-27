@@ -1,0 +1,3 @@
+http://ko.dbpedia.org/resource/방투_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/방투_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/보클뤼즈_주
+http://ko.dbpedia.org/resource/방투_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/프란체스코_페트라르카

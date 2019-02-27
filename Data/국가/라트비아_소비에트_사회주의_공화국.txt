@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/러시아어
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라트비아어
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/소비에트_연방의_공화국
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/foundingYear	1940
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/country	라트비아
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/리가
+http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/라트비아_소비에트_사회주의_공화국의_국가

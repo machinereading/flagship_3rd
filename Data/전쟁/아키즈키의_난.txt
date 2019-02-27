@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/사상자	경찰 사망 1
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/사상자	관료 사망2
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/사상자	체포 약 150명
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/사상자	전사2
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/미야자키_샤노스케
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/이소_아츠시
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/사상자	사망 17명
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/노기_마레스케
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/결과	정부군의 승리
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/날짜	1876
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/아키즈키
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/교전국	아키즈키당
+http://ko.dbpedia.org/resource/아키즈키의_난	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/후쿠오카_현

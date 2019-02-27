@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_물리학상
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/National_Medal_of_Science
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/Wolf_Prize_in_Physics
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/화학
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/Tom_W._Bonner_Prize
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/Comstock_Prize_in_Physics
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/Beatrice_M._Tinsley_Prize
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/물리학자
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/워싱턴_D.C.
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/레이먼드_데이비스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/중성미자

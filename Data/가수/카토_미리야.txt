@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/activeYearsStartYear	2004
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/birthDate	1988-06-22
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/activeYearsStartYear	2004
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/J-pop
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/소설가
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/가창
+http://ko.dbpedia.org/resource/카토_미리야	http://ko.dbpedia.org/property/소속사	소니 뮤직 아티스트
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/패션_디자이너
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/도요타_시
+http://ko.dbpedia.org/resource/카토_미리야	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아이치_현

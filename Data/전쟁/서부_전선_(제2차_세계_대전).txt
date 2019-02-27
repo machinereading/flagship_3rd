@@ -1,0 +1,70 @@
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/날짜	1939
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/날짜	1993
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/교전국	폴란드 서부군
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/교전국	남아프리카 연방
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/교전국	비시 프랑스
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	레오폴드 3세
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	헨리 윙켈만
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	모리스 가믈랭
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	코르크 경
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	제이콥 데버스 
+ 코트니 호지스 
+ 윌리엄 후드 심슨 
+ 알렉산더 패치 
+ 조지 S. 패튼 
+ 트래퍼드 리맬러리 
+ 마일스 뎀프시 
+ 베트람 렘세이 
+ 해리 크레러 
+ 가이 시먼즈 
+ 샤를 드 골 
+ 장 드라트르 드타시니
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	발터 폰 브라우히치
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	오토 루게 
+ 크리스티안 10세
+1944-1945
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	발터 모델
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	에르빈 롬멜
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	고트 경
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	버나드 몽고메리
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	페도르 폰 보크
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	헤르만 괴링
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	귄터 폰 클루게
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	*2,905,420명 – 3,043,860명의 사상자
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	*160,780명ref|독일인은 43,110명이 사망 또는 실종, 111,640명이 부상, 포로 정보는 없다. 이탈리아인은 1,250명이 사망 또는 실종, 4,780명이 부상, 포로 정보는 없다.|group=nb – 163,650명의 사상자ref|독일:157,621명의 사상자(27,074명 사망 (독일 해군의 손실을 포함하여 49,000명이 더 많아지고, 그 이유는 비전투 손실, 부상으로 인한 사망, 누락된 사망자를 포함한다. 그러나, 이 경우들은 사망자에 포함하지 않는다), 111,034명 부상, 18,384명 실종, 그리고 1,129기의 항공기 격추.) 이탈리아: 6,029명의 사상자 (1,247명 사망 또는 실종, 2,631명 부상, 2,151명 동상으로 입원. 이탈리아군이 전투한 프랑스 알프스는, 여름에도 영하의 기온이 일반적이다.)|group=nb
+1941 – 1945
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	ref|36만명이 사망 또는 부상, 190만명이 포로가 됨.|group=nb
+1944 – 1945
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	*783,860명의 사상자ref|미국인은 109,820명이 사망 또는 실종, 356,660명이 부상, 56,630명이 포로. 영국인은 30,280명이 사망 또는 실종, 96,670명이 부상, 14,700명이 포로. 캐나다인은 10,740명이 사망 또는 실종, 30,910명이 부상, 2,250명이 포로. 프랑스인은 12,590명이 사망 또는 실종, 49,510명이 부상, 4,730명이 포로. 폴란드인은 1,160명이 사망 또는 실종, 3,840명이 부상, 370명이 포로. 따라서, "엘리스"의 정보에 의하면 연합군은 총 783,860명의 사상자가 발생했다.|group=nb
+총 합:
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	*997,386명 – 1,000,256명의 사상자
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	1940
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	*836,606명의 사상자ref|독일군은 1941년 6월부터 1945년 4월 10일까지의 사상자는 오직 서부 전선만 포함하여, 80,820명 사망, 490,260명 실종, 256,526명의 부상이다.|group=nbref|1939년 9월부터 1944년 12월 31일 까지의 독일군 총 사상자는 서부 전선군과 무장 친위대를 포함하여 128,030명 사망, 399,860명 부상, 7,614,790명 실종(독일의 항복에 따라 3,404,950명이 무장 해제)이다.|group=nb
+총 합:
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	쿠르트 스튜던트
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	구스타프 아돌프 폰 잔겐
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	하인리히 힘러
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	1944
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/사상자	*2,121,560명ref|출처인 "엘리스"에는 덴마크인 사상자가 없고, 노르웨이인은 2천명이 사망 또는 실종되었다고 표기했다. 네덜란드인 사상자는 2,890명 사상 및 실종, 6,900명이 부상을 입고 포로 정보는 없다. 벨기에인 사상자는 7,500명이 사망 또는 실종, 15,850명이 부상, 20만명이 포로가 되었다. 프랑스인 사상자는 12만명이 사망 또는 실종, 25만명이 부상, 145만명이 포로가 되었다. 영국인 사상자는 11,010명이 사망 또는 실종, 14,070명(오직 탈출한 사람만 계산)이 부상, 41,340명이 포로가 되었다. 1940년의 사상자는 "엘리스"가 2,121,560명으로 표기하고 있다.|group=nb – 2,260,000명의 사상자
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	1939
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	아돌프 히틀러
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/결과	1939
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	게르트 폰 룬트슈테트
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	움베르토 2세
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/결과	* 추축국의 서부 유럽과 북부 유럽 대부분 정복
+* 프랑스 제3공화국의 멸망과 비시 프랑스의 시작
+* 영국 본토 항공전과 대서양 전투의 지속
+1944년 – 1945년 - 연합국 승리
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/결과	* 나치 독일의 멸망 
+* 서유럽 및 북유럽에서 나치에 점령된 국가들의 해방
+* 철의 장막 형성 및 냉전 시작
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/서유럽
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/북유럽
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	파울 하우서
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	알베르트 케셀링
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	하인츠 구데리안
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	빌헬름 리터 폰 레프
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	오마 브래들리
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	드와이트 아이젠하워
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	막심 베이강
+http://ko.dbpedia.org/resource/서부_전선_(제2차_세계_대전)	http://ko.dbpedia.org/property/지휘관	에른스트 부슈

@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/개업일	1994
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/사하역
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/부산_도시철도_1호선
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/역명	당리
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/하단역_(부산)
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/소재지	부산광역시 사하구 낙동대로 지하405
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/후역	104
+http://ko.dbpedia.org/resource/당리역	http://ko.dbpedia.org/property/전역	102

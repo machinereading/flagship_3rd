@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/갈라_(기업)	http://ko.dbpedia.org/property/제품	라펠즈
+http://ko.dbpedia.org/resource/갈라_(기업)	http://ko.dbpedia.org/property/제품	프리프
+http://ko.dbpedia.org/resource/갈라_(기업)	http://ko.dbpedia.org/property/제품	이터널 블레이드
+http://ko.dbpedia.org/resource/갈라_(기업)	http://ko.dbpedia.org/property/제품	스트리트기어즈
+http://ko.dbpedia.org/resource/갈라_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/도쿄
+http://ko.dbpedia.org/resource/갈라_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/일본
+http://ko.dbpedia.org/resource/갈라_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/도쿄_도
+http://ko.dbpedia.org/resource/갈라_(기업)	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업
+http://ko.dbpedia.org/resource/갈라_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업
+http://ko.dbpedia.org/resource/갈라_(기업)	http://dbpedia.org/ontology/foundingYear	1993
+http://ko.dbpedia.org/resource/갈라_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업

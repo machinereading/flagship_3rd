@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/라스크루시스	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/뉴멕시코_주
+http://ko.dbpedia.org/resource/라스크루시스	http://dbpedia.org/ontology/area	122.81
+http://ko.dbpedia.org/resource/라스크루시스	http://dbpedia.org/ontology/populationTotal	97618
+http://ko.dbpedia.org/resource/라스크루시스	http://ko.dbpedia.org/property/별명	도시의 십자가
+http://ko.dbpedia.org/resource/라스크루시스	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/라스크루시스	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/도냐아나_군

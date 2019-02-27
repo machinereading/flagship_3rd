@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/지휘관	-
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/도쿄
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/제임스_해롤드_둘리틀
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/교전국	center|49px미국 육군 항공대
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/교전국	일본 제국
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/날짜	1942
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/결과	미군의 승리
+* 선전전에서 미군이 승리함
+* 일본군의 사기가 떨어짐
+* 미군의 사기 고취
+* 미드웨이 해전의 원인
+* 중국 비행장 파괴
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/사상자	전사 - 3명
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/사상자	400
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/사상자	포로 - 8명
+http://ko.dbpedia.org/resource/둘리틀_공습	http://ko.dbpedia.org/property/사상자	대략 50여 명 사망,

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/체르니우치
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/우크라이나
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://dbpedia.org/ontology/birthPlace	체르니우치
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://ko.dbpedia.org/property/본명	마리야 나자리우나 야렘추크
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://dbpedia.org/ontology/activeYearsStartYear	2012
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/마리야_야렘추크	http://dbpedia.org/ontology/birthDate	1993-03-02

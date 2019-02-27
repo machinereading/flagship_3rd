@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	■ 기스키 선
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/빈고오치아이_역
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/미노하라_역
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/역명	유키
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/소재지	히로시마 현 쇼바라 시
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/개업일	1937
+http://ko.dbpedia.org/resource/유키_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/기스키_선

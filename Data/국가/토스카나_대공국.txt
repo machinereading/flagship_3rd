@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/토스카나_대공_코시모_1세_데_메디치
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/토스카나_대공_레오폴드_2세
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/피렌체
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/governmentType	군주제
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/foundingYear	1569
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/country	토스카나
+http://ko.dbpedia.org/resource/토스카나_대공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/단일_국가

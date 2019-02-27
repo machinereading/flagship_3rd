@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/항공_운송업
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://dbpedia.org/ontology/foundingYear	2010
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://ko.dbpedia.org/property/제품	항공 서비스
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/시카고
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공_운송업
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공
+http://ko.dbpedia.org/resource/유나이티드_콘티넨털_홀딩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/일리노이_주

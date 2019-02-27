@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/foundingYear	0222
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/건강_(지명)
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/어저우_시
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/foundingYear	0229
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/손량
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/손권
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/손휴
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/country	중국
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/난징_시
+http://ko.dbpedia.org/resource/오_(삼국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/손호

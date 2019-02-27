@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/경남과학기술대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/경남과학기술대학교	http://ko.dbpedia.org/property/설립	1910
+http://ko.dbpedia.org/resource/경남과학기술대학교	http://dbpedia.org/ontology/mascot	철쭉, 멀구슬나무, 황소
+http://ko.dbpedia.org/resource/경남과학기술대학교	http://ko.dbpedia.org/property/표어	자각, 연구, 실천
+http://ko.dbpedia.org/resource/경남과학기술대학교	http://ko.dbpedia.org/property/총장	권진택

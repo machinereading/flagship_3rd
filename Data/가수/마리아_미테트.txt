@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/activeYearsStartYear	1991
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/activeYearsStartYear	1991
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/birthDate	1979-08-03
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/핀스네스
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/마리아_미테트	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수

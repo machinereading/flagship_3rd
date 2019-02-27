@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/country	프랑스
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/프랑스의_국가
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/런던
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/foundingYear	1940
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/망명_정부
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
+http://ko.dbpedia.org/resource/자유_프랑스	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/샤를_드_골

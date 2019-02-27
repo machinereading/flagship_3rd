@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/스테들러	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/바이에른_주
+http://ko.dbpedia.org/resource/스테들러	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뉘른베르크
+http://ko.dbpedia.org/resource/스테들러	http://ko.dbpedia.org/property/산업	필기류
+http://ko.dbpedia.org/resource/스테들러	http://ko.dbpedia.org/property/창립자	프레드리히 스테들러
+http://ko.dbpedia.org/resource/스테들러	http://dbpedia.org/ontology/industry	필기류
+http://ko.dbpedia.org/resource/스테들러	http://ko.dbpedia.org/property/창립자	요한 제바스티안 스테들러
+http://ko.dbpedia.org/resource/스테들러	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/연필
+http://ko.dbpedia.org/resource/스테들러	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/지우개
+http://ko.dbpedia.org/resource/스테들러	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/문방구

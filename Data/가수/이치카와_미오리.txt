@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/이치카와_미오리	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/J-pop
+http://ko.dbpedia.org/resource/이치카와_미오리	http://dbpedia.org/ontology/birthDate	1994-02-12
+http://ko.dbpedia.org/resource/이치카와_미오리	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/사이타마_현
+http://ko.dbpedia.org/resource/이치카와_미오리	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/이치카와_미오리	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/이치카와_미오리	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/아이돌

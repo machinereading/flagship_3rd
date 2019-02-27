@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/개업일	1891
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/이와테카와구치_역
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/소재지	이와테 현 모리오카 시 다마야마 구
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/히가시오부케_역
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/노선	IGR 이와테 은하 철도 ■ 이와테 은하 철도선
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/역명	고마
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/시부타미_역
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 하나와 선
+http://ko.dbpedia.org/resource/고마_역_(이와테_현)	http://ko.dbpedia.org/property/역명	好摩

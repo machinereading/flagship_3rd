@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/오조니아	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/물_처리
+http://ko.dbpedia.org/resource/오조니아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/오존
+http://ko.dbpedia.org/resource/오조니아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/스위스
+http://ko.dbpedia.org/resource/오조니아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/취리히
+http://ko.dbpedia.org/resource/오조니아	http://dbpedia.org/ontology/foundingYear	0020
+http://ko.dbpedia.org/resource/오조니아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/자외선
+http://ko.dbpedia.org/resource/오조니아	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/물_처리

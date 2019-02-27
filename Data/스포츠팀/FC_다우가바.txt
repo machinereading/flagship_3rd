@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/FC_다우가바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/다우가프필스
+http://ko.dbpedia.org/resource/FC_다우가바	http://ko.dbpedia.org/property/감독	Igor Gamula
+http://ko.dbpedia.org/resource/FC_다우가바	http://dbpedia.org/ontology/foundingYear	2001
+http://ko.dbpedia.org/resource/FC_다우가바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/켈트닉스_경기장
+http://ko.dbpedia.org/resource/FC_다우가바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/라트비아_비르스리가
+http://ko.dbpedia.org/resource/FC_다우가바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/라트비아
+http://ko.dbpedia.org/resource/FC_다우가바	http://ko.dbpedia.org/property/구단주	Igor Malishkov

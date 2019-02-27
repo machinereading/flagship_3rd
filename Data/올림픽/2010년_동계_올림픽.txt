@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/2010년_동계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/미카엘_장
+http://ko.dbpedia.org/resource/2010년_동계_올림픽	http://dbpedia.org/ontology/motto	뜨거운 가슴으로
+http://ko.dbpedia.org/resource/2010년_동계_올림픽	http://ko.dbpedia.org/property/참가선수	2566
+http://ko.dbpedia.org/resource/2010년_동계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/밴쿠버
+http://ko.dbpedia.org/resource/2010년_동계_올림픽	http://ko.dbpedia.org/property/참가국	82

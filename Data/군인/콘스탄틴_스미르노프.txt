@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/콘스탄틴_스미르노프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/러일_전쟁
+http://ko.dbpedia.org/resource/콘스탄틴_스미르노프	http://ko.dbpedia.org/property/최종계급	중장
+http://ko.dbpedia.org/resource/콘스탄틴_스미르노프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오데사
+http://ko.dbpedia.org/resource/콘스탄틴_스미르노프	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/러시아_제국_육군
+http://ko.dbpedia.org/resource/콘스탄틴_스미르노프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/러시아_제국
+http://ko.dbpedia.org/resource/콘스탄틴_스미르노프	http://ko.dbpedia.org/property/복무	러시아 제국 육군

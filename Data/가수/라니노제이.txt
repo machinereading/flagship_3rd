@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/레게
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/알앤비
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/activeYearsStartYear	2014
+http://ko.dbpedia.org/resource/라니노제이	http://ko.dbpedia.org/property/본명	정치왕
+http://ko.dbpedia.org/resource/라니노제이	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/호스트앰씨

@@ -1,0 +1,15 @@
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/드네프르_강
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/소련
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/교전국	체코슬로바키아 독립여단
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/교전국	루마니아 왕국
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/지휘관	게오르기 주코프
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/지휘관	알렉산드르 바실렙스키
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/날짜	1943
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/사상자	최저 400,000 ~ 최고 1,200,000 명
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/결과	소련군의 승리
+* 소련의 좌안 우크라이나 탈환
+* 소련의 키예프 시 탈환
+* 소련의 도네츠 분지 탈환
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/사상자	최저 1,182,000  ~ 최고 1,500,000 명
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/지휘관	에리히 폰 만슈타인
+http://ko.dbpedia.org/resource/드네프르_강_전투	http://ko.dbpedia.org/property/지휘관	페트레 두미트레스쿠

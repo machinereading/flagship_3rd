@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/역명	신촌
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/소재지	서울특별시 서대문구 대현동 74-12
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/한국철도공사
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/개업일	1921
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/가좌역
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/소재지	서울특별시 서대문구 신촌역로 30
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/후역	K315 가좌
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/후역	K316 디지털미디어시티
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/서울역
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/전역	P313 서울
+http://ko.dbpedia.org/resource/신촌역_(경의선)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/경의선

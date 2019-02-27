@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/장르	판타지, 로맨스, SF, 드라마, 모험, 애니메이션
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/등급	전체 관람가
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/장형윤
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/시간	81
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/개봉	2014
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/관객수	44411
+http://ko.dbpedia.org/resource/우리별_일호와_얼룩소	http://ko.dbpedia.org/property/언어	한국어

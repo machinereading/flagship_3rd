@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/복합기업
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://dbpedia.org/ontology/foundingYear	1960
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/토론토
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/케이블TV
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/토론토_블루제이스
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/이동통신
+http://ko.dbpedia.org/resource/로저스_커뮤니케이션스	http://ko.dbpedia.org/property/산업	전기 통신업

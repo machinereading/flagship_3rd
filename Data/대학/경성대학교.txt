@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/경성대학교	http://ko.dbpedia.org/property/설립	1955
+http://ko.dbpedia.org/resource/경성대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/경성대학교	http://dbpedia.org/ontology/mascot	청색, 은행나무, 독수리, 별
+http://ko.dbpedia.org/resource/경성대학교	http://ko.dbpedia.org/property/총장	송수건
+http://ko.dbpedia.org/resource/경성대학교	http://ko.dbpedia.org/property/표어	진리, 봉사, 자유

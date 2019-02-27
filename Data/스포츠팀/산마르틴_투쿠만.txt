@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아르헨티나
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/산미겔데투쿠만
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/라_시우다델라_경기장
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://dbpedia.org/ontology/foundingYear	1909
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://ko.dbpedia.org/property/구단주	루벤 알레
+http://ko.dbpedia.org/resource/산마르틴_투쿠만	http://ko.dbpedia.org/property/감독	카를로스 롤단

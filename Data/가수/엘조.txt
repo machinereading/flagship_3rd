@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/activeYearsStartYear	2010
+http://ko.dbpedia.org/resource/엘조	http://ko.dbpedia.org/property/본명	이병헌
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/군산시
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/랩_(음악)
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/전라북도
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/래퍼
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/엘조	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/티오피미디어
+http://ko.dbpedia.org/resource/엘조	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/팝_가수

@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/독일
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/foundingYear	1914
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/사진술
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/사진기
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/광학
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/광학
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/쌍안경
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/베츨라어
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/디지털_일안_반사식_카메라
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/렌즈
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://ko.dbpedia.org/property/창립자	칼 켈르너
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/카메라
+http://ko.dbpedia.org/resource/라이카_(사진기)	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/쌍안경

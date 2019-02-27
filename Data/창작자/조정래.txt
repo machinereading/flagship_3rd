@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/전라남도
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/award	2014
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/순천시_(전라남도)
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소설
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/한강_(소설)
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/아리랑_(소설)
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/religion	http://ko.dbpedia.org/resource/불교
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/태백산맥_(소설)
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/award	2003
+http://ko.dbpedia.org/resource/조정래	http://dbpedia.org/ontology/award	2006

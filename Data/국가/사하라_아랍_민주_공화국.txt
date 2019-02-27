@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화제
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/압델카데르_탈렙_오마르
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/이원집정부제
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/일당제
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/스페인어
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/엘아이운
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화국
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/사하라_난민_캠프
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/country	서사하라
+http://ko.dbpedia.org/resource/사하라_아랍_민주_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/비르레흘루

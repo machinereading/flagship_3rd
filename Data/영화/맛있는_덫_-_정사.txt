@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/개봉	2015
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/등급	청소년 관람불가
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/로맨스_영화
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/에로_영화
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/시간	1
+http://ko.dbpedia.org/resource/맛있는_덫_-_정사	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/신정균

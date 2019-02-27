@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/아키타_현
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/개업일	1931
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/하치만타이_역
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/아니하타_역
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/역명	湯瀬温泉駅
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/노선	■ 하나와 선
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/가즈노_시
+http://ko.dbpedia.org/resource/유제온센_역	http://ko.dbpedia.org/property/역명	유제온센 역

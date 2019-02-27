@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/포천_시민축구단	http://dbpedia.org/ontology/league	K3리그
+http://ko.dbpedia.org/resource/포천_시민축구단	http://ko.dbpedia.org/property/감독	김재형
+http://ko.dbpedia.org/resource/포천_시민축구단	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/포천종합운동장
+http://ko.dbpedia.org/resource/포천_시민축구단	http://ko.dbpedia.org/property/구단주	민천식
+http://ko.dbpedia.org/resource/포천_시민축구단	http://dbpedia.org/ontology/foundingYear	2008
+http://ko.dbpedia.org/resource/포천_시민축구단	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/K3리그

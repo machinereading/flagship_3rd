@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/소재지	미에 현 이세 시
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/산구_선
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/개업일	1963
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/역명	마쓰시타
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/후타미노우라_역
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/이케노우라시사이드_역
+http://ko.dbpedia.org/resource/마쓰시타_역	http://ko.dbpedia.org/property/노선	■ 산구 선

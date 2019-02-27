@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/아센과_페터르의_난	http://ko.dbpedia.org/property/장소	발칸 반도
+http://ko.dbpedia.org/resource/아센과_페터르의_난	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/아센과_페터르의_난	http://ko.dbpedia.org/property/결과	불가리아의 승리, 불가리아 제국의 부활
+http://ko.dbpedia.org/resource/아센과_페터르의_난	http://ko.dbpedia.org/property/날짜	1185
+http://ko.dbpedia.org/resource/아센과_페터르의_난	http://ko.dbpedia.org/property/교전국	22

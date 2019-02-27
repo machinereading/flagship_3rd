@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/바이올린
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/birthDate	1976-12-30
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/피아노
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/심포닉_메탈
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/고딕_메탈
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/activeYearsStartYear	2003
+http://ko.dbpedia.org/resource/조지인	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/파워_메탈

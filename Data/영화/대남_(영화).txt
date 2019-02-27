@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/대남_(영화)	http://ko.dbpedia.org/property/시간	88
+http://ko.dbpedia.org/resource/대남_(영화)	http://ko.dbpedia.org/property/장르	액션
+http://ko.dbpedia.org/resource/대남_(영화)	http://ko.dbpedia.org/property/감독	김시현
+http://ko.dbpedia.org/resource/대남_(영화)	http://ko.dbpedia.org/property/등급	청소년 관람불가
+http://ko.dbpedia.org/resource/대남_(영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/대남_(영화)	http://ko.dbpedia.org/property/개봉	1988

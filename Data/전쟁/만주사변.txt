@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/날짜	1931
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/만주
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/교전국	일본제국
+22x20px|border 일본제국 육군
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/결과	일본 승리
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/교전국	중화민국
+22x20px|border 국민혁명군
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/중국
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/지휘관	마잔산
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/지휘관	장쉐량
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/만주사변	http://ko.dbpedia.org/property/지휘관	펑잔하이

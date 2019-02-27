@@ -1,0 +1,15 @@
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/God_Save_the_Queen
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/country	잠비아
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/foundingYear	1924
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/리빙스턴_(잠비아)
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조지_6세
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/루사카
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/허버트_스탠리
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조지_5세
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/엘리자베스_2세
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에벨린_혼
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/보호국
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에드워드_7세
+http://ko.dbpedia.org/resource/북로디지아	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에드워드_8세

@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/플리저_USA	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/도매
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/제조
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/신발
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/장신구
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/부츠
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/하이힐
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/장신구
+http://ko.dbpedia.org/resource/플리저_USA	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/제조
+http://ko.dbpedia.org/resource/플리저_USA	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/도매
+http://ko.dbpedia.org/resource/플리저_USA	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/Ben_Hsu
+http://ko.dbpedia.org/resource/플리저_USA	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/신발
+http://ko.dbpedia.org/resource/플리저_USA	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/장신구

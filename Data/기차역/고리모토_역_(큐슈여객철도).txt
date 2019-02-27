@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/가고시마_중앙역
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/노선	■ 이부스키마쿠라자키 선
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/역명	고리모토
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/개업일	1986
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/이부스키마쿠라자키_선
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/소재지	가고시마 현 가고시마 시
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/소재지	도소 4초메 17
+http://ko.dbpedia.org/resource/고리모토_역_(큐슈여객철도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/미나미가고시마_역

@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/교전국	네덜란드 반란군
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/네덜란드
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/알바_공작_3세_페르난도_알바레스_데_톨레도
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/날짜	1574
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/레이던
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/지휘관	레이던 시장
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/사상자	2000
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/사상자	500
+http://ko.dbpedia.org/resource/레이던_공방전	http://ko.dbpedia.org/property/결과	네덜란드 반란군 승리

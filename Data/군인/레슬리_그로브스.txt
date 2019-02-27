@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/군인
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/레지온_오브_메리트
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제1차_세계_대전
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/중장
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계_대전
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계대전
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴욕
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/훈공장
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/미국_육군_공로_훈장
+http://ko.dbpedia.org/resource/레슬리_그로브스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국

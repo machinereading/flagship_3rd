@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/일본
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/삿포로_시
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/기타_구_(삿포로_시)
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/역명	시노로
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/홋카이도
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/전역	G07 유리가하라
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/유리가하라_역
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/홋카이도_여객철도
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/다쿠호쿠_역
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/후역	G09 다쿠호쿠
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/개업일	1934
+http://ko.dbpedia.org/resource/시노로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/삿쇼_선

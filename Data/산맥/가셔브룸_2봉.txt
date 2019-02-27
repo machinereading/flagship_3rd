@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/가셔브룸_2봉	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/신장_위구르_자치구
+http://ko.dbpedia.org/resource/가셔브룸_2봉	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/카라코람_산맥
+http://ko.dbpedia.org/resource/가셔브룸_2봉	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/오스트리아
+http://ko.dbpedia.org/resource/가셔브룸_2봉	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/길기트발티스탄_주
+http://ko.dbpedia.org/resource/가셔브룸_2봉	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/파키스탄

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/루이_(가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/루이_(가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/루이_(가수)	http://ko.dbpedia.org/property/본명	황문섭
+http://ko.dbpedia.org/resource/루이_(가수)	http://dbpedia.org/ontology/activeYearsStartYear	2011
+http://ko.dbpedia.org/resource/루이_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/래퍼
+http://ko.dbpedia.org/resource/루이_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/대한민국의_힙합

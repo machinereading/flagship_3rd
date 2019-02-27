@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/랜덤하우스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뉴욕
+http://ko.dbpedia.org/resource/랜덤하우스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/브로드웨이
+http://ko.dbpedia.org/resource/랜덤하우스	http://ko.dbpedia.org/property/산업	출판업
+http://ko.dbpedia.org/resource/랜덤하우스	http://dbpedia.org/ontology/foundingYear	1927
+http://ko.dbpedia.org/resource/랜덤하우스	http://ko.dbpedia.org/property/제품	책
+http://ko.dbpedia.org/resource/랜덤하우스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/맨하탄
+http://ko.dbpedia.org/resource/랜덤하우스	http://dbpedia.org/ontology/industry	출판업
+http://ko.dbpedia.org/resource/랜덤하우스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미국

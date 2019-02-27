@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴저지_주
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/메이플우드
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/activeYearsStartYear	2008
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/birthDate	1999-02-07
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/activeYearsStartYear	2008
+http://ko.dbpedia.org/resource/비_밀러	http://ko.dbpedia.org/property/본명	비어트리스 애니카 밀러
+http://ko.dbpedia.org/resource/비_밀러	http://ko.dbpedia.org/property/본명	Beatrice Annika Miller
+http://ko.dbpedia.org/resource/비_밀러	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_록

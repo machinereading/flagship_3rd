@@ -1,0 +1,3 @@
+http://ko.dbpedia.org/resource/옐브루스_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/1874년
+http://ko.dbpedia.org/resource/옐브루스_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/캅카스_산맥
+http://ko.dbpedia.org/resource/옐브루스_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/Peter_Knubel

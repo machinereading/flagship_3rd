@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/압둘라_1세
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/해리_세인트_존_필비
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/토머스_에드워드_로런스
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/암만
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/알렉_커크브라이드
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/country	트란스요르단
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/foundingYear	1921
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/트란스요르단	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어

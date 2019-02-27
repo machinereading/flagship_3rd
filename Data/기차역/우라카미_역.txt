@@ -1,0 +1,20 @@
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/기키쓰_역
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/노선	■ 2호 계통
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/우쓰쓰가와_역
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/노선	나가사키 전기 궤도 1호 · 2호 · 3호 계통
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/노선	■ 1호 계통
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/역명	우라카미
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/모리마치_역
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/역명	우라카미에키마에
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/나가사키_역_(나가사키_현)
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/노선	■ 3호 계통
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/후역	나가사키
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/소재지	가와구치마치 1-50
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/소재지	가와구치마치
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/소재지	나가사키 현 나가사키 시
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/개업일	1897
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/개업일	1915
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/노선	나가사키 본선
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/노선	■ 나가사키 본선
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다이가쿠뵤인마에_역
+http://ko.dbpedia.org/resource/우라카미_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/니시우라카미_역

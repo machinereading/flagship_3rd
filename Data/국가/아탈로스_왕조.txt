@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에우메네스_2세
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아탈로스_1세
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에우메네스_3세(왕권_주장자)
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아탈로스_2세
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/그리스어
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/페르가몬
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/foundingYear	0282
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/필레타이로스
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에우메네스_1세
+http://ko.dbpedia.org/resource/아탈로스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아탈로스_3세

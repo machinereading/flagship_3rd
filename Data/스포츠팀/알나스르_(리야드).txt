@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/킹_파드_국제경기장
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/파비오_칸나바로
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://ko.dbpedia.org/property/구단주	파이살 빈 투르케이 빈 나세르
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/리야드
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/프린스_파이살_빈_파드_스타디움
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://dbpedia.org/ontology/foundingYear	1955
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/사우디_프로리그
+http://ko.dbpedia.org/resource/알나스르_(리야드)	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/사우디아라비아

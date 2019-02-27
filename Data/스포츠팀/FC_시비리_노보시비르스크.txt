@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/FC_시비리_노보시비르스크	http://dbpedia.org/ontology/foundingYear	1936
+http://ko.dbpedia.org/resource/FC_시비리_노보시비르스크	http://ko.dbpedia.org/property/감독	이고르 크리우쉔코
+http://ko.dbpedia.org/resource/FC_시비리_노보시비르스크	http://ko.dbpedia.org/property/구단주	레프 스트렐코프
+http://ko.dbpedia.org/resource/FC_시비리_노보시비르스크	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/러시아_퍼스트_디비전
+http://ko.dbpedia.org/resource/FC_시비리_노보시비르스크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/러시아
+http://ko.dbpedia.org/resource/FC_시비리_노보시비르스크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스파르타크_경기장_(노보시비르스크)

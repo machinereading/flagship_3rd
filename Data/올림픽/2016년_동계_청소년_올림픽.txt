@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://ko.dbpedia.org/property/참가국	71
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://dbpedia.org/ontology/motto	나아가자. 내일을 만들자.
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/하마르
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/예비크
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://ko.dbpedia.org/property/참가선수	약 1100
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/하랄_5세
+http://ko.dbpedia.org/resource/2016년_동계_청소년_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/릴레함메르

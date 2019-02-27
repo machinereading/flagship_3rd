@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/소리아
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/카스티야이레온_지방
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/누에보_에스타디오_로스_파야리토스
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/foundingYear	1945
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/카스티야레온_지방
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스페인
+http://ko.dbpedia.org/resource/CD_누만시아	http://ko.dbpedia.org/property/구단주	프란시스코 루비오 가르세스
+http://ko.dbpedia.org/resource/CD_누만시아	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세군다_디비시온
+http://ko.dbpedia.org/resource/CD_누만시아	http://ko.dbpedia.org/property/감독	후안 안토니오 안쿠엘라

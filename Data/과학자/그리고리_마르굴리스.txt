@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/그리고리_마르굴리스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/모스크바
+http://ko.dbpedia.org/resource/그리고리_마르굴리스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/리_군
+http://ko.dbpedia.org/resource/그리고리_마르굴리스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/소련
+http://ko.dbpedia.org/resource/그리고리_마르굴리스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/필즈상
+http://ko.dbpedia.org/resource/그리고리_마르굴리스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/울프상
+http://ko.dbpedia.org/resource/그리고리_마르굴리스	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학

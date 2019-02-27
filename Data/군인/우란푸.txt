@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/정치가
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/기타이력	소련 러시아 사회주의 공화국 모스크바 주 모스크바 동방노력자공산대학교 산업학과 중퇴
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/중화인민공화국
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/군인
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/쑤이위안_성
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/내몽골_자치구
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/기타이력	前 중화인민공화국 국가부주석
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/청나라
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/홍군
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/후허하오터_시
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/birthDate	1906-12-23
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/복무	중화인민공화국 육군
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/육군
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/중화인민공화국
+http://ko.dbpedia.org/resource/우란푸	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/4성_장군
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/중화인민공화국
+http://ko.dbpedia.org/resource/우란푸	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/홍군

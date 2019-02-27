@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/노유상	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/장연군
+http://ko.dbpedia.org/resource/노유상	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/황해도
+http://ko.dbpedia.org/resource/노유상	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/한국민속연보존회
+http://ko.dbpedia.org/resource/노유상	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/군인
+http://ko.dbpedia.org/resource/노유상	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/대한제국
+http://ko.dbpedia.org/resource/노유상	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/노유상	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/중령
+http://ko.dbpedia.org/resource/노유상	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/노유상	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/노유상	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한민국_육군

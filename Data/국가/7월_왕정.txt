@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/빅토르_드_브롤리
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/파리_(도시)
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/루이_마티유_몰레
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/루이_필리프_1세
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/country	프랑스
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/foundingYear	1830
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
+http://ko.dbpedia.org/resource/7월_왕정	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/파리의_노래

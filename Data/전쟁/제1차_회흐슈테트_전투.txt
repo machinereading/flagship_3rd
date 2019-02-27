@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/바바리아
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/회흐슈테트
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/사상자	1000
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/사상자	5000
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/날짜	1703
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/안할트-데사우_공작_레오폴트_1세
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/결과	프랑스 승리
+http://ko.dbpedia.org/resource/제1차_회흐슈테트_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/림뷔르흐_스티럼의_헤르만_오토_2세

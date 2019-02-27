@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/재즈
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/birthDate	1983-08-27
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/키르기스_소비에트_사회주의_공화국
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오시_(키르기스스탄)
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/블루스
+http://ko.dbpedia.org/resource/자말라	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/소련

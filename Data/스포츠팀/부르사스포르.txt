@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/부르사스포르	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/팀사흐_아레나
+http://ko.dbpedia.org/resource/부르사스포르	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/터키
+http://ko.dbpedia.org/resource/부르사스포르	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/쉬페르리그
+http://ko.dbpedia.org/resource/부르사스포르	http://dbpedia.org/ontology/foundingYear	1963
+http://ko.dbpedia.org/resource/부르사스포르	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/터키_수페르리그
+http://ko.dbpedia.org/resource/부르사스포르	http://ko.dbpedia.org/property/감독	세놀 귀네슈
+http://ko.dbpedia.org/resource/부르사스포르	http://ko.dbpedia.org/property/구단주	이브라힘 야즈즈

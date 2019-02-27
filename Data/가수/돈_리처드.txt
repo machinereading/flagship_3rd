@@ -1,0 +1,22 @@
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/아트_팝
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/R&B
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/실험_음악
+http://ko.dbpedia.org/resource/돈_리처드	http://ko.dbpedia.org/property/본명	Dawn Angeliqué Richard
+http://ko.dbpedia.org/resource/돈_리처드	http://ko.dbpedia.org/property/본명	돈 앙젤리케 리처드
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/얼터너티브_댄스
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악_프로듀서
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/애니메이터
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/댄서
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/birthDate	1983-08-05
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/루이지애나_주
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴올리언스
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/피아노
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/돈_리처드	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타

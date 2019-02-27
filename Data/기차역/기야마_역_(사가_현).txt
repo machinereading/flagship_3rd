@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/소재지	오아자 고쿠라 532
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/역명	기야마
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/소재지	사가 현 미야키 군 기야마 정
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/개업일	1921
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/가고시마_본선
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/노선	■ 가고시마 본선
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/하루다_역
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/노선	■ 아마기 철도 아마기 선
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/게야키다이_역
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/아마기_철도_아마기_선
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/다테노_역_(사가_현)
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/도스_역
+http://ko.dbpedia.org/resource/기야마_역_(사가_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/야요이가오카_역

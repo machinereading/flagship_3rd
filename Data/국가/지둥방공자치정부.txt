@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/퉁저우_구_(베이징_시)
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/퉁저우
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/베이징_시
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/foundingYear	1935
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/country	중화민국
+http://ko.dbpedia.org/resource/지둥방공자치정부	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/인루겅

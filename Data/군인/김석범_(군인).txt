@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_해군
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/한국_전쟁
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_해병대
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/평안남도
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/강서군
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/복무	대한민국 해병대
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/태평양_전쟁
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/기타이력	성우회 부회장
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/최종계급	만주국군:
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/최종계급	대한민국군:
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/만주국군
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/복무	대한민국 해군
+http://ko.dbpedia.org/resource/김석범_(군인)	http://ko.dbpedia.org/property/복무	일본 제국 육군
+http://ko.dbpedia.org/resource/김석범_(군인)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/일본_제국_육군

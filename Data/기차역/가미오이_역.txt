@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/고텐바_선
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/역명	가미오이
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/사가미카네코_역
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/시모소가_역
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/노선	■ 고텐바 선
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/소재지	가나가와 현 아시가라카미 군 오이 정 가미오이 617
+http://ko.dbpedia.org/resource/가미오이_역	http://ko.dbpedia.org/property/개업일	1948

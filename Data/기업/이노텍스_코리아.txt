@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/섬유
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://ko.dbpedia.org/property/제품	기능성 양말, 덧신 등
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/제조업
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/섬유
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://ko.dbpedia.org/property/창립자	정인직
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/제조업
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/중랑구
+http://ko.dbpedia.org/resource/이노텍스_코리아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시

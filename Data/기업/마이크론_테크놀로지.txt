@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/콤팩트플래시
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://dbpedia.org/ontology/foundingYear	1978
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/메모리스틱
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	RS-MMC
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/반도체
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/MMC
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/미니SD
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/USB_플래시_드라이브
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/SD_카드
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/산업	플래시 메모리 데이터 저장매체
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/아이다호_주
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/마이크로SD
+http://ko.dbpedia.org/resource/마이크론_테크놀로지	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/보이시

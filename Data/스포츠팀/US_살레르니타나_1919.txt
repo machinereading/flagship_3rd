@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/US_살레르니타나_1919	http://dbpedia.org/ontology/foundingYear	1919
+http://ko.dbpedia.org/resource/US_살레르니타나_1919	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세리에_B
+http://ko.dbpedia.org/resource/US_살레르니타나_1919	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/살레르노
+http://ko.dbpedia.org/resource/US_살레르니타나_1919	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이탈리아
+http://ko.dbpedia.org/resource/US_살레르니타나_1919	http://ko.dbpedia.org/property/구단주	마르코 메차로마
+http://ko.dbpedia.org/resource/US_살레르니타나_1919	http://ko.dbpedia.org/property/감독	카를로 페로네

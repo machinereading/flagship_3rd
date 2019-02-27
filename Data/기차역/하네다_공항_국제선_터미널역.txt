@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/소재지	도쿄 도 오타 구
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/하네다_공항역
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/역명	하네다 공항 국제선 터미널
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/개업일	2010
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/게이큐_가마타_역
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/덴쿠바시_역
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/시나가와_역
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/게이힌_급행_전철_공항선
+http://ko.dbpedia.org/resource/하네다_공항_국제선_터미널역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/게이힌_급행_전철

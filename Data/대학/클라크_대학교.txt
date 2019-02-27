@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/클라크_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/퓨마
+http://ko.dbpedia.org/resource/클라크_대학교	http://ko.dbpedia.org/property/총장	데이비드 에인절
+http://ko.dbpedia.org/resource/클라크_대학교	http://ko.dbpedia.org/property/표어	빛이 있으라
+http://ko.dbpedia.org/resource/클라크_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/우스터_(매사추세츠_주)
+http://ko.dbpedia.org/resource/클라크_대학교	http://ko.dbpedia.org/property/설립	1887
+http://ko.dbpedia.org/resource/클라크_대학교	http://dbpedia.org/ontology/mascot	퓨마

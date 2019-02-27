@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/다밍_현
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/뤄양_시
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/낙양
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이종후
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/foundingYear	0923
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이사원
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이존욱
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이종가
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/country	당
+http://ko.dbpedia.org/resource/후당	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어

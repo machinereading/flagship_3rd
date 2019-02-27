@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/영거
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/소과
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/아하
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/벌동
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/아차새
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/치무대
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/날짜	기원후 247년 ~ 248년
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/강유
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/장소	위나라 하서 농서, 남안, 금성, 서평
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/하후패
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/곽회
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/요화
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/강족
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/결과	위나라의 승리.
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/촉한
+http://ko.dbpedia.org/resource/하서의_난	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/위_(삼국)

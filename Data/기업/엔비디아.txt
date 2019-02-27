@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/엔비디아_쿼드로_GPU
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/엔비디아_테슬라_GPU
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/실드_콘솔
+http://ko.dbpedia.org/resource/엔비디아	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/전자제품
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/산업	전자기기
+http://ko.dbpedia.org/resource/엔비디아	http://dbpedia.org/ontology/industry	전자기기
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/창립자	젠슨황, 프리엠 커티스
+http://ko.dbpedia.org/resource/엔비디아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/산타클라라
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/지포스
+http://ko.dbpedia.org/resource/엔비디아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아주
+http://ko.dbpedia.org/resource/엔비디아	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/샌타클래라_(캘리포니아_주)
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/실드_태블릿
+http://ko.dbpedia.org/resource/엔비디아	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/실드_포터블

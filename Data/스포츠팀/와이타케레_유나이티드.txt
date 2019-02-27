@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/와이타케레_유나이티드	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/뉴질랜드
+http://ko.dbpedia.org/resource/와이타케레_유나이티드	http://ko.dbpedia.org/property/감독	크리스 밀리시치
+http://ko.dbpedia.org/resource/와이타케레_유나이티드	http://ko.dbpedia.org/property/구단주	렉스 도킨스
+http://ko.dbpedia.org/resource/와이타케레_유나이티드	http://dbpedia.org/ontology/foundingYear	2004
+http://ko.dbpedia.org/resource/와이타케레_유나이티드	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/뉴질랜드_축구_선수권_대회

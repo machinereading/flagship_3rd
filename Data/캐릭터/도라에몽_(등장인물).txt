@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/firstAppearance	1
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/species	로봇
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/firstAppearance	1973
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/일본
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/육아
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/고양이
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/로봇
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/후지코_후지오
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/birthDate	2112
+http://ko.dbpedia.org/resource/도라에몽_(등장인물)	http://dbpedia.org/ontology/gender	남자

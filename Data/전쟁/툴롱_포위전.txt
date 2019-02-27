@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/사상자	2000
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/교전국	프랑스 공화국
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/교전국	잉글랜드 연합 왕국
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/날짜	1793
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/장소	툴롱
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/사상자	4000
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/교전국	21
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/지휘관	후앙 데 랑가라
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/지휘관	사무엘 후드
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/지휘관	장 프랑수아 뒤고미에
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/지휘관	장 프랑수아 카르토
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/지휘관	장 프랑수아 코르뉘 드 라 포이프
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/결과	프랑스 공화파의 승리
+http://ko.dbpedia.org/resource/툴롱_포위전	http://ko.dbpedia.org/property/지휘관	나폴레옹 보나파르트

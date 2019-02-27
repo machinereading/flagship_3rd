@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/페르시아_만
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://dbpedia.org/ontology/country	이라크
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://dbpedia.org/ontology/country	이란
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/이란
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/이라크
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://dbpedia.org/ontology/length	200
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/유프라테스_강
+http://ko.dbpedia.org/resource/샤트알아랍_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/티그리스_강

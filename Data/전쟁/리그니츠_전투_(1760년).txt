@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/결과	프로이센 승리
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/사상자	?
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/교전국	border|center|90px프로이센
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/라우돈_남작_에른스트_기데온
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/프리드리히_대왕
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/교전국	center|93px합스부르크
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/장소	현재 폴란드 실레지아 지방 레그니차
+http://ko.dbpedia.org/resource/리그니츠_전투_(1760년)	http://ko.dbpedia.org/property/날짜	1760

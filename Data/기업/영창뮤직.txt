@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/플룻
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/신시사이저
+http://ko.dbpedia.org/resource/영창뮤직	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/인천광역시
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/창립자	김재섭
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/악기
+http://ko.dbpedia.org/resource/영창뮤직	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/악기
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/바이올린
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/색소폰
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/피아노
+http://ko.dbpedia.org/resource/영창뮤직	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/클라리넷

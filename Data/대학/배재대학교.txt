@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/배재대학교	http://ko.dbpedia.org/property/설립	1885
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국
+http://ko.dbpedia.org/resource/배재대학교	http://ko.dbpedia.org/property/총장	김영호
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/mascot	호랑이,은행나무,백목련
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/은행나무
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/호랑이
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/목련
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/배재대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/대전광역시
+http://ko.dbpedia.org/resource/배재대학교	http://ko.dbpedia.org/property/표어	크고자 하거든 남을 섬기라

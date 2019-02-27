@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/일본제국_육군
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://ko.dbpedia.org/property/최종계급	중령
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/일본제국_육군
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계_대전
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/도쿄_도
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://dbpedia.org/ontology/birthDate	1909-03-04
+http://ko.dbpedia.org/resource/다케다노미야_쓰네요시_친왕	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일본

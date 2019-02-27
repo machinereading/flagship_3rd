@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://ko.dbpedia.org/property/제품	항목이없습니다.
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/스포츠_엔터테인먼트
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://ko.dbpedia.org/property/창립자	테드 터너
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/애틀랜타
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/플로리다_주
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://ko.dbpedia.org/property/산업	프로레슬링, 스포츠 엔터테인먼트
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/프로레슬링
+http://ko.dbpedia.org/resource/월드_챔피언십_레슬링	http://dbpedia.org/ontology/foundingYear	1988

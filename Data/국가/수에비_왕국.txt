@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/수에비_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라틴어
+http://ko.dbpedia.org/resource/수에비_왕국	http://dbpedia.org/ontology/foundingYear	0409
+http://ko.dbpedia.org/resource/수에비_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/브라가
+http://ko.dbpedia.org/resource/수에비_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/수에비_왕국	http://dbpedia.org/ontology/country	스페인
+http://ko.dbpedia.org/resource/수에비_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/게르만어

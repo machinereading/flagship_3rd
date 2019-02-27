@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/사상자	88
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/사상자	63
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/남베트남
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/투이호아
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/사상자	26
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/교전국	북베트남
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/결과	대한민국의 승리
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/채명신
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/지휘관	알려지지 않음
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/날짜	1967
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/사상자	638
+http://ko.dbpedia.org/resource/홍길동_작전	http://ko.dbpedia.org/property/교전국	베트콩

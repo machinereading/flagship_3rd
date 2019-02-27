@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/미쓰비시연필	http://ko.dbpedia.org/property/산업	필기류
+http://ko.dbpedia.org/resource/미쓰비시연필	http://ko.dbpedia.org/property/제품	연필, 샤프 펜슬 샤프 체심 유성·수성 볼펜, 유성·수성 사인펜 등 필기구, 건전지, OA 용지 파일 등의 OA 관련 상품 또한 샤프너, 셀로판 테이프, 필통, 지우개, 수정 용품 등 탁상 용품, 및 화장품 등
+http://ko.dbpedia.org/resource/미쓰비시연필	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/도쿄_도
+http://ko.dbpedia.org/resource/미쓰비시연필	http://dbpedia.org/ontology/foundingYear	1887
+http://ko.dbpedia.org/resource/미쓰비시연필	http://dbpedia.org/ontology/industry	필기류

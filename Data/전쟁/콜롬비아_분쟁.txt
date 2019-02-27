@@ -1,0 +1,67 @@
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	34065
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	35000
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	http://ko.dbpedia.org/resource/콜롬비아의_반공_준군사조직
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	26648
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	알바로 우리베 벨레스
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	후안 마누엘 산토스
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	에르네스토 삼페르 피사노
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	11484
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	4908
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	18506
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	20001
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	222
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	22
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/사상자	2200
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	마우리키오 하라밀로
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	호아킨 고메스
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/콜롬비아
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	티몰레온 히메네스
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	이반 마르퀘스
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	­
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	안토니오 가르시아
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	프란시스코 갈란
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	피델 카스타뇨
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	카를로스 카스타뇨
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	안드레스 파스트라나 아랑고
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	케사르 가비리아 트루힐로
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	살바토레 마누쿠소
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	디에고 무릴로
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	비센테 카스타뇨
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/지휘관	로드리고 토바르 푸포
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/교전국	콜롬비아 정부
+* 육군
+* 해군보병대
+* 해군
+* 공군
+* 국가경찰
+----
+지원국
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/교전국	준군사조직
+* 22px AUC
+* AAA
+* CONVIVIR
+* ACCU
+* 검은 수리단
+* 로스 라스트로호스
+* 로스 우라베뇨스
+* 라 오피키나 데 엔비가도
+* 비차다 해방자
+* 블로퀘 메타
+* 로스 파이사스
+* ERPAC
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/교전국	----
+지원국
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/결과	현재 진행 중
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/교전국	좌익 유격대
+* 22px FARC
+* 22px ELN
+* 22px EPL
+* IRAFP
+* 22px M-19
+* MOEC
+* MAQL
+* ERC
+* GRA
+* PRT
+http://ko.dbpedia.org/resource/콜롬비아_분쟁	http://ko.dbpedia.org/property/날짜	1964

@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/츄바카	http://dbpedia.org/ontology/birthPlace	카쉬크
+http://ko.dbpedia.org/resource/츄바카	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루카스
+http://ko.dbpedia.org/resource/츄바카	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/츄바카	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/밀레니엄_팰콘
+http://ko.dbpedia.org/resource/츄바카	http://dbpedia.org/ontology/firstAppearance	스타워즈(1977)

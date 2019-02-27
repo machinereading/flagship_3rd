@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/노선	도쿄 도 교통국 ○ 오에도 선
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/전역	E 33 오치아이미나미나가사키
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/개업일	1997
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/역명	신에고타
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/전역	오치아이미나미나가사키 E 33
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/후역	E 35 네리마
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/소재지	도쿄 도 나카노 구
+http://ko.dbpedia.org/resource/신에고타_역	http://ko.dbpedia.org/property/노선	도쿄 도 교통국 ○ 12호선 오에도 선

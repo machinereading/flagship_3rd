@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/남일	http://ko.dbpedia.org/property/복무	소련군
+http://ko.dbpedia.org/resource/남일	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/조선인민군_육군
+http://ko.dbpedia.org/resource/남일	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/조선인민군_육군
+http://ko.dbpedia.org/resource/남일	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/함경북도
+http://ko.dbpedia.org/resource/남일	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제강점기_조선
+http://ko.dbpedia.org/resource/남일	http://ko.dbpedia.org/property/최종계급	소련군 대위
+http://ko.dbpedia.org/resource/남일	http://ko.dbpedia.org/property/최종계급	조선인민군 총참모장
+http://ko.dbpedia.org/resource/남일	http://ko.dbpedia.org/property/최종계급	조선인민군 육군 대장
+http://ko.dbpedia.org/resource/남일	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계_대전
+http://ko.dbpedia.org/resource/남일	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/스탈린그라드_전투
+http://ko.dbpedia.org/resource/남일	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/한국_전쟁

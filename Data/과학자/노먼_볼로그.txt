@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아이오와_주
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/세계_식량상
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/유전학
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/녹색_혁명
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/식물병리학
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/농학
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/의회_명예_훈장
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_평화상
+http://ko.dbpedia.org/resource/노먼_볼로그	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/대통령_자유_훈장

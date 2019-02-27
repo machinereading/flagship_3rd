@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/FK_AS_트렌친	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/트렌친
+http://ko.dbpedia.org/resource/FK_AS_트렌친	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/슬로바키아
+http://ko.dbpedia.org/resource/FK_AS_트렌친	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/슬로바키아_수페르리가
+http://ko.dbpedia.org/resource/FK_AS_트렌친	http://dbpedia.org/ontology/foundingYear	1992
+http://ko.dbpedia.org/resource/FK_AS_트렌친	http://ko.dbpedia.org/property/감독	류보미르 노시츠키
+http://ko.dbpedia.org/resource/FK_AS_트렌친	http://ko.dbpedia.org/property/구단주	츠헨 라 링

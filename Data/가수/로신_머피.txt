@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아일랜드_섬
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스_팝
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/아트_팝
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/전자_음악
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로니카
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아클로
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/위클로_주
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/아방가르드
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/실험음악
+http://ko.dbpedia.org/resource/로신_머피	http://ko.dbpedia.org/property/본명	Róisín Marie Murphy
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/birthDate	1973-07-05
+http://ko.dbpedia.org/resource/로신_머피	http://ko.dbpedia.org/property/본명	로신 메리 머피
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/activeYearsStartYear	1995
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/activeYearsStartYear	1995
+http://ko.dbpedia.org/resource/로신_머피	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/FC_샤흐테르_카라간디	http://ko.dbpedia.org/property/감독	Ivan Azovskiy
+http://ko.dbpedia.org/resource/FC_샤흐테르_카라간디	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/카자흐스탄
+http://ko.dbpedia.org/resource/FC_샤흐테르_카라간디	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/카자흐스탄_프리미어리그
+http://ko.dbpedia.org/resource/FC_샤흐테르_카라간디	http://ko.dbpedia.org/property/구단주	Grigoriy Loria
+http://ko.dbpedia.org/resource/FC_샤흐테르_카라간디	http://dbpedia.org/ontology/foundingYear	1958
+http://ko.dbpedia.org/resource/FC_샤흐테르_카라간디	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/샤흐테르_경기장_(카라간디)

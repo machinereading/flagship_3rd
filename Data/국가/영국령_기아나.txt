@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/영국령_기아나	http://dbpedia.org/ontology/country	가이아나
+http://ko.dbpedia.org/resource/영국령_기아나	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/영국령_기아나	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/식민지
+http://ko.dbpedia.org/resource/영국령_기아나	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/조지타운_(가이아나)
+http://ko.dbpedia.org/resource/영국령_기아나	http://dbpedia.org/ontology/foundingYear	1814
+http://ko.dbpedia.org/resource/영국령_기아나	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/영국의_국가

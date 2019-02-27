@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/날짜	1800
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	부상 3,600명,
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/장소	현재 이탈리아 피에몬테주 알렉산드리아근처 마렝고
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/결과	프랑스의 결정적 승리
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/지휘관	23
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/교전국	23
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	900
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	부상 5,518명,
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	사망 1,100명,
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	2921
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	사망 963명,
+http://ko.dbpedia.org/resource/마렝고_전투	http://ko.dbpedia.org/property/사상자	루이 드제 전사

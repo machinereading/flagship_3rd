@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/activeYearsStartYear	2006
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://ko.dbpedia.org/property/본명	Matias Kupiainen
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/프로그레시브_메탈
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/재즈_퓨전
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/퓨전_메탈
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/멜로딕_스피드_메탈
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/그라운드_코어
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/activeYearsStartYear	2006
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/헬싱키
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/그라인드코어
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/파워_메탈
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/birthDate	1983
+http://ko.dbpedia.org/resource/마티아스_쿠피아이넨	http://dbpedia.org/ontology/birthDate	1983-05-11

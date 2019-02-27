@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	예레미 비시니오비에츠키
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/날짜	1651
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	미코와이 포토츠키
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/사상자	30000
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/결과	폴란드군의 압도적인 승리
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/장소	현 우크라이나 베레스테츠코
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/교전국	폴란드-리투아니아 연방
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/자포로제_코사크
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/교전국	크림 칸국
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	스테판 차르니에츠키
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	마르친 칼리노프스키
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/보흐단_흐멜니츠키
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	얀 2세
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/사상자	700
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	토가이 베이
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	이반 보훈
+http://ko.dbpedia.org/resource/베레스테츠코_전투	http://ko.dbpedia.org/property/지휘관	이슬람 3세 기라이

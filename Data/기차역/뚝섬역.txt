@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/소재지	서울특별시 성동구 아차산로 18
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/한양대역
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/전역	209
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/개업일	1983
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/역명	뚝섬
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/후역	211
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/성수역
+http://ko.dbpedia.org/resource/뚝섬역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서울_지하철_2호선

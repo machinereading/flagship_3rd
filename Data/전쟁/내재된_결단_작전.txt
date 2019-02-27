@@ -1,0 +1,22 @@
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/교전국	* 미국 육군
+* 미국 공군
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/교전국	----
+ 알카에다
+*  알누스라 전선
+*  호라산
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/날짜	2014
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/결과	진행 중
+* ISIL과 알카에다에 대한 폭격
+* 인도적 지원
+* 지역 군대에 대한 지원 및 무장
+* 2명의 기자, 2명의 봉사자, 1명의 정유사 사망
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/지휘관	아부 알바그다디 
+ 아부 알라 아프리 †
+ 아부 알이라키 
+ 아부 알안바리 
+ 아부 알 줄라니
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/지휘관	버락 오바마 
+ 애슈턴 카터 
+ 제임스 테리
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/이라크
+http://ko.dbpedia.org/resource/내재된_결단_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/시리아

@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/요코스카_선
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/소재지	가나가와 현 즈시 시
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 요코스카 선
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/전역	가마쿠라
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/역명	즈시
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/가마쿠라_역
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/히가시즈시_역
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/소재지	즈시 1초메 1번 10호
+http://ko.dbpedia.org/resource/즈시_역	http://ko.dbpedia.org/property/개업일	1889

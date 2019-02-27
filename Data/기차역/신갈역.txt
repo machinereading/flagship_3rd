@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/구성역_(용인)
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/기흥역
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/전역	K235 구성
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/역명	신갈
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/소재지	경기도 용인시 기흥구 기흥로 지하136
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/후역	K237 기흥
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/분당선
+http://ko.dbpedia.org/resource/신갈역	http://ko.dbpedia.org/property/개업일	2011

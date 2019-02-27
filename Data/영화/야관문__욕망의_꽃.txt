@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://ko.dbpedia.org/property/장르	로맨스, 미스터리
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://ko.dbpedia.org/property/개봉	2013
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://ko.dbpedia.org/property/감독	임경수
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://ko.dbpedia.org/property/등급	청소년 관람불가
+http://ko.dbpedia.org/resource/야관문:_욕망의_꽃	http://ko.dbpedia.org/property/시간	95

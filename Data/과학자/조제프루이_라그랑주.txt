@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수리물리학
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/토리노
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/사르데냐_왕국
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/에콜_폴리테크니크
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/천체역학
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/토리노_대학교
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/해석학_(수학)
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/정수론
+http://ko.dbpedia.org/resource/조제프루이_라그랑주	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/라그랑주_역학

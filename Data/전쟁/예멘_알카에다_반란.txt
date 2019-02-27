@@ -1,0 +1,19 @@
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	아부 바크르 알바그다디
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	무함마드 알리 알후티
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	살레 알리 알사마드
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	압드라보 만수르 하디
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	알리 압둘라 살레
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	압둘말리크 알후티
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	이브라힘 알루바시†
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	나세르 알안시
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	칼리드 바라피
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	나시르 알우하시
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/지휘관	카짐 알라미
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/예멘
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/결과	진행중
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/날짜	1998
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/교전국	23
+http://ko.dbpedia.org/resource/예멘_알카에다_반란	http://ko.dbpedia.org/property/교전국	*정부군
+*수니파 민병대
+* 예멘 육군
+* 예멘 경찰

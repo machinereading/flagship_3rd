@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/페어필드_(캘리포니아_주)
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/activeYearsStartYear	2008
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/랩퍼
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악
+http://ko.dbpedia.org/resource/세이즈_더_저미니	http://dbpedia.org/ontology/birthDate	1992-06-20

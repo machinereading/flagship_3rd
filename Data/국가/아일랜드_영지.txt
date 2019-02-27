@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/헨리_8세
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아일랜드어
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/제1대_리치먼드와_서머셋_공작_헨리_피츠로이
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/헨리_2세
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/제1대_마치_백작_로저_모티머
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/foundingYear	1171
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/더블린
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/country	아일랜드
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/봉건제
+http://ko.dbpedia.org/resource/아일랜드_영지	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/봉건군주제

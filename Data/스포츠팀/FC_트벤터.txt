@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/foundingYear	1965
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/네덜란드
+http://ko.dbpedia.org/resource/FC_트벤터	http://ko.dbpedia.org/property/구단주	요프 뮌스테르만
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/더_흐롤스_페스터
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/엔스헤더
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/엔스헤데
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/에레디비지에
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/league	에레디비지에
+http://ko.dbpedia.org/resource/FC_트벤터	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/에레디비시
+http://ko.dbpedia.org/resource/FC_트벤터	http://ko.dbpedia.org/property/감독	코 아드리안세

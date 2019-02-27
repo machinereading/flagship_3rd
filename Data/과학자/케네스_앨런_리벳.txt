@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/케네스_앨런_리벳	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/케네스_앨런_리벳	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/페르마상
+http://ko.dbpedia.org/resource/케네스_앨런_리벳	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/케네스_앨런_리벳	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴욕
+http://ko.dbpedia.org/resource/케네스_앨런_리벳	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/리벳_정리
+http://ko.dbpedia.org/resource/케네스_앨런_리벳	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/수학자

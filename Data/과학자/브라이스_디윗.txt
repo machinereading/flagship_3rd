@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/브라이스_디윗	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/휠러-디윗_방정식
+http://ko.dbpedia.org/resource/브라이스_디윗	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/물리학자
+http://ko.dbpedia.org/resource/브라이스_디윗	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/디랙_상
+http://ko.dbpedia.org/resource/브라이스_디윗	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
+http://ko.dbpedia.org/resource/브라이스_디윗	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/이론물리학

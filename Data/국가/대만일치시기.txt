@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/쇼와_천황
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/메이지_천황
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/타이베이_시
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/foundingYear	1895
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌_군주국
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/일본어
+http://ko.dbpedia.org/resource/대만일치시기	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/기미가요

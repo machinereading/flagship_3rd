@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/날짜	1944
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/결과	연합군의 승리
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/웨상_섬
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/교전국	폴란드 서부군
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/브르타뉴
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/사상자	구축함 1척 피해
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/지휘관	바실 존스
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/사상자	구축함 1척 격침 
+구축함 1척 자침 
+140명 포로 
+28명 사망
+http://ko.dbpedia.org/resource/웨상_섬_전투_(1944년)	http://ko.dbpedia.org/property/지휘관	테오도르 베흐톨셰임

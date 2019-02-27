@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/크레디트_스위스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/스위스
+http://ko.dbpedia.org/resource/크레디트_스위스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/금융
+http://ko.dbpedia.org/resource/크레디트_스위스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/금융
+http://ko.dbpedia.org/resource/크레디트_스위스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/취리히
+http://ko.dbpedia.org/resource/크레디트_스위스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/금융_서비스
+http://ko.dbpedia.org/resource/크레디트_스위스	http://dbpedia.org/ontology/foundingYear	1856
+http://ko.dbpedia.org/resource/크레디트_스위스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/금융_서비스

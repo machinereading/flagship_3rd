@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/foundingYear	1943
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/바기오
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/foundingYear	1941
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/마닐라
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/도쿄
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/타갈로그어
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/일본어
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/governmentType	공화국
+http://ko.dbpedia.org/resource/필리핀_제2공화국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/호세_P._라우렐

@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/날짜	1634
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/마티아스_갈라스
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/교전국	20
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/사상자	2400
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/뇌르틀링겐
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/사상자	6000
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/옥타비오_피콜로미니
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/구스타프_호른
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/바이에른
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/페르디난트
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/결과	스페인-황제군의 결정적 승리
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/베른하르트_폰_작센_바이마르
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/사상자	8000
+http://ko.dbpedia.org/resource/뇌르틀링겐_전투_(1634년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/신성로마제국의_페르디난트_3세

@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/인디_팝
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/activeYearsStartYear	2009
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/activeYearsStartYear	2009
+http://ko.dbpedia.org/resource/마리에테_한손	http://ko.dbpedia.org/property/본명	마리에테 페트라 카롤라 한손
+http://ko.dbpedia.org/resource/마리에테_한손	http://ko.dbpedia.org/property/본명	Mariette Petra Carola Hansson
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스웨덴
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/birthDate	1983-01-23
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/하르플링에
+http://ko.dbpedia.org/resource/마리에테_한손	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

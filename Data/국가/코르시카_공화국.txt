@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/파스콸레_파올리
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/코르시카어
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/country	코르시카
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/governmentType	입헌공화제
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/코르테
+http://ko.dbpedia.org/resource/코르시카_공화국	http://dbpedia.org/ontology/foundingYear	1755

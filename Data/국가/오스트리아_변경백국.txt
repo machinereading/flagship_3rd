@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/country	오스트리아
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/빈
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/비엔나
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/오스트로바이에른어
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/foundingYear	0976
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/governmentType	군주제
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/오스트리아_변경백_레오폴트_1세
+http://ko.dbpedia.org/resource/오스트리아_변경백국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/바이에른_공작_레오폴트

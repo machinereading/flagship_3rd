@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/아오이_역	http://ko.dbpedia.org/property/역명	아오이
+http://ko.dbpedia.org/resource/아오이_역	http://ko.dbpedia.org/property/후역	로쿠초 07
+http://ko.dbpedia.org/resource/아오이_역	http://ko.dbpedia.org/property/소재지	도쿄 도 아다치 구
+http://ko.dbpedia.org/resource/아오이_역	http://ko.dbpedia.org/property/전역	5
+http://ko.dbpedia.org/resource/아오이_역	http://ko.dbpedia.org/property/개업일	2005
+http://ko.dbpedia.org/resource/아오이_역	http://ko.dbpedia.org/property/노선	수도권 신도시 철도 TX 쓰쿠바 익스프레스 선

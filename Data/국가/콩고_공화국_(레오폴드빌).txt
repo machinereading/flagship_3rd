@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/루바어
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/모부투_세세_세코
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/콩고어
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조제프_카사부부
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/킨샤사
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화국
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/콩고_민주_공화국의_국가
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/foundingYear	1960
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/대통령제
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/스와힐리어
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/링갈라어
+http://ko.dbpedia.org/resource/콩고_공화국_(레오폴드빌)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어

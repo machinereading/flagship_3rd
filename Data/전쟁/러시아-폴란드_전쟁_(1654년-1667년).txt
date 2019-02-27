@@ -1,0 +1,26 @@
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/빈첸티_코르빈_고시에프스키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/얀_2세_카지미에시
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/스테판_차르니에츠키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/날짜	1654
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/스타니스와프_란츠코론스키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/바실리_셰레메테프
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/알렉세이_트루베츠코이
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/이반_호반스키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/바실리_부투를린
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/야코프_체르카스키_공
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/미하우_카지미에시_파츠
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/보흐단_흐멜니츠키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/유리_돌고루코프
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/결과	러시아 승리 – 안드루소보 조약
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/예르지_세바스티안_루보미르스키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/이반_비호프스키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/유리_흐멜니츠키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/페트로_도로셴코
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/파블로_테테리아
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/유럽
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/폴란드-리투아니아_연방
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/스타니스와프_레베라_포토츠키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/알렉산데르_힐라리_포우빈스키
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/파베우_얀_사피에하
+http://ko.dbpedia.org/resource/러시아-폴란드_전쟁_(1654년-1667년)	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/야노시_라지비우

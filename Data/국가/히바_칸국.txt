@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/투르크멘어
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/카라칼팍어
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/foundingYear	1511
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/페르시아어
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/히바
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제_군주제
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/우즈베크어
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/카자흐어
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/사이드_압둘라_칸
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/코네우르겐치
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아불_가지_바하두르
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/일바르스_1세
+http://ko.dbpedia.org/resource/히바_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/무함마드_라힘_2세

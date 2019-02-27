@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/등급	12
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/시간	96
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/개봉	2006
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/장르	드라마, 공포
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/시미즈_다카시_(영화_감독)
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/일본어
+http://ko.dbpedia.org/resource/환생_(2006년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/유카_(1980년)

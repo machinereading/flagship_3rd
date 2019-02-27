@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/빌리_마튼	http://ko.dbpedia.org/property/본명	이저벨라 소피 트웨들
+http://ko.dbpedia.org/resource/빌리_마튼	http://ko.dbpedia.org/property/본명	Isabella Sophie Tweddle
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/activeYearsStartYear	2014
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/activeYearsStartYear	2014
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/birthDate	1999-05-27
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/리펀
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/민속_음악
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/잉글랜드
+http://ko.dbpedia.org/resource/빌리_마튼	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/어쿠스틱_음악

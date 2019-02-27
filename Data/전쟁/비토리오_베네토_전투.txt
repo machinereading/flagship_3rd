@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/장소	이탈리아 북동부
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/사상자	총 36,498 명
+* 1,830명
+* 588명
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/날짜	1918
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/결과	연합국 승리
+* 이탈리아 전선 종료
+* 오스트리아-헝가리 제국의 항복에 기여
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/지휘관	스베토자르 보레비치
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/교전국	체코 지방
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/사상자	:
+35,000명 사상
+426.000명 포로
+http://ko.dbpedia.org/resource/비토리오_베네토_전투	http://ko.dbpedia.org/property/지휘관	아르만도 디아츠

@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/로얄_유고슬라비아_군
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/로얄_세르비아_군
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://ko.dbpedia.org/property/최종계급	장군
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/비르투티_밀리타리
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/훈공장
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/체트니크
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제1차_세계_대전
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/로얄_유고슬라비아_군
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계_대전
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/발칸_전쟁
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/체트니크
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/유고슬라비아_전선
+http://ko.dbpedia.org/resource/드라자_미하일로비치	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/로얄_세르비아_군

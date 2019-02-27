@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/선우진	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/1990년
+http://ko.dbpedia.org/resource/선우진	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/한국광복군
+http://ko.dbpedia.org/resource/선우진	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/한국광복군
+http://ko.dbpedia.org/resource/선우진	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/1977년
+http://ko.dbpedia.org/resource/선우진	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/정주시
+http://ko.dbpedia.org/resource/선우진	http://ko.dbpedia.org/property/기타이력	백범기념관 상무이사
+http://ko.dbpedia.org/resource/선우진	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/선우진	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/평안북도
+http://ko.dbpedia.org/resource/선우진	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/비상국민회의
+http://ko.dbpedia.org/resource/선우진	http://ko.dbpedia.org/property/기타이력	백범김구선생기념사업협회 상무이사
+http://ko.dbpedia.org/resource/선우진	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/중위
+http://ko.dbpedia.org/resource/선우진	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/한국광복군

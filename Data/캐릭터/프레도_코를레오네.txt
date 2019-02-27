@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/이탈리아인
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/gender	남자
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴욕_주
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/마피아
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴욕_시
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/firstAppearance	소설《대부》(1969년)
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/birthDate	1920
+http://ko.dbpedia.org/resource/프레도_코를레오네	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/마리오_푸조

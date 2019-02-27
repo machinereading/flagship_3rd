@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/후역	세이조가쿠엔마에 OH 14
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/후역	지토세후나바시 OH 12
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/소재지	도쿄 도 세타가야 구 교도 2초메 1번 3호
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/후역	무정차통과
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/오다큐_전철
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/오다큐_전철_오다와라_선
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/전역	OH 07 시모키타자와
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/전역	OH 10 고토쿠지
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/개업일	1927
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/역명	교도
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/파일:Odakyu_odawara.svg
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/전역	무정차통과
+http://ko.dbpedia.org/resource/교도_역	http://ko.dbpedia.org/property/노선	오다큐 전철 15px|OH|link=오다큐 전철 오다와라 선 오다와라 선

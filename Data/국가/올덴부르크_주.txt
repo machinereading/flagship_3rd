@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/올덴부르크_주	http://dbpedia.org/ontology/foundingYear	1918
+http://ko.dbpedia.org/resource/올덴부르크_주	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/올덴부르크
+http://ko.dbpedia.org/resource/올덴부르크_주	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
+http://ko.dbpedia.org/resource/올덴부르크_주	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화제
+http://ko.dbpedia.org/resource/올덴부르크_주	http://dbpedia.org/ontology/country	독일

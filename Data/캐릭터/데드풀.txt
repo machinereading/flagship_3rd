@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/firstAppearance	(1991년 2월)
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/occupation	용병,암살자
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/firstAppearance	《뉴 뮤턴트》 #98
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/롭_라이펠드
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/파비안_니시에사
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캐나다
+http://ko.dbpedia.org/resource/데드풀	http://dbpedia.org/ontology/birthPlace	캐나다

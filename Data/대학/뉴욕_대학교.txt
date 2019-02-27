@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://ko.dbpedia.org/property/총장	Andrew Hamilton
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://ko.dbpedia.org/property/표어	Perstare et praestare
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/뉴욕
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://ko.dbpedia.org/property/표어	인내하고 뛰어나게
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/스라소니
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://dbpedia.org/ontology/mascot	스라소니(Bobcat)
+http://ko.dbpedia.org/resource/뉴욕_대학교	http://ko.dbpedia.org/property/설립	1831

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/플로리다_주
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://ko.dbpedia.org/property/감독	톰 서머니
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://ko.dbpedia.org/property/구단주	플라비오 아우구스토 데 실바
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/캠핑_월드_스타디움
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://ko.dbpedia.org/property/구단주	필 로우린
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://dbpedia.org/ontology/foundingYear	2015
+http://ko.dbpedia.org/resource/올랜도_프라이드	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/내셔널_우먼스_사커_리그

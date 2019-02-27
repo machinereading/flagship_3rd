@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/라이프치히
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://ko.dbpedia.org/property/설립	1409
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://ko.dbpedia.org/property/총장	Franz Häuser
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://dbpedia.org/ontology/mascot	Alma mater Lipsiensis
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://ko.dbpedia.org/property/표어	A Tradition of Crossing Boundaries
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/Germany
+http://ko.dbpedia.org/resource/라이프치히_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/독일

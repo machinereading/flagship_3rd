@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/activeYearsStartYear	1979
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/activeYearsStartYear	1979
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/털리도
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오하이오_주
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/birthDate	1958-01-26
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/스무스_재즈
+http://ko.dbpedia.org/resource/애니타_베이커	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/솔_재즈

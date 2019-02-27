@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/포르쉐	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/산업
+http://ko.dbpedia.org/resource/포르쉐	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/자동차
+http://ko.dbpedia.org/resource/포르쉐	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/산업
+http://ko.dbpedia.org/resource/포르쉐	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/자동차
+http://ko.dbpedia.org/resource/포르쉐	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/페르디난트_포르셰
+http://ko.dbpedia.org/resource/포르쉐	http://dbpedia.org/ontology/foundingYear	1931
+http://ko.dbpedia.org/resource/포르쉐	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/페리_포르셰
+http://ko.dbpedia.org/resource/포르쉐	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/바덴뷔르템베르크_주
+http://ko.dbpedia.org/resource/포르쉐	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/슈투트가르트
+http://ko.dbpedia.org/resource/포르쉐	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/자동차

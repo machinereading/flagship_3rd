@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/마리트_베리만	http://ko.dbpedia.org/property/본명	Liv-Marit Bergman
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/마리트_베리만	http://ko.dbpedia.org/property/본명	리브마리트 베리만
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스웨덴
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/birthDate	1975-05-21
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/activeYearsStartYear	1995
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/달라르나_주
+http://ko.dbpedia.org/resource/마리트_베리만	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악

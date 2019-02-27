@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/A_PFG
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://ko.dbpedia.org/property/감독	디미타르 페네프
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/소피아
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/불가리아
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/A_프로축구그룹
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/불가르스카_아르미야_스타디움
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://ko.dbpedia.org/property/구단주	알렉산다르 토모프
+http://ko.dbpedia.org/resource/PFC_CSKA_소피아	http://dbpedia.org/ontology/foundingYear	1948

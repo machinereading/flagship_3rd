@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/테러리즘
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/birthPlace	불명
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/firstAppearance	《배트맨》#1 (1940년)
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/밥_케인
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/birthDate	불명
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/빌_핑거
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/제리_로빈슨
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/gender	남자
+http://ko.dbpedia.org/resource/조커_(DC_코믹스)	http://dbpedia.org/ontology/nationality	무정부주의자

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/부랴트_공화국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/레오니드_포타포프
+http://ko.dbpedia.org/resource/부랴트_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/부랴트어
+http://ko.dbpedia.org/resource/부랴트_공화국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/러시아
+http://ko.dbpedia.org/resource/부랴트_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화국
+http://ko.dbpedia.org/resource/부랴트_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/러시아어
+http://ko.dbpedia.org/resource/부랴트_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/울란우데

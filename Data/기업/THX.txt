@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/THX	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소리
+http://ko.dbpedia.org/resource/THX	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/비디오
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/소리
+http://ko.dbpedia.org/resource/THX	http://dbpedia.org/ontology/foundingYear	1983
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/창립자	Robert Hewitt, VP Sales
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/창립자	Richard Dean, VP Technology
+http://ko.dbpedia.org/resource/THX	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/THX	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/샌_라파엘
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/창립자	Tomlinson Holman, Developer
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/제품	디지털 오디오, 비디오 마스터링 기술
+http://ko.dbpedia.org/resource/THX	http://ko.dbpedia.org/property/창립자	David Pierce, General Manager

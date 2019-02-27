@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/activeYearsStartYear	1973
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/activeYearsStartYear	1973
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/광둥어_대중음악
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/홍콩
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/영화_배우
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/건반
+http://ko.dbpedia.org/resource/중전타오	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

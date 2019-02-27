@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/역명	무이카마치
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/무이카마치_역
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/조에쓰_선
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/시오자와_역
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/소재지	니가타 현 미나미우오누마 시 무이카 정 140-2번지
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/이쓰카마치_역
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/우오누마큐료_역
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/개업일	1923
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/노선	■ 호쿠에쓰 급행 호쿠호쿠 선
+http://ko.dbpedia.org/resource/무이카마치_역	http://ko.dbpedia.org/property/노선	■ 조에쓰 선

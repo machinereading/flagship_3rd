@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/케이트_레싱	http://ko.dbpedia.org/property/본명	Katarzyna Lesing
+http://ko.dbpedia.org/resource/케이트_레싱	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/디스코
+http://ko.dbpedia.org/resource/케이트_레싱	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/케이트_레싱	http://dbpedia.org/ontology/activeYearsStartYear	1995
+http://ko.dbpedia.org/resource/케이트_레싱	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝
+http://ko.dbpedia.org/resource/케이트_레싱	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/케이트_레싱	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

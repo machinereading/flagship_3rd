@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/도루_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/스페인
+http://ko.dbpedia.org/resource/도루_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/포스두도루
+http://ko.dbpedia.org/resource/도루_강	http://dbpedia.org/ontology/length	897
+http://ko.dbpedia.org/resource/도루_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/피코스데우르비온
+http://ko.dbpedia.org/resource/도루_강	http://dbpedia.org/ontology/country	포르투갈
+http://ko.dbpedia.org/resource/도루_강	http://dbpedia.org/ontology/country	스페인

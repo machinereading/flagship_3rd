@@ -1,0 +1,19 @@
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/피아노
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	작사가
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/birthDate	1943-05-20
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/연극배우
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가창
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	연극배우
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/뮤지컬_배우
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작사가
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/칸초네
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/풀리아_주
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/activeYearsStartYear	1965
+http://ko.dbpedia.org/resource/알_바노	http://dbpedia.org/ontology/activeYearsStartYear	1965
+http://ko.dbpedia.org/resource/알_바노	http://ko.dbpedia.org/property/본명	알바노 카리시
+http://ko.dbpedia.org/resource/알_바노	http://ko.dbpedia.org/property/본명	Albano Carrisi

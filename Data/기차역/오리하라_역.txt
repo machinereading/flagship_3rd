@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/오리하라_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/요리이_역
+http://ko.dbpedia.org/resource/오리하라_역	http://ko.dbpedia.org/property/노선	■ 하치코 선
+http://ko.dbpedia.org/resource/오리하라_역	http://ko.dbpedia.org/property/개업일	1934
+http://ko.dbpedia.org/resource/오리하라_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다케자와_역
+http://ko.dbpedia.org/resource/오리하라_역	http://ko.dbpedia.org/property/소재지	사이타마 현 오사토 군 요리이 정 오아자 니시노이리 602-4
+http://ko.dbpedia.org/resource/오리하라_역	http://ko.dbpedia.org/property/역명	오리하라

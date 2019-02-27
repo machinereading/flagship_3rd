@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/개업일	1934
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/고노_선
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/요코이소_역
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/노선	■ 고노 선
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/히로토_역
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/역명	후카우라
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/후카우라_역	http://ko.dbpedia.org/property/소재지	아오모리 현 니시쓰가루 군 후카우라 정

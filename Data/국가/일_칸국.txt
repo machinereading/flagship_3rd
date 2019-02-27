@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/훌라구_칸
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/페르시아어
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아부_사이드_(일_칸국)
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/술타니야
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/foundingYear	1256
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/마라게
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/타브리즈
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/몽골어
+http://ko.dbpedia.org/resource/일_칸국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제

@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/네뷸러상
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/O._헨리
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/퓰리처상_픽션_부문
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소설
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/퓰리처상_픽션_부분
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/워싱턴_D.C.
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/조지타운
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/피츠버그_대학교
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/휴고상
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/워싱턴_D._C.
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/유대인_경찰연합
+http://ko.dbpedia.org/resource/마이클_셰이본	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/캐벌리어와_클레이의_놀라운_모험

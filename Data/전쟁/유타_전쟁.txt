@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/결과	브링엄 영이 주지사로 교체되고, 참가자 사면
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/교전국	미국
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/브리검_영
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/데자렛_주
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/사상자	38
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/날짜	1857
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/사상자	불명
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/사상자	민간인 126명 사망
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/유타_주
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/지휘관	제임스 뷰캐넌
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/와이오밍
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/대니얼_H._웰스
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/롯_스미스
+http://ko.dbpedia.org/resource/유타_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/앨버트_S._존스턴

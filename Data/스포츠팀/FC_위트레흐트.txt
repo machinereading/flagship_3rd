@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/에레디비시
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://ko.dbpedia.org/property/감독	로프 알플런
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://dbpedia.org/ontology/league	에레디비시
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/네덜란드
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디온_할헨바르트
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://ko.dbpedia.org/property/구단주	얀 빌렘 반 도프
+http://ko.dbpedia.org/resource/FC_위트레흐트	http://dbpedia.org/ontology/foundingYear	1970

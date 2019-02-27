@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://dbpedia.org/ontology/foundingYear	1990
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://ko.dbpedia.org/property/창립자	브라이언 라펠
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://ko.dbpedia.org/property/창립자	스티브 라펠
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/위스콘신_주
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://ko.dbpedia.org/property/제품	제작한 게임 확인
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미틀턴
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_개발
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_개발
+http://ko.dbpedia.org/resource/레이븐_소프트웨어	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업

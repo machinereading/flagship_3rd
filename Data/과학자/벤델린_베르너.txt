@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/유럽수학회
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/롤로_데이비슨_상
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/로에브상
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/필즈상
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/페르마상
+http://ko.dbpedia.org/resource/벤델린_베르너	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/파리_제6대학
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/벤델린_베르너	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/파리_제11대학
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/슈람-뢰브너_진화
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서독
+http://ko.dbpedia.org/resource/벤델린_베르너	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/쾰른

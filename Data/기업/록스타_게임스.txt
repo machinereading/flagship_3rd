@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/테리_도노반
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/샘_하우저
+http://ko.dbpedia.org/resource/록스타_게임스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뉴욕
+http://ko.dbpedia.org/resource/록스타_게임스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뉴욕_주
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/레드_데드
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/불리
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/L.A._느와르
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/맥스_페인
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/그랜드_테프트_오토
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/더_워리어즈
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/맨헌트
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/비디오_게임_산업
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/에이전트_(비디오_게임)
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/미드나이트_클럽
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/댄_하우저
+http://ko.dbpedia.org/resource/록스타_게임스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업
+http://ko.dbpedia.org/resource/록스타_게임스	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/개리_포어맨

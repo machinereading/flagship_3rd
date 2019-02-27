@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/capital	라벤나
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/capital	메디올라눔
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/밀라노
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/라벤나
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/호노리우스
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/율리우스_네포스
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라틴어
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/foundingYear	0285
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/로물루스_아우구스투스
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/사두_정치
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제_정치
+http://ko.dbpedia.org/resource/서로마_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제

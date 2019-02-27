@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/영국
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/베이즈_정리
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/왕립_학회
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/런던
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/신학
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/장로교
+http://ko.dbpedia.org/resource/토머스_베이즈	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/통계학

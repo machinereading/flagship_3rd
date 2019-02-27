@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/남홍길	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/식물노화수명연구
+http://ko.dbpedia.org/resource/남홍길	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/식물노화수명연구
+http://ko.dbpedia.org/resource/남홍길	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/복잡계_생물학
+http://ko.dbpedia.org/resource/남홍길	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/시스템_생물학
+http://ko.dbpedia.org/resource/남홍길	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/시스템_생물학
+http://ko.dbpedia.org/resource/남홍길	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/대구경북과학기술원
+http://ko.dbpedia.org/resource/남홍길	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/University_of_North_Carolina,_Chapel_Hill_생화학_박사
+http://ko.dbpedia.org/resource/남홍길	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/서울대학교

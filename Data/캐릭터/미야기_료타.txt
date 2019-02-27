@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/인간
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/firstAppearance	20
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/이노우에_다케히코
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/고등학생
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/농구
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/gender	http://ko.dbpedia.org/resource/남성
+http://ko.dbpedia.org/resource/미야기_료타	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan

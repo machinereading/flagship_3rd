@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/역명	사가미 호
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/주오_본선
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다카오_역_(도쿄_도)
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/소재지	가나가와 현 사가미하라 시 미도리 구 요세 1395
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/개업일	1901
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/후지노_역
+http://ko.dbpedia.org/resource/사가미코_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■■ 주오 본선

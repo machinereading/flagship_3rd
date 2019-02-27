@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/사상자	전차: 40대 - 54대
+6대의 폭격기
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/장소	북프랑스 노르망디 해안
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/영국군
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/지휘관	존 크로커 
+ 필리프 키에페르
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/지휘관	에드가 포이흐팅거
+ 프리츠 비트
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/사상자	683
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/교전국	폴란드 서부군
+http://ko.dbpedia.org/resource/소드_해변	http://ko.dbpedia.org/property/날짜	1944

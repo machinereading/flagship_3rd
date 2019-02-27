@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/후루이치_역_(히로시마_현)
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/역명	오마치
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/소재지	히로시마 현 히로시마 시 아사미나미 구
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/후루이치바시_역
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	■ 히로시마 고속 교통 히로시마 신교통 1호선
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	■ 가베 선
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/비샤몬다이_역
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/미도리이_역
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/가베_선
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/히로시마_고속_교통_히로시마_신교통_1호선
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
+http://ko.dbpedia.org/resource/오마치_역_(히로시마_현)	http://ko.dbpedia.org/property/개업일	1994

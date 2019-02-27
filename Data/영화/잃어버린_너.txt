@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/잃어버린_너	http://ko.dbpedia.org/property/개봉	1991
+http://ko.dbpedia.org/resource/잃어버린_너	http://ko.dbpedia.org/property/장르	드라마, 로맨스
+http://ko.dbpedia.org/resource/잃어버린_너	http://ko.dbpedia.org/property/등급	15
+http://ko.dbpedia.org/resource/잃어버린_너	http://ko.dbpedia.org/property/시간	103
+http://ko.dbpedia.org/resource/잃어버린_너	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/잃어버린_너	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/잃어버린_너	http://ko.dbpedia.org/property/감독	원정수

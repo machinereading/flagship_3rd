@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/포크_록
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/재즈
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/민속_음악
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/activeYearsStartYear	1967
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/birthDate	1948-09-11
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록_음악
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/activeYearsStartYear	1967
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴몰든
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/존_마틴_(음악가)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

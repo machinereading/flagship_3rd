@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/개업일	1930
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/소재지	가나가와 현 요코스카 시
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/후역	요코스카추오 KK59
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/역명	시오이리
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/요코스카추오_역
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/노선	42
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/전역	KK54 옷파마
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/헤미_역
+http://ko.dbpedia.org/resource/시오이리_역_(가나가와_현)	http://ko.dbpedia.org/property/전역	KK57 헤미

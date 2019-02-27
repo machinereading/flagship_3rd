@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/노선	■ 가타마치 선
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/교타나베_역
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/JR_미야마키_역
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/소재지	미야마키카키노우치 61
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/소재지	교토 부 교타나베 시
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/가타마치_선
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/역명	도시샤마에
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/개업일	1986
+http://ko.dbpedia.org/resource/도시샤마에_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도

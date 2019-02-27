@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/2016년_하계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/미셰우_테메르
+http://ko.dbpedia.org/resource/2016년_하계_올림픽	http://ko.dbpedia.org/property/참가국	207
+http://ko.dbpedia.org/resource/2016년_하계_올림픽	http://dbpedia.org/ontology/motto	새로운 세계
+http://ko.dbpedia.org/resource/2016년_하계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/리우데자네이루
+http://ko.dbpedia.org/resource/2016년_하계_올림픽	http://ko.dbpedia.org/property/참가선수	11303

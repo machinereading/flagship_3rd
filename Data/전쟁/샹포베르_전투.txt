@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/날짜	1814
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프랑스
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/파리_(도시)
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/나폴레옹
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/교전국	프랑스 제국
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/오거스트_마르몽
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/지휘관	올수피예프 장군
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/사상자	3000
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/사상자	300
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/결과	프랑스의 승리
+http://ko.dbpedia.org/resource/샹포베르_전투	http://ko.dbpedia.org/property/교전국	22

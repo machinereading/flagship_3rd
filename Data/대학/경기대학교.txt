@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/경기대학교	http://dbpedia.org/ontology/mascot	교목 : 향나무
+http://ko.dbpedia.org/resource/경기대학교	http://dbpedia.org/ontology/mascot	교화 :백목련
+http://ko.dbpedia.org/resource/경기대학교	http://ko.dbpedia.org/property/총장	김기언
+http://ko.dbpedia.org/resource/경기대학교	http://ko.dbpedia.org/property/표어	"진리를 탐구하고 성실하게 책무를 수행하며
+http://ko.dbpedia.org/resource/경기대학교	http://ko.dbpedia.org/property/표어	진·성·애
+http://ko.dbpedia.org/resource/경기대학교	http://dbpedia.org/ontology/mascot	상징 동물 :거북이
+http://ko.dbpedia.org/resource/경기대학교	http://ko.dbpedia.org/property/표어	사회와 국가를 사랑하고 봉사하는 대학건설"
+http://ko.dbpedia.org/resource/경기대학교	http://ko.dbpedia.org/property/설립	1947
+http://ko.dbpedia.org/resource/경기대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/수원시
+http://ko.dbpedia.org/resource/경기대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국

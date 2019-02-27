@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/조지아_공과대학교	http://ko.dbpedia.org/property/총장	George P. "Bud" Peterson
+http://ko.dbpedia.org/resource/조지아_공과대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/United_States
+http://ko.dbpedia.org/resource/조지아_공과대학교	http://ko.dbpedia.org/property/설립	1885
+http://ko.dbpedia.org/resource/조지아_공과대학교	http://ko.dbpedia.org/property/표어	Progress and Service
+http://ko.dbpedia.org/resource/조지아_공과대학교	http://dbpedia.org/ontology/mascot	Yellow Jacket

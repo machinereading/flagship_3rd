@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/함돈희	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/전자공학
+http://ko.dbpedia.org/resource/함돈희	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/응용물리학
+http://ko.dbpedia.org/resource/함돈희	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/서울대학교
+http://ko.dbpedia.org/resource/함돈희	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/하버드대학교
+http://ko.dbpedia.org/resource/함돈희	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/칼텍
+http://ko.dbpedia.org/resource/함돈희	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/응용물리학
+http://ko.dbpedia.org/resource/함돈희	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/과학자
+http://ko.dbpedia.org/resource/함돈희	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/전자공학

@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/foundingYear	1040
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아달라흐_이븐_야신
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이사크_이븐_알리
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아그마트
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/마라케시
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/베르베르어
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/country	모로코
+http://ko.dbpedia.org/resource/무라비트_왕조	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제

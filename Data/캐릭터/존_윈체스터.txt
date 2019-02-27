@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/존_윈체스터	http://dbpedia.org/ontology/firstAppearance	Pilot
+http://ko.dbpedia.org/resource/존_윈체스터	http://dbpedia.org/ontology/occupation	사냥꾼
+http://ko.dbpedia.org/resource/존_윈체스터	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/에릭_크립키
+http://ko.dbpedia.org/resource/존_윈체스터	http://dbpedia.org/ontology/nationality	미국
+http://ko.dbpedia.org/resource/존_윈체스터	http://dbpedia.org/ontology/gender	남성
+http://ko.dbpedia.org/resource/존_윈체스터	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/미국

@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/소재지	홋카이도 도마코마이 시
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/노선	■ 무로란 본선
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/노선	■ 지토세 선
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/지토세_선
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/도아사_역
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/우에나에_역
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/후역	우에나에 H 16
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/무로란_본선
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/홋카이도_여객철도
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/개업일	1898
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/전역	H 18 도마코마이
+http://ko.dbpedia.org/resource/누마노하타_역	http://ko.dbpedia.org/property/역명	누마노하타

@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/NK_오시예크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/크로아티아
+http://ko.dbpedia.org/resource/NK_오시예크	http://ko.dbpedia.org/property/구단주	Zdravko Josić
+http://ko.dbpedia.org/resource/NK_오시예크	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프르바_HNL
+http://ko.dbpedia.org/resource/NK_오시예크	http://dbpedia.org/ontology/foundingYear	1947
+http://ko.dbpedia.org/resource/NK_오시예크	http://ko.dbpedia.org/property/감독	Stanko Mršić

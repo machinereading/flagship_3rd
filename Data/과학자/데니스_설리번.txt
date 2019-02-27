@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/오즈월드_베블런_기하학상
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/울프상_수학_부문
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/위상수학
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/수학자
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/유리수_호모토피_이론
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/울프_수학상
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/데니스_설리번	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/발찬상

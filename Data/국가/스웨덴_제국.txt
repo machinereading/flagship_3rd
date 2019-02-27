@@ -1,0 +1,15 @@
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/에스토니아어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/저지독일어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/스웨덴어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/덴마크어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라트비아어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/절대군주제
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/스톡홀름
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/foundingYear	1611
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/핀란드어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/country	스웨덴
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/노르웨이어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/사미어
+http://ko.dbpedia.org/resource/스웨덴_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라틴어

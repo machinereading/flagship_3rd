@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/안바카이_칸
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/카불_칸
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/country	몽골
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/칭기즈_칸
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/foundingYear	0010
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/foundingYear	1120
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/케룰렌_강
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/카이두_칸
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중세_몽골어
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/호툴라_칸
+http://ko.dbpedia.org/resource/카마그_몽골	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/선거군주제

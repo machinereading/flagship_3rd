@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/장소	현재 이탈리아 리볼리 베로네제
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/사상자	전사 및 부상 5,000명
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/사상자	전사 및 부상 혹은 포로 14,000명
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/피터_쿠아스다노비치
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/교전국	25
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/요제프_알빈치
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/나폴레옹_보나파르트
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/날짜	1797
+http://ko.dbpedia.org/resource/리볼리_전투	http://ko.dbpedia.org/property/결과	프랑스의 결정적 승리

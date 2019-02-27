@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/개업일	1997
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/노선	오사카 시 교통국 ■ 지하철 나가호리쓰루미료쿠치 선
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/노선	오사카 시 교통국 ■ 나가호리쓰루미료쿠치 선
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/개업일	2009
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/사쿠라가와_역_(오사카_부)
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/후역	니시나가호리 N13
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/한신_전기_철도
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/소재지	오사카 부 오사카 시 니시 구
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/전역	N11 다이쇼
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/역명	돔마에치요자키
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/역명	돔마에
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/노선	■ 한신 전기 철도 한신 난바 선
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/한신_전기_철도_한신_난바_선
+http://ko.dbpedia.org/resource/돔마에치요자키_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/구조_역_(오사카_부)

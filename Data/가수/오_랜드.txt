@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/전자_음악
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/코펜하겐
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/birthDate	1985-05-02
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/activeYearsStartYear	2008
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/activeYearsStartYear	2008
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/인디_팝
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/신스팝
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/실험_음악
+http://ko.dbpedia.org/resource/오_랜드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

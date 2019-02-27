@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/킹스_퀘스트
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/로스앤젤레스
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/켄_윌리엄스
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://dbpedia.org/ontology/foundingYear	1979
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/제품	영웅의 길
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/제품	레저 슈트 래리
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/제품	스페이스 퀘스트
+http://ko.dbpedia.org/resource/시에라_엔터테인먼트	http://ko.dbpedia.org/property/제품	가브리엘 나이트

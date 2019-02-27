@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/약수역
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/전역	536
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/개업일	1996
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/동대문역사문화공원역
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신금호역
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신당역
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/후역	635
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/후역	538
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/역명	청구
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/전역	633
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/소재지	서울특별시 중구 청구로 지하77
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서울_지하철_5호선
+http://ko.dbpedia.org/resource/청구역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서울_지하철_6호선

@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/사상자	약 4천명
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/사상자	많은 함선을 나포함
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/플랑드르
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/날짜	1340
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/교전국	15
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/결과	잉글랜드의 결정적 승리
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/사상자	25000
+http://ko.dbpedia.org/resource/슬로이스_해전	http://ko.dbpedia.org/property/지휘관	15

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/foundingYear	1229
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/고전_아랍어
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/베르베르어
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아부_자카리야
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/무함마드_6세
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/하프스_왕조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/튀니스

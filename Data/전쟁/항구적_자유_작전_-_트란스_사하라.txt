@@ -1,0 +1,19 @@
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	압델라지즈 부테플리카
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/결과	진행 중
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	마하마두 이수푸
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	굿럭 조너선
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	카터 햄
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/교전국	보코 하람
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/교전국	AQIM
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	버락 오바마
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/교전국	MOJWA
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/날짜	2007
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/교전국	안사르 디네
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	이브라힘 부바카르 케이타
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	블레즈 콩파오레
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	마키 살
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	이드리스 데비
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	조지 W. 부시
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/지휘관	몬세프 마르주키
+http://ko.dbpedia.org/resource/항구적_자유_작전_-_트란스_사하라	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/마그레브

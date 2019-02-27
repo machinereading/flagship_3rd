@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/샬럿_인디펜던스	http://ko.dbpedia.org/property/구단주	퀸시티 사커 클럽 LLC
+http://ko.dbpedia.org/resource/샬럿_인디펜던스	http://dbpedia.org/ontology/foundingYear	2014
+http://ko.dbpedia.org/resource/샬럿_인디펜던스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/노스캐롤라이나_주
+http://ko.dbpedia.org/resource/샬럿_인디펜던스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/유나이티드_사커_리그
+http://ko.dbpedia.org/resource/샬럿_인디펜던스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/램블우드_사커_콤플렉스
+http://ko.dbpedia.org/resource/샬럿_인디펜던스	http://ko.dbpedia.org/property/감독	마이크 제프리

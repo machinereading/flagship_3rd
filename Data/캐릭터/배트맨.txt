@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/고담_시
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/인간
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/firstAppearance	디텍티브 코믹스#27 (1939년)
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/탐정
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/gender	http://ko.dbpedia.org/resource/남성
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/밥_케인
+http://ko.dbpedia.org/resource/배트맨	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/미국

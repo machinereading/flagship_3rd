@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/나메가와_역
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/나리타_선
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/소재지	지바 현 나리타 시
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/나리타_역
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/노선	■ 나리타 선
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/개업일	1902
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/구즈미_역	http://ko.dbpedia.org/property/역명	구즈미

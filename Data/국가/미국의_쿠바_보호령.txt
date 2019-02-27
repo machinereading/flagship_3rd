@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/컬럼비아_만세
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/country	미국
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/스페인어
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/점령
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아바나
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/foundingYear	1898
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/foundingYear	1899
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/존_R._브룩
+http://ko.dbpedia.org/resource/미국의_쿠바_보호령	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/레너드_우드

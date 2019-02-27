@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/코부시_아비루	http://dbpedia.org/ontology/gender	여
+http://ko.dbpedia.org/resource/코부시_아비루	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/구메타_고지
+http://ko.dbpedia.org/resource/코부시_아비루	http://dbpedia.org/ontology/firstAppearance	http://ko.dbpedia.org/resource/안녕,_절망선생
+http://ko.dbpedia.org/resource/코부시_아비루	http://dbpedia.org/ontology/birthDate	9
+http://ko.dbpedia.org/resource/코부시_아비루	http://dbpedia.org/ontology/occupation	학생

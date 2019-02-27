@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/미카와시오쓰_역
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/오카자키_역
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/가마고리쿄테이조마에_역
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/미카와미야_역
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/전역	도요하시1
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이도_본선
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/역명	가마고리
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/나고야_철도_가마고리_선
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/노선	■ 가마고리 선
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/노선	■ 도카이도 본선
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/개업일	1888
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/소재지	미나토마치 1-1
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/개업일	1936
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/소재지	모토마치 1-1
+http://ko.dbpedia.org/resource/가마고리_역	http://ko.dbpedia.org/property/소재지	아이치 현 가마고리 시

@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/제국
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/foundingYear	0963
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/라호르
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/알프티긴
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/쿠스라우_말리크
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/foundingYear	0977
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/officialLanguage	아랍어
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/officialLanguage	튀르크어
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아랍어
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/페르시아어
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/가즈나
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/가즈니
+http://ko.dbpedia.org/resource/가즈나_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/튀르크어

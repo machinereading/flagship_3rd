@@ -1,0 +1,56 @@
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/동남아시아
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/중국
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/결과	양측 모두 승리 주장
+* 캄보디아에서 크메르 루주 몰락
+* 캄보디아 집단살해 종결
+* 친베트남 정권이 캄보디아에 수립
+* 동남아시아 일대의 국경 확정
+* 1990년 베트남 주둔 중국군 철수
+* 타이 공산당의 해체 위기
+* 1991년 캄보디아 주둔 중국군 철수
+* 노로돔 왕가의 복권
+* 라오스 반란 지속
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/날짜	1978
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/지휘관	마오쩌둥
+ 덩샤오핑
+ 리셴녠
+ 양상쿤
+ 예젠잉
+ 쉬샹첸
+ 푸미폰 아둔야뎃
+ 프렘 틴술라논다
+ 차발릿 용차이윗
+ 제럴드 포드 
+ 지미 카터 
+ 로널드 레이건 
+ 폴 포트 
+ 손 산 
+ 키우 삼판 
+ 노로돔 시아누크 
+ 압둘 할림 
+ 야히야 페트라 
+ 아흐메드 샤
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/지휘관	레주언
+ 똔득탕
+ 보응우옌잡
+ 반티엔덩
+ 수파누봉
+ 카이손 폼비한
+ 캄타이 시판돈
+ 헹 삼린
+ 훈 센
+ 찬 시
+ 파이놈 출라놋
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/교전국	캄푸치아 인민공화국
+ 타이 공산당
+지원국
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/교전국	라오스 왕당파
+
+ 민주 캄푸치아 
+* 크메르 루주
+* CGDK
+ FULRO 
+ 
+ 
+지원국
+http://ko.dbpedia.org/resource/제3차_인도차이나_전쟁	http://ko.dbpedia.org/property/교전국	말레이시아 공산당

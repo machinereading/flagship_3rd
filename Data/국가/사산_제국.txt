@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/foundingYear	0224
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/절대군주제
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아르다시르_1세
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/country	이란
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중세_페르시아어
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/이스타크르
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/야즈데게르드_3세
+http://ko.dbpedia.org/resource/사산_제국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/크테시폰

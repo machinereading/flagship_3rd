@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/전역	하이키
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/하이키_역
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/가와타나_역
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/역명	Huis Ten Bosch
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/노선	규슈 여객철도 ■ 오무라 선
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/하에노사키_역
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/개업일	1992
+http://ko.dbpedia.org/resource/하우스텐보스_역	http://ko.dbpedia.org/property/소재지	나가사키 현 사세보 시

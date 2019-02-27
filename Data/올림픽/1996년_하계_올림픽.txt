@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/1996년_하계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/애틀랜타
+http://ko.dbpedia.org/resource/1996년_하계_올림픽	http://ko.dbpedia.org/property/참가선수	10320
+http://ko.dbpedia.org/resource/1996년_하계_올림픽	http://dbpedia.org/ontology/motto	세기의 축하
+http://ko.dbpedia.org/resource/1996년_하계_올림픽	http://ko.dbpedia.org/property/참가국	197
+http://ko.dbpedia.org/resource/1996년_하계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/빌_클린턴

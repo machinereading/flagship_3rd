@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/미야모토_시게루
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/firstAppearance	슈퍼 마리오브라더스(1985년)
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/버섯_왕국
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/gender	남자
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/피치_공주
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/birthDate	1985
+http://ko.dbpedia.org/resource/키노피오	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/버섯_왕국

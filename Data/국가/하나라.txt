@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/계_(하나라)
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/foundingYear	2070
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/foundingYear	-2070
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/leaderName	17
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/걸_(하나라)
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/고대_중국어
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/country	하나라
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/덩펑_시
+http://ko.dbpedia.org/resource/하나라	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/우_(하나라)

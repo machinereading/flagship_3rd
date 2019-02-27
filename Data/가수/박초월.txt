@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/박초월	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/판소리
+http://ko.dbpedia.org/resource/박초월	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/한국_전통_음악
+http://ko.dbpedia.org/resource/박초월	http://dbpedia.org/ontology/activeYearsStartYear	1925
+http://ko.dbpedia.org/resource/박초월	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/전라남도
+http://ko.dbpedia.org/resource/박초월	http://ko.dbpedia.org/property/본명	박삼순
+http://ko.dbpedia.org/resource/박초월	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/국악인
+http://ko.dbpedia.org/resource/박초월	http://ko.dbpedia.org/property/본명	朴三順

@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/foundingYear	0509
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/foundingYear	-0509
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/로마
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/라틴어
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/고대_그리스어
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/과두_정치
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/루시우스_유니우스_브루투스
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/마르쿠스_빕사니우스_아그리파
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/루시우스_타르퀴니우스_콜라티누스
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화제
+http://ko.dbpedia.org/resource/로마_공화정	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아우구스투스

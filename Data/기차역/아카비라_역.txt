@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/전역	T 22 히가시타키카와
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/노선	홋카이도 여객철도 네무로 본선
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/후역	모시리 T 24
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/노선	■ 네무로 본선
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/후역	모시리 T24
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/소재지	홋카이도 아카비라 시
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/소재지	미소노초
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/개업일	1913
+http://ko.dbpedia.org/resource/아카비라_역	http://ko.dbpedia.org/property/역명	아카비라

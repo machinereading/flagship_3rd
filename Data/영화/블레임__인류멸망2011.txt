@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/블레임:_인류멸망2011	http://ko.dbpedia.org/property/언어	일본어
+http://ko.dbpedia.org/resource/블레임:_인류멸망2011	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/제제_타카히사
+http://ko.dbpedia.org/resource/블레임:_인류멸망2011	http://ko.dbpedia.org/property/개봉	2009
+http://ko.dbpedia.org/resource/블레임:_인류멸망2011	http://ko.dbpedia.org/property/시간	138
+http://ko.dbpedia.org/resource/블레임:_인류멸망2011	http://ko.dbpedia.org/property/등급	12
+http://ko.dbpedia.org/resource/블레임:_인류멸망2011	http://ko.dbpedia.org/property/장르	재난 SF, 액션, 스릴러

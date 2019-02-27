@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/다카야마_본선
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/소재지	기후 현 다카야마 시
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/역명	히다코쿠후
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/개업일	1934
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/노선	■ 다카야마 본선
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/히다후루카와_역
+http://ko.dbpedia.org/resource/히다코쿠후_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/호즈에_역

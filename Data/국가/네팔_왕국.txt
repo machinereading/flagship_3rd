@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/country	네팔
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/foundingYear	1768
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/라스트리야_간
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/절대군주제
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/카트만두
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/갸넨드라
+http://ko.dbpedia.org/resource/네팔_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/네팔어

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/CA_산로렌소	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온
+http://ko.dbpedia.org/resource/CA_산로렌소	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/엘_누에보_가소메트로
+http://ko.dbpedia.org/resource/CA_산로렌소	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아르헨티나
+http://ko.dbpedia.org/resource/CA_산로렌소	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/에스타디오_페드로_비데가인
+http://ko.dbpedia.org/resource/CA_산로렌소	http://ko.dbpedia.org/property/감독	파블로 구에데
+http://ko.dbpedia.org/resource/CA_산로렌소	http://ko.dbpedia.org/property/구단주	마티아스 라멘스
+http://ko.dbpedia.org/resource/CA_산로렌소	http://dbpedia.org/ontology/foundingYear	1908

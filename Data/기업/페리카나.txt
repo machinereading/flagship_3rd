@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/페리카나	http://ko.dbpedia.org/property/창립자	양희권
+http://ko.dbpedia.org/resource/페리카나	http://ko.dbpedia.org/property/산업	프랜차이즈
+http://ko.dbpedia.org/resource/페리카나	http://dbpedia.org/ontology/industry	프랜차이즈
+http://ko.dbpedia.org/resource/페리카나	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/충청남도
+http://ko.dbpedia.org/resource/페리카나	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/닭고기

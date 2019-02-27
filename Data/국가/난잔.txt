@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/foundingYear	1314
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/우후사토
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/타후치
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/오우에이지
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/foundingYear	0014
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/시마지리오오자토_성
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/타루미이
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/오우오우소
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/류큐어
+http://ko.dbpedia.org/resource/난잔	http://dbpedia.org/ontology/country	류큐

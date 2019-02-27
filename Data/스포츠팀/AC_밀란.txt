@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/AC_밀란	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/빈첸초_몬텔라
+http://ko.dbpedia.org/resource/AC_밀란	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이탈리아
+http://ko.dbpedia.org/resource/AC_밀란	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디오_주세페_메아차
+http://ko.dbpedia.org/resource/AC_밀란	http://ko.dbpedia.org/property/구단주	http://ko.dbpedia.org/resource/실비오_베를루스코니
+http://ko.dbpedia.org/resource/AC_밀란	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세리에_A
+http://ko.dbpedia.org/resource/AC_밀란	http://dbpedia.org/ontology/foundingYear	1899

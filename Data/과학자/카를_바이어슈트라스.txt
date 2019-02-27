@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/바이어슈트라스의_곱_정리
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/바이어슈트라스_함수
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/프로이센_왕국
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/바이어슈트라스_M-판정법
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/볼차노-바이어슈트라스_정리
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/바이어슈트라스_타원함수
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/엡실론-델타_논법
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/코플리_메달
+http://ko.dbpedia.org/resource/카를_바이어슈트라스	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/바이어슈트라스_정리

@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/도립대학역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/나카메구로_역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/미도리가오카_역_(도쿄_도)
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/개업일	1927
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/오오카야마_역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_급행_전철_도요코_선
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_급행_전철_오이마치_선
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/역명	지유가오카
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/노선	■ 도쿄 급행 전철 오이마치 선
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/가쿠게이_대학역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/노선	■ 도쿄 급행 전철 도요코 선
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/후역	덴엔초후
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/무사시코스기_역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/덴엔초후_역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/구혼부쓰_역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/후타코타마가와_역
+http://ko.dbpedia.org/resource/지유가오카_역_(도쿄_도)	http://ko.dbpedia.org/property/소재지	도쿄 도 메구로 구

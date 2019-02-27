@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악_프로듀서
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/랩_(음악)
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/birthDate	1968-06-25
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/랩_(음악)
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/activeYearsStartYear	1989
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/activeYearsStartYear	1990
+http://ko.dbpedia.org/resource/캔디맨_(래퍼)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비

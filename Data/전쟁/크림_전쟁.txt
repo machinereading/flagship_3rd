@@ -1,0 +1,30 @@
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	10240
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	16323
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	2019
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	2755
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	모두 522,000명사망,
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	오스만 제국군
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	20000
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	최소 60,000명에서 110,000명 사망
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	빅토리아 여왕
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	파트리스 드 마크마옹
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/교전국	간호병 지원국
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	나폴레옹 3세
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	카밀로 카보우르
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	윌리엄 윌리엄스 경
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/지휘관	압뒬메지트 1세
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	영국군
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	약 100,000명 사망
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	전체 2,050명 사망
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	샤르데냐군
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/날짜	1853
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/교전국	사르데냐 왕국
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	프랑스군
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/교전국	프랑스 제2제국
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	50000
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	75000
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/크림_반도
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	500000
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/사상자	200000
+http://ko.dbpedia.org/resource/크림_전쟁	http://ko.dbpedia.org/property/결과	영국, 프랑스, 오스만 제국 연합군 승리, 파리 조약 체결.

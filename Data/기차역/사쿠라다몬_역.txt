@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_(기업)
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/노선	○ 8호선 유라쿠초 선
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/개업일	1974
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/유라쿠초_역
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/후역	Y18 유라쿠초
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/역명	사쿠라다몬
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_주식회사
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도쿄_지하철_유라쿠초_선
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/전역	Y16 나가타초
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/나가타초_역
+http://ko.dbpedia.org/resource/사쿠라다몬_역	http://ko.dbpedia.org/property/소재지	도쿄 도 지요다 구

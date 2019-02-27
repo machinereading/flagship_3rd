@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/교전국	border|85px|center소비에트 연방
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	발터 피셔 폰 바이커스탈
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/사상자	전투원: 3000명
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/교전국	75
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	L.M. 도바토르
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	I.V. 판필로프
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/장소	크류코보 , 소련
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	M.E. 카투코프
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	구스타프 펜
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/결과	붉은 군대의 승리. 나치 독일군은 모스크바로부터 물러나게 됨. 모스크바 교외에서 붉은 군대가 역공세로 전환함.
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	발터 쉴러
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/지휘관	K.K. 로코소프스키
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/날짜	1941
+http://ko.dbpedia.org/resource/크류코보_전투	http://ko.dbpedia.org/property/사상자	알려지지 않음

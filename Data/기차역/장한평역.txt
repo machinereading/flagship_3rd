@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/군자역
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/답십리역
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/후역	544
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/소재지	서울특별시 동대문구 천호대로 지하405
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/개업일	1995
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/전역	542
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/역명	장한평
+http://ko.dbpedia.org/resource/장한평역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서울_지하철_5호선

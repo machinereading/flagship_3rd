@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://ko.dbpedia.org/property/시간	125
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://ko.dbpedia.org/property/감독	신수원, 홍지영, 이수연, 김성호
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://ko.dbpedia.org/property/개봉	2012
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://ko.dbpedia.org/property/등급	15
+http://ko.dbpedia.org/resource/가족시네마_(2012년_영화)	http://ko.dbpedia.org/property/장르	드라마

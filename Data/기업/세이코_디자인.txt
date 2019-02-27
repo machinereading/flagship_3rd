@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/세이코_디자인	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소매_(상업)
+http://ko.dbpedia.org/resource/세이코_디자인	http://ko.dbpedia.org/property/창립자	Liz Forkin Bohannon
+http://ko.dbpedia.org/resource/세이코_디자인	http://ko.dbpedia.org/property/제품	신발, 악세사리, 가방
+http://ko.dbpedia.org/resource/세이코_디자인	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/소매_(상업)
+http://ko.dbpedia.org/resource/세이코_디자인	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/아프리카_중앙_동부

@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/이상우_(영화_감독)
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/명계남
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/김갑수_(배우)
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/오지명
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/박중훈
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/등급	19
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/장르	코미디, 범죄
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/개봉	1997
+http://ko.dbpedia.org/resource/똑바로_살아라_(1997년_영화)	http://ko.dbpedia.org/property/시간	105

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/런던	http://dbpedia.org/ontology/area	1572
+http://ko.dbpedia.org/resource/런던	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/그레이터런던
+http://ko.dbpedia.org/resource/런던	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/잉글랜드
+http://ko.dbpedia.org/resource/런던	http://ko.dbpedia.org/property/별명	스모그
+http://ko.dbpedia.org/resource/런던	http://ko.dbpedia.org/property/별명	더 그레이트 웬
+http://ko.dbpedia.org/resource/런던	http://dbpedia.org/ontology/populationTotal	8538689
+http://ko.dbpedia.org/resource/런던	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/영국

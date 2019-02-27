@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/카우산틴_2세
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/던컨_1세
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중세_영어
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/foundingYear	0900
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/에딘버러
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/country	스코틀랜드
+http://ko.dbpedia.org/resource/알바_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/알렉산다르_3세

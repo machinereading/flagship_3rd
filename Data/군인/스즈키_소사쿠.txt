@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/중일_전쟁
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/태평양_전쟁
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계_대전
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아이치_현
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_중일전쟁
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://ko.dbpedia.org/property/최종계급	중장
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/일본_제국_육군
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/훈일등욱일대수장
+http://ko.dbpedia.org/resource/스즈키_소사쿠	http://ko.dbpedia.org/property/복무	22

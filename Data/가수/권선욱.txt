@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악가
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/activeYearsStartYear	2002
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/모던_록
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/권선욱	http://ko.dbpedia.org/property/본명	욱선권
+http://ko.dbpedia.org/resource/권선욱	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수

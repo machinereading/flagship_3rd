@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/결과	*알와지리가 몇주동안 정권을 잡음
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/결과	*예멘 왕국의 승리
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/날짜	1948
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/결과	*예멘 왕국이 정권을 회복
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/교전국	예멘 왕국
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/교전국	지원국
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/알와지리
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/지휘관	압둘라 빈 아흐마드 알와지리
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/지휘관	압둘아지즈 알사우드
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/지휘관	아흐마드 빈 야흐야
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/지휘관	아히야 무함마드 하미드 에드딘
+http://ko.dbpedia.org/resource/알와지리_쿠데타	http://ko.dbpedia.org/property/장소	예멘 왕국 일대

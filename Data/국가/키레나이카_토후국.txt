@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/리비아_아랍어
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이드리스_1세
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/베르베르어파
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/벵가지
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/foundingYear	1949
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
+http://ko.dbpedia.org/resource/키레나이카_토후국	http://dbpedia.org/ontology/country	리비아

@@ -1,0 +1,118 @@
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/교전국	----
+
+
+----
+알하사드 알샤아비
+* 메흐디 민병대
+* 바드르 조직
+* QQAFA
+* 카타이브 헤즈볼라
+* 카타이브 알리
+* AAH
+지원국:
+*
+*
+*
+----
+ 투르크멘 전선 
+지원국 
+ 
+----
+ 
+*  페쉬메르가
+ 로자바
+* YPG
+* YPJ
+ PKK
+* HPG
+* YJA-STAR
+ PJAK
+* YRK
+* HPJ
+ 신자르 동맹
+* YBŞ
+* HPŞ
+* YJÊ
+ 아시리아 군
+* MFS
+*  NPU
+* QPC
+*  드웨크 나와샤
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/교전국	RSII 동맹:  
+ 이라크 정부군
+*보안군
+*무장단체
+
+*쿼드 군
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/날짜	2014
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/교전국	'''
+* 안사르 알이슬람
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/교전국	----
+ 바트당 이라크 지부
+*JRTN
+*SCJL
+*MCIR
+* 자유 이라크군
+----
+MCAR
+*안바르 부족 회의
+*이라크 하마스
+*1920 혁명 여단
+*자이시 알라시딘
+----
+PCIR
+*이라크 이슬람군
+*이라크 무자헤딘
+*안사르 알수나
+*IFIR
+*이라크 하마스
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/지휘관	----
+ 마수드 바르자니 
+ 살리흐 무함마드
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/이라크
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/지휘관	아부 바크르 알바그다디 
+ 아부 아흐마드 알와니† 
+----
+ 이자트 알두리
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/지휘관	하이다르 압바디 
+ 푸아드 마숨 
+ 누리 알말리키 
+ 버락 오바마 
+ 애슈턴 카터 
+ 레제프 에르도안 
+ 아흐메트 다우토을루 
+ 스티븐 하퍼 
+ 쥐스탱 트뤼도 
+ 프랑수아 올랑드 
+ 장이프 레 드리앙 
+ 앙겔라 메르켈 
+ 우르줄라 라이엔 
+ 테레사 메이 
+ 데이비드 캐머런 
+ 미카엘 팰런 
+ 맬컴 턴불 
+ 토니 애벗 
+ 빌럼알렉산더르 
+ 마르크 뤼터 
+ 압둘라 2세 
+ 압둘라 엔수르 
+ 무함마드 6세 
+ 압델리야 벤키라네 
+----
+ 바샤르 알아사드 
+ 와엘 나데르 알할키 
+ 알리 하메네이 
+ 하산 로하니 
+ 카젬 솔레이마니 
+ 블라디미르 푸틴 
+ 드미트리 메드베데프 
+ 하산 나스랄라
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/결과	* IS가 안바르 주의 70% 점령 팔루자, 알 카임,, 아부 가리브 라마디 절반이 안바르 전역 당시 점령됨
+* 티그리트, 모술과 대부분의 니네베 주가 살라후딘, 키르쿠르, 디야라 주 일부와 함께 2014년 6월 북부 이라크 공세 당시 포위됨
+* IS가 신자르를 비롯한 다수의 마을을 2014년 8월 북부 이라크 공세때 점령.
+* 2015년 신자르가 격전지로 변함, 이라크 군의 탈환 성공
+* 이라크군이 IS를 디야라 주에서 몰아내고, 2015년 4월 티그리트를 탈환함
+* IS가 2015년 5월 라마디를 완전히 점령,
+* 안바르 주의 90%가 IS 차지가 됨
+* 2015년 11월 페쉬메르가가 신자르를 탈환하고 이라크 보안군이 2016년 2월 라마디를, 2016년 4월 히트를, 2016년 6월 팔루자를 탈환
+http://ko.dbpedia.org/resource/이라크_내전_(2014년-현재)	http://ko.dbpedia.org/property/결과	진행 중

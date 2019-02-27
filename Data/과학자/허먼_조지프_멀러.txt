@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/허먼_조지프_멀러	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/생물학자
+http://ko.dbpedia.org/resource/허먼_조지프_멀러	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/분자생물학
+http://ko.dbpedia.org/resource/허먼_조지프_멀러	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/방사선
+http://ko.dbpedia.org/resource/허먼_조지프_멀러	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/유전학
+http://ko.dbpedia.org/resource/허먼_조지프_멀러	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_생리학·의학상

@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/노선	세이부 철도■ 고쿠분지 선
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/개업일	1948
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/세이부_철도_고쿠분지_선
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/오가와_역_(도쿄_도)
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/고이가쿠보_역
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/세이부_철도
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/역명	다카노다이
+http://ko.dbpedia.org/resource/다카노다이_역	http://ko.dbpedia.org/property/소재지	도쿄 도 고다이라 시

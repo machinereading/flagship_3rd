@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/소재지	가나가와 현 요코하마 시 쓰루미 구 야코 6초메 5-6
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/난부_선
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/개업일	1927
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/역명	야코
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/가시마다_역
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 난부 선
+http://ko.dbpedia.org/resource/야코_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/싯테_역

@@ -1,0 +1,13 @@
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/장르	서사 / 액션
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/영어
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/리엄_니슨
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/개봉	2005
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/리들리_스콧
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/제러미_아이언스
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/에바_그린
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/올랜도_블룸
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/등급	15
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/시간	199
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/시간	189
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/시간	144
+http://ko.dbpedia.org/resource/킹덤_오브_헤븐	http://ko.dbpedia.org/property/등급	R

@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/과두제
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/capital	스파르타
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/foundingYear	0900
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/과두정
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/스파르타_(신화)
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/country	스파르타
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/도리아_그리스어
+http://ko.dbpedia.org/resource/스파르타	http://dbpedia.org/ontology/foundingYear	0011

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/우랄_강	http://dbpedia.org/ontology/country	러시아
+http://ko.dbpedia.org/resource/우랄_강	http://dbpedia.org/ontology/length	2428
+http://ko.dbpedia.org/resource/우랄_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/우랄_산맥
+http://ko.dbpedia.org/resource/우랄_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/카자흐스탄
+http://ko.dbpedia.org/resource/우랄_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/카스피_해
+http://ko.dbpedia.org/resource/우랄_강	http://dbpedia.org/ontology/country	카자흐스탄
+http://ko.dbpedia.org/resource/우랄_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/러시아

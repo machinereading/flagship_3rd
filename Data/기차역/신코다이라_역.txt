@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/소재지	오가와초 2초메 1960
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/니시코쿠분지_역
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/소재지	도쿄 도 고다이라 시
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/구니타치_역
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/무사시노_선
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/일본화물철도
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■무사시노 선
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 무사시노 선
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/개업일	1956
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신아키쓰_역
+http://ko.dbpedia.org/resource/신코다이라_역	http://ko.dbpedia.org/property/역명	신코다이라

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/산젠인_나기	http://dbpedia.org/ontology/birthDate	1991
+http://ko.dbpedia.org/resource/산젠인_나기	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/하타_켄지로
+http://ko.dbpedia.org/resource/산젠인_나기	http://dbpedia.org/ontology/occupation	학생
+http://ko.dbpedia.org/resource/산젠인_나기	http://dbpedia.org/ontology/firstAppearance	제1화
+http://ko.dbpedia.org/resource/산젠인_나기	http://dbpedia.org/ontology/gender	여
+http://ko.dbpedia.org/resource/산젠인_나기	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan

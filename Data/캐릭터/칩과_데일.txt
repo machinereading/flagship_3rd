@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/칩과_데일	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/Bill_Justice
+http://ko.dbpedia.org/resource/칩과_데일	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/칩과_데일	http://dbpedia.org/ontology/firstAppearance	플루토 이등병 (1943)
+http://ko.dbpedia.org/resource/칩과_데일	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/다람쥐
+http://ko.dbpedia.org/resource/칩과_데일	http://dbpedia.org/ontology/gender	수컷
+http://ko.dbpedia.org/resource/칩과_데일	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/다람쥐속

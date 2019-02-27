@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/익스페리멘탈_록
+http://ko.dbpedia.org/resource/톰_벡	http://ko.dbpedia.org/property/본명	Thomas Timothy Vernon-Kell
+http://ko.dbpedia.org/resource/톰_벡	http://ko.dbpedia.org/property/본명	토머스 티모시 버넌켈
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/잉글랜드
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/하운즐로
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/런던
+http://ko.dbpedia.org/resource/톰_벡	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/모시모시_레코드
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/멀티플레이어_(음악)
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/하운슬로
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/activeYearsStartYear	2004
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/얼터너티브_록
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/birthDate	1981-05-10
+http://ko.dbpedia.org/resource/톰_벡	http://dbpedia.org/ontology/activeYearsStartYear	2004

@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/activeYearsStartYear	2007
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/activeYearsStartYear	2007
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/birthDate	1989-06-23
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/켄트_주
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/영국_싱글_차트
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/잉글랜드
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/메펌
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/R&B
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/로런_베넷	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비

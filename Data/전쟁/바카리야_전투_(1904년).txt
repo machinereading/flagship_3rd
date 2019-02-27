@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/아라비아
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/사상자	1300
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/카심_주
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/지휘관	압둘라지즈 빈 무타입
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/지휘관	압둘아지즈 이븐 사우드
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/날짜	1904
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/사상자	900
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/결과	리야드 토후국 의 승리
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/교전국	라쉬디 가문
+http://ko.dbpedia.org/resource/바카리야_전투_(1904년)	http://ko.dbpedia.org/property/교전국	네지드-하사 토후국

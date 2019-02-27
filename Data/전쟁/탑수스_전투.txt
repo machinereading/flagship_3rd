@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/율리우스_카이사르
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/카이킬리우스_메텔루스
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/원로원
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/날짜	http://ko.dbpedia.org/resource/4월
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/날짜	http://ko.dbpedia.org/resource/기원전_46년
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/카토_(소)
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/사상자	1000
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/사상자	30000
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/율리우스_카이사르
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/율리우스_카이사르
+http://ko.dbpedia.org/resource/탑수스_전투	http://ko.dbpedia.org/property/장소	탑수스

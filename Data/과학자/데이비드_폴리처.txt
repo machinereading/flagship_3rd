@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/물리학자
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/양자_색역학
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/점근_자유성
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_물리학상
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
+http://ko.dbpedia.org/resource/데이비드_폴리처	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뉴욕

@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/콘라트_로렌츠	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오스트리아-헝가리_제국
+http://ko.dbpedia.org/resource/콘라트_로렌츠	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/동물행동학
+http://ko.dbpedia.org/resource/콘라트_로렌츠	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/빈
+http://ko.dbpedia.org/resource/콘라트_로렌츠	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_생리학·의학상
+http://ko.dbpedia.org/resource/콘라트_로렌츠	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/동물행동학

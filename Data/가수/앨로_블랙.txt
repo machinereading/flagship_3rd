@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악가
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/러구나힐스
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/birthDate	1979-01-06
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오렌지_군_(캘리포니아_주)
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캘리포니아_주
+http://ko.dbpedia.org/resource/앨로_블랙	http://ko.dbpedia.org/property/본명	Egbert Nathaniel Dawkins III
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨템퍼러리_알앤비
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/activeYearsStartYear	1995
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/솔_음악
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/하드코어_힙합
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/R&B
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/activeYearsStartYear	1995
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/남자_가수
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/앨로_블랙	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/펑크

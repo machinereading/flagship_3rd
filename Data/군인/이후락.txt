@@ -1,0 +1,14 @@
+http://ko.dbpedia.org/resource/이후락	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일제_강점기
+http://ko.dbpedia.org/resource/이후락	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/울산광역시
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/기타이력	무소속 국회의원
+http://ko.dbpedia.org/resource/이후락	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/경상남도
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/이후락	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/웅촌면
+http://ko.dbpedia.org/resource/이후락	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/울산군
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/2성_장군
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/대한민국의_대통령비서실장
+http://ko.dbpedia.org/resource/이후락	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대한민국_육군
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/기타이력	제3대 일본 주재 대한민국 대사
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/기타이력	제6대 중앙정보부 부장
+http://ko.dbpedia.org/resource/이후락	http://ko.dbpedia.org/property/기타이력	민주공화당 국회의원

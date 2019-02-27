@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/에드워드_에머슨_바너드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/내슈빌
+http://ko.dbpedia.org/resource/에드워드_에머슨_바너드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/테네시_주
+http://ko.dbpedia.org/resource/에드워드_에머슨_바너드	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/천문학
+http://ko.dbpedia.org/resource/에드워드_에머슨_바너드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/천문학자
+http://ko.dbpedia.org/resource/에드워드_에머슨_바너드	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/바너드별
+http://ko.dbpedia.org/resource/에드워드_에머슨_바너드	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/천체사진술

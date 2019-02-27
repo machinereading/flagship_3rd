@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/결과	연합군의 승리
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/날짜	1813
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/교전국	25
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/사상자	~4,000명
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/사상자	15000
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/자크_마크도날
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/교전국	21
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/게프하르트_레베레히트_폰_블뤼허
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/리그니츠
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/프로이센
+http://ko.dbpedia.org/resource/카츠바흐_전투	http://ko.dbpedia.org/property/교전국	프랑스 제국

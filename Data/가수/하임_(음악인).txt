@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/하임_(음악인)	http://ko.dbpedia.org/property/소속사	Miah Records
+http://ko.dbpedia.org/resource/하임_(음악인)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/전자_음악
+http://ko.dbpedia.org/resource/하임_(음악인)	http://ko.dbpedia.org/property/본명	김하임
+http://ko.dbpedia.org/resource/하임_(음악인)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/신스팝
+http://ko.dbpedia.org/resource/하임_(음악인)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/편곡가
+http://ko.dbpedia.org/resource/하임_(음악인)	http://dbpedia.org/ontology/activeYearsStartYear	2008
+http://ko.dbpedia.org/resource/하임_(음악인)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/하임_(음악인)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/대중음악

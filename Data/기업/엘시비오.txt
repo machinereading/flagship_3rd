@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/엘시비오	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/위스키
+http://ko.dbpedia.org/resource/엘시비오	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/보드카
+http://ko.dbpedia.org/resource/엘시비오	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/맥주
+http://ko.dbpedia.org/resource/엘시비오	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/포도주
+http://ko.dbpedia.org/resource/엘시비오	http://dbpedia.org/ontology/foundingYear	1927
+http://ko.dbpedia.org/resource/엘시비오	http://dbpedia.org/ontology/industry	유통업
+http://ko.dbpedia.org/resource/엘시비오	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/꼬냑
+http://ko.dbpedia.org/resource/엘시비오	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/토론토
+http://ko.dbpedia.org/resource/엘시비오	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주
+http://ko.dbpedia.org/resource/엘시비오	http://ko.dbpedia.org/property/산업	유통업
+http://ko.dbpedia.org/resource/엘시비오	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캐나다

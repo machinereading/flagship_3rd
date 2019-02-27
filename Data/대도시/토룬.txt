@@ -1,0 +1,5 @@
+http://ko.dbpedia.org/resource/토룬	http://dbpedia.org/ontology/populationTotal	203148
+http://ko.dbpedia.org/resource/토룬	http://dbpedia.org/ontology/area	115.75
+http://ko.dbpedia.org/resource/토룬	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/쿠야비포모제_주
+http://ko.dbpedia.org/resource/토룬	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/폴란드
+http://ko.dbpedia.org/resource/토룬	http://ko.dbpedia.org/property/별명	천사의 도시

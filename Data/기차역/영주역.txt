@@ -1,0 +1,18 @@
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/문수역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/북영주역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/개업일	1941
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/예천역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/안동역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/소재지	경상북도 영주시 선비로 64
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/봉화역_(봉화)
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/북영주역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/봉화역_(봉화)
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/경북선
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/영동선
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/노선	영동본선 중앙본선
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/노선	영동본선경북본선
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/분천역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/역명	영주
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/어등역
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/중앙선
+http://ko.dbpedia.org/resource/영주역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/풍기역

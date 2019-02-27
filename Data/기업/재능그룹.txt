@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/재능그룹	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/교육
+http://ko.dbpedia.org/resource/재능그룹	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/교육
+http://ko.dbpedia.org/resource/재능그룹	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/박성훈_(기업인)
+http://ko.dbpedia.org/resource/재능그룹	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/출판사
+http://ko.dbpedia.org/resource/재능그룹	http://ko.dbpedia.org/property/제품	가정 방문형 학습지, 어린이 도서
+http://ko.dbpedia.org/resource/재능그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/재능그룹	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/출판사

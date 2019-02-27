@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/한성대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
+http://ko.dbpedia.org/resource/한성대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/거북
+http://ko.dbpedia.org/resource/한성대학교	http://ko.dbpedia.org/property/설립	1972
+http://ko.dbpedia.org/resource/한성대학교	http://dbpedia.org/ontology/mascot	거북,삼학송
+http://ko.dbpedia.org/resource/한성대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/삼학송
+http://ko.dbpedia.org/resource/한성대학교	http://ko.dbpedia.org/property/총장	이상한
+http://ko.dbpedia.org/resource/한성대학교	http://ko.dbpedia.org/property/표어	진리,지선
+http://ko.dbpedia.org/resource/한성대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국

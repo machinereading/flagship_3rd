@@ -1,0 +1,15 @@
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/카나리아_제도
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/대서양
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/영국_해협
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/스페인_대해안
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/저지대_국가
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/스페인
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/아일랜드
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/날짜	1585
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/아메리카
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/포르투갈
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/교전국	20
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/지휘관	22
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/결과	http://ko.dbpedia.org/resource/런던_조약
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/교전국	22
+http://ko.dbpedia.org/resource/잉글랜드-스페인_전쟁_(1585년)	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/아조레스

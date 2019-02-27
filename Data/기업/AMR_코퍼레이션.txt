@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/텍사스_주
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/포트워스
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공_운송업
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://ko.dbpedia.org/property/제품	항공 서비스
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://dbpedia.org/ontology/foundingYear	1982
+http://ko.dbpedia.org/resource/AMR_코퍼레이션	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/항공_운송업

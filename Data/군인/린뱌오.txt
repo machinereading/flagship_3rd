@@ -1,0 +1,17 @@
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/기타이력	중공 중앙군사위 부위원장
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/기타이력	중국공산당 부주석
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/battle	중인국경분쟁
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/중화인민공화국
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/중일_전쟁
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/중화인민공화국_국방부
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/육군
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/기타이력	중화인민공화국 총리 권한대행
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/중화인민공화국
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/birthDate	1907-12-05
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/기타이력	중화인민공화국 부총리
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/육군
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/후베이_성
+http://ko.dbpedia.org/resource/린뱌오	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/5성_장군
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/황강_시
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/청나라
+http://ko.dbpedia.org/resource/린뱌오	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/중화인민공화국

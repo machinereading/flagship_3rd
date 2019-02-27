@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/에이후쿠초_역
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/개업일	1913
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/노선	■ 게이오 이노카시라 선
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/다이타바시_역
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/히가시마쓰바라_역
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/시모타카이도_역
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/소재지	도쿄 도 세타가야 구 마츠바라 2초메 45-1
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/역명	메이다이 앞
+http://ko.dbpedia.org/resource/메이다이마에_역	http://ko.dbpedia.org/property/노선	■ 게이오 선

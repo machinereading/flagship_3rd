@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/게임_개발
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/게임_배급
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/김학규_(게임_개발자)
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://dbpedia.org/ontology/foundingYear	2000
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://ko.dbpedia.org/property/산업	애니메이션, 캐릭터 사업
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://ko.dbpedia.org/property/제품	[[#게임 목록
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/게임_배급
+http://ko.dbpedia.org/resource/그라비티_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/게임_개발

@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/게이오기주쿠_대학	http://dbpedia.org/ontology/mascot	펜마크
+http://ko.dbpedia.org/resource/게이오기주쿠_대학	http://ko.dbpedia.org/property/설립	1858
+http://ko.dbpedia.org/resource/게이오기주쿠_대학	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/미나토_구_(도쿄_도)
+http://ko.dbpedia.org/resource/게이오기주쿠_대학	http://ko.dbpedia.org/property/표어	펜은 칼보다 강하다
+http://ko.dbpedia.org/resource/게이오기주쿠_대학	http://ko.dbpedia.org/property/총장	http://ko.dbpedia.org/resource/세이케_아쓰시
+http://ko.dbpedia.org/resource/게이오기주쿠_대학	http://dbpedia.org/ontology/mascot	펜마크

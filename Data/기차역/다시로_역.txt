@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/도스_역
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/개업일	1889
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/역명	다시로
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/야요이가오카_역
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/가고시마_본선
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/소재지	사가 현 도스 시
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/노선	■ 가고시마 본선
+http://ko.dbpedia.org/resource/다시로_역	http://ko.dbpedia.org/property/소재지	사쿠라마치 1437

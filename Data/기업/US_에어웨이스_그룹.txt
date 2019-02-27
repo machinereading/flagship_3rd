@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/항공_운송업
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://dbpedia.org/ontology/foundingYear	1939
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://ko.dbpedia.org/property/제품	항공 서비스
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/탬파
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/애리조나_주
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공_운송업
+http://ko.dbpedia.org/resource/US_에어웨이스_그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/템피_(애리조나_주)

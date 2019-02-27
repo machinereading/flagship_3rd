@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/페르시아어
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/foundingYear	0861
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/country	이란
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/야꾸브_이븐_라이스_알-라이스_알-사파
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아프가니스탄
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/칼라프_1세
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/사파르_토후국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/자란즈

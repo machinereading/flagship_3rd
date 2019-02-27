@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/activeYearsStartYear	1973
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/후허하오터_시
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/가창
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/activeYearsStartYear	1973
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스_팝
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_록
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/웨이웨이_(가수)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악

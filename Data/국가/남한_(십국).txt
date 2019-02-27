@@ -1,0 +1,12 @@
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/유엄
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/유성
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/유은
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/foundingYear	0917
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/country	남한
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/광저우
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/유창_(남한)
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/foundingYear	0909
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/광저우_시
+http://ko.dbpedia.org/resource/남한_(십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/유분

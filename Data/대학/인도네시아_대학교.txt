@@ -1,0 +1,8 @@
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/자와바랏_주
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/자카르타
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://ko.dbpedia.org/property/설립	1851
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/드폭
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/인도네시아
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://ko.dbpedia.org/property/표어	veritas, probitas, iustitia
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/인도네시아
+http://ko.dbpedia.org/resource/인도네시아_대학교	http://dbpedia.org/ontology/mascot	상징색: Yellow

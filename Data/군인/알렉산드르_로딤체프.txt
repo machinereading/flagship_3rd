@@ -1,0 +1,11 @@
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/러시아_제국
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/바그라티온_작전
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/스페인_내전
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/쿠르스크_전투
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/스탈린그라드_전투
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/소련
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://ko.dbpedia.org/property/기타이력	알바니아 주재 소련 군사고문단
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/소련
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/파일:CCCP_army_Rank_general-polkovnik_infobox.svg
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/제2차_세계_대전
+http://ko.dbpedia.org/resource/알렉산드르_로딤체프	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/동부_전선_(제2차_세계_대전)

@@ -1,0 +1,10 @@
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/country	나사우
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/비스바덴
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/나사우_공작_프리드리히_아우구스투스
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/나사우_공작_빌럼
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/룩셈부르크_대공_아돌프
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/foundingYear	1806
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/바일부르크
+http://ko.dbpedia.org/resource/나사우_공국	http://dbpedia.org/ontology/governmentType	입헌군주제

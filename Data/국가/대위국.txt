@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/leaderName	묘청
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/평양직할시
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/foundingYear	1135
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/묘청
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/country	한국
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/한국어
+http://ko.dbpedia.org/resource/대위국	http://dbpedia.org/ontology/leaderName	조광

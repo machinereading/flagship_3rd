@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/세포_매개_면역
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_생리학·의학상
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/코플리_메달
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/노인학
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/노인학
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/동물학
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/식작용
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/면역학
+http://ko.dbpedia.org/resource/일리야_일리치_메치니코프	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/러시아_제국

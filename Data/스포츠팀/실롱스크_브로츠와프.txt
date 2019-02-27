@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브로츠와프
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/폴란드
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브로츠와프_시립경기장
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/엑스트라클라사
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://dbpedia.org/ontology/foundingYear	1947
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://ko.dbpedia.org/property/감독	Mariusz Rumak
+http://ko.dbpedia.org/resource/실롱스크_브로츠와프	http://ko.dbpedia.org/property/구단주	Paweł Żelem

@@ -1,0 +1,16 @@
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/케임브리지
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/birthPlace	케임브리지
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/멜버른
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/잉글랜드
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오스트레일리아
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/작곡가
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/birthDate	1948-09-26
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨트리_음악
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소프트_록
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/기업가
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/activeYearsStartYear	1963
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/activeYearsStartYear	1963
+http://ko.dbpedia.org/resource/올리비아_뉴턴_존	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

@@ -1,0 +1,7 @@
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/USL_프리미어_디벨로프먼트_리그
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/버뮤다_육상_협회_경기장
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://dbpedia.org/ontology/foundingYear	2006
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://ko.dbpedia.org/property/감독	스콧 모턴
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://ko.dbpedia.org/property/구단주	숀 고터
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/버뮤다
+http://ko.dbpedia.org/resource/버뮤다_호그스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/해밀턴_(버뮤다)

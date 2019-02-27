@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/동방_국가판무관부	http://dbpedia.org/ontology/foundingYear	1941
+http://ko.dbpedia.org/resource/동방_국가판무관부	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
+http://ko.dbpedia.org/resource/동방_국가판무관부	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/국가판무관부
+http://ko.dbpedia.org/resource/동방_국가판무관부	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/하인리히_로헤
+http://ko.dbpedia.org/resource/동방_국가판무관부	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/에리히_코흐
+http://ko.dbpedia.org/resource/동방_국가판무관부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/리가

@@ -1,0 +1,20 @@
+http://ko.dbpedia.org/resource/파올로_누티니	http://ko.dbpedia.org/property/본명	Paolo Giovanni Nutini
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/소울_록
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/가창
+http://ko.dbpedia.org/resource/파올로_누티니	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/애틀랜틱_레코드
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_록
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/블루스
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/포크
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/블루아이드_솔
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/록
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/민속_음악
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/페이즐리
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/렌프루셔
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/birthDate	1987-01-09
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/activeYearsStartYear	2005
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스코틀랜드
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악가
+http://ko.dbpedia.org/resource/파올로_누티니	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

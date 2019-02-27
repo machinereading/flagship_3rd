@@ -1,0 +1,6 @@
+http://ko.dbpedia.org/resource/밥_루만	http://dbpedia.org/ontology/activeYearsStartYear	1956
+http://ko.dbpedia.org/resource/밥_루만	http://dbpedia.org/ontology/birthDate	1937-04-15
+http://ko.dbpedia.org/resource/밥_루만	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨트리_음악
+http://ko.dbpedia.org/resource/밥_루만	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/로커빌리
+http://ko.dbpedia.org/resource/밥_루만	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
+http://ko.dbpedia.org/resource/밥_루만	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

@@ -1,0 +1,15 @@
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/지휘관	공민왕
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/지휘관	예종
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/지휘관	이성계
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/지휘관	윤관
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/지휘관	척준경
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/금나라
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/교전국	고려
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/지휘관	http://ko.dbpedia.org/resource/금_태조
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/장소	국경 지역
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/결과	*고려의 동북 9성 점령후 반환
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/결과	*고려는 금나라에 신하의 예를 취함
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/결과	*실질적인 금나라의 승리
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/날짜	http://ko.dbpedia.org/resource/고려_시대
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/결과	*여진족 토벌
+http://ko.dbpedia.org/resource/고려-금_전쟁	http://ko.dbpedia.org/property/사상자	알 수 없음

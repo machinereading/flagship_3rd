@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/노선	■ 우에쓰 본선
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/리쿠우사이_선
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/소재지	야마가타 현 사카타 시
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/개업일	1958
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/사고시_역
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/역명	히가시사카타
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/사카타_역_(야마가타_현)
+http://ko.dbpedia.org/resource/히가시사카타_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/우에쓰_본선

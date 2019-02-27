@@ -1,0 +1,9 @@
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/쿠타이시
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/봉건
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/트빌리시
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/foundingYear	1008
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/바그라트_3세
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/country	조지아
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조지_8세
+http://ko.dbpedia.org/resource/조지아_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/조지아어

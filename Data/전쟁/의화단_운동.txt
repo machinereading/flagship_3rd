@@ -1,0 +1,42 @@
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/사상자	외국인 526명
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/사상자	중국인 기독교 신자 수 천명
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/사상자	군인 2,500명
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2005-04-28
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/사상자	의화군 및 관군:
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2004-04-10
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	1899
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/사상자	팔국연군:
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2005-01-25
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/교전국	http://ko.dbpedia.org/resource/열강_8국
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/교전국	----
+ 신건육군
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2010-12-05
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/사상자	대부분의 의화군과 20,000여명의 청나라 군
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/교전국	25
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2007-07-20
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2007-09-10
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2006-11-21
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2010-11-29
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/날짜	2010-06-25
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	유록†
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	동복상
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	영록
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	송경
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	섭사성
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	알프레트 폰 발더제
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	후쿠시마 야스마사
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	에드워드 시모어 경
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	육현
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	애드너 채피
+----
+ 위안스카이
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	서태후
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	마기
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	이병형†
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/결과	8
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	니콜라이 리네비치
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	단군왕
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	마옥곤
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	마복상
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/지휘관	마복흥
+http://ko.dbpedia.org/resource/의화단_운동	http://ko.dbpedia.org/property/장소	청나라 화북 지방
