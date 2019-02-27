@@ -6,6 +6,7 @@ KB-agnet: Interactive Learning through dialog between bot and user
 
 ## prerequisite
 * `python 3`
+* `pip install -r requirements.txt`
 
 
 ## How to run
