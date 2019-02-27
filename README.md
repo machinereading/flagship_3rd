@@ -2,7 +2,7 @@
 
 ## About
 
-KB-Agnet: Interactive Learning through dialog between bot and user
+KB-Agnet: Interactive Learning through dialog between bot and user.\n
 It recognizes current dialog's topic, and asks unknown knowledge to user.
 Then, receiving user's answer, it expands its KB.
 
