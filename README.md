@@ -13,7 +13,7 @@ Then, receiving user's answer, it expands its KB.
 ## How to run
 ```
 pip install -r requirements.txt
-Download a pretrained korean FastText file from <https://fasttext.cc/docs/en/crawl-vectors.html>
+Download a pretrained korean [FastText](https://fasttext.cc/docs/en/crawl-vectors.html)
 python chatbot.py
 ```
 
