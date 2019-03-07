@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/정읍시
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/전라북도
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://ko.dbpedia.org/property/최종계급	40
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/정읍
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://ko.dbpedia.org/property/복무	23
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국_육군
-http://ko.dbpedia.org/resource/정승조_(1953년)	http://ko.dbpedia.org/property/기타이력	* 제 2대 자이툰 사단장
-* 제 5차 남북장성급회담 수석대표

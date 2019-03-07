@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/헤타페
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스페인
-http://ko.dbpedia.org/resource/헤타페_CF	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/루이스_가르시아_플라사
-http://ko.dbpedia.org/resource/헤타페_CF	http://ko.dbpedia.org/property/구단주	http://ko.dbpedia.org/resource/앙헬_토레스_산체스
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/콜리세움_알폰소_페레스
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/league	프리메라리가
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세군다_디비시온
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프리메라리가
-http://ko.dbpedia.org/resource/헤타페_CF	http://dbpedia.org/ontology/foundingYear	1983

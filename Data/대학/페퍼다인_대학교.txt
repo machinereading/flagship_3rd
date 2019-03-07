@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/페퍼다인_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/말리부_(캘리포니아_주)
-http://ko.dbpedia.org/resource/페퍼다인_대학교	http://ko.dbpedia.org/property/설립	1937
-http://ko.dbpedia.org/resource/페퍼다인_대학교	http://dbpedia.org/ontology/mascot	Willy the Wave
-http://ko.dbpedia.org/resource/페퍼다인_대학교	http://ko.dbpedia.org/property/표어	Freely ye received, freely give
-http://ko.dbpedia.org/resource/페퍼다인_대학교	http://ko.dbpedia.org/property/총장	Andrew K. Benton

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/디딤돌	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/출판사
-http://ko.dbpedia.org/resource/디딤돌	http://ko.dbpedia.org/property/창립자	고영목
-http://ko.dbpedia.org/resource/디딤돌	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/교육
-http://ko.dbpedia.org/resource/디딤돌	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/출판사
-http://ko.dbpedia.org/resource/디딤돌	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/교육
-http://ko.dbpedia.org/resource/디딤돌	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/디딤돌	http://ko.dbpedia.org/property/제품	초중고 교과서 및 학습참고서

@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/비냐델마르	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/발파라이소_현
-http://ko.dbpedia.org/resource/비냐델마르	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/발파라이소
-http://ko.dbpedia.org/resource/비냐델마르	http://dbpedia.org/ontology/populationTotal	324836
-http://ko.dbpedia.org/resource/비냐델마르	http://dbpedia.org/ontology/area	121.6
-http://ko.dbpedia.org/resource/비냐델마르	http://ko.dbpedia.org/property/별명	가든 시티
-http://ko.dbpedia.org/resource/비냐델마르	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/칠레

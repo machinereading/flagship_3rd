@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://dbpedia.org/ontology/mascot	상징색
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://ko.dbpedia.org/property/표어	잠재된 능력을 일깨운다
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://ko.dbpedia.org/property/총장	Brenda Hale, Baroness Hale of Richmond
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://dbpedia.org/ontology/mascot	상징색
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://ko.dbpedia.org/property/표어	Vim promovet insitam - Horace ,Ode 4.4
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/브리스틀
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://ko.dbpedia.org/property/설립	1876
-http://ko.dbpedia.org/resource/브리스틀_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/영국

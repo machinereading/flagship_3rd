@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/개업일	1912
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/후역	오사시마 W62
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/노선	■ 소야 본선
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/소재지	홋카이도 나카가와 군 오토이넷푸 촌
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/역명	오토이넷푸
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/전역	W60 삿쿠루
-http://ko.dbpedia.org/resource/오토이넷푸_역	http://ko.dbpedia.org/property/노선	홋카이도 여객철도 소야 본선

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://ko.dbpedia.org/property/감독	PC 구스망
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://ko.dbpedia.org/property/구단주	노르툰 플로레스 보프레
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/플로리아노폴리스
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/캄페오나투_브라질레이루_세리이_A
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/브라질_세리_A
-http://ko.dbpedia.org/resource/피게이렌시_FC	http://dbpedia.org/ontology/foundingYear	1921

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/노선	■ 하코다테 본선
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/노선	홋카이도 여객철도 하코다테 본선
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/개업일	1898
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/전역	A25 오사무나이
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/후역	지카부미 A27
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/역명	이노
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/소재지	에탄베쓰초 가스가
-http://ko.dbpedia.org/resource/이노_역_(홋카이도)	http://ko.dbpedia.org/property/소재지	홋카이도 아사히카와 시

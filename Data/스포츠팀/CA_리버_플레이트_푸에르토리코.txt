@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/CA_리버_플레이트_푸에르토리코	http://ko.dbpedia.org/property/감독	월터 저마틴
-http://ko.dbpedia.org/resource/CA_리버_플레이트_푸에르토리코	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/카롤리나_(푸에르토리코)
-http://ko.dbpedia.org/resource/CA_리버_플레이트_푸에르토리코	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/유나이티드_사커_리그
-http://ko.dbpedia.org/resource/CA_리버_플레이트_푸에르토리코	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/푸에르토리코
-http://ko.dbpedia.org/resource/CA_리버_플레이트_푸에르토리코	http://dbpedia.org/ontology/foundingYear	2007
-http://ko.dbpedia.org/resource/CA_리버_플레이트_푸에르토리코	http://ko.dbpedia.org/property/구단주	베로니카 샤르동

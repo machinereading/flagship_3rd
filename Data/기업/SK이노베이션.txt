@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/SK이노베이션	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/SK_(1962~2015년_기업)
-http://ko.dbpedia.org/resource/SK이노베이션	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/석유화학산업
-http://ko.dbpedia.org/resource/SK이노베이션	http://ko.dbpedia.org/property/제품	원유, 휘발유, 등유, 경유, 항공유, 벙커C유, 아스팔트, LPG, LNG, LiBS, 이차전지, 바이오디젤, 올레핀, 폴리머, 용제 등
-http://ko.dbpedia.org/resource/SK이노베이션	http://ko.dbpedia.org/property/산업	자회사의 주식 또는 지분을 취득•소유함으로써 자회사의 제반 사업내용을 지배•경영지도•정리•육성하는 지주사업, 원유정제처리 및 액체연료도매업, 석유화학산업, 해외자원개발사업, 정보전자소재산업 등
-http://ko.dbpedia.org/resource/SK이노베이션	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시

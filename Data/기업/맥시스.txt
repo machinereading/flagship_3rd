@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/맥시스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업
-http://ko.dbpedia.org/resource/맥시스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아_주
-http://ko.dbpedia.org/resource/맥시스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/비디오_게임_산업
-http://ko.dbpedia.org/resource/맥시스	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/윌_라이트
-http://ko.dbpedia.org/resource/맥시스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/에머리빌
-http://ko.dbpedia.org/resource/맥시스	http://dbpedia.org/ontology/foundingYear	1987
-http://ko.dbpedia.org/resource/맥시스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/심즈
-http://ko.dbpedia.org/resource/맥시스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/심시티

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/foundingYear	1852
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/country	중국
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/foundingYear	1851
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/홍수전
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/난징
-http://ko.dbpedia.org/resource/태평천국	http://dbpedia.org/ontology/leaderName	홍수전

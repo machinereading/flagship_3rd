@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/연갱요	http://ko.dbpedia.org/property/최종계급	서북대장군
-http://ko.dbpedia.org/resource/연갱요	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/옹정제
-http://ko.dbpedia.org/resource/연갱요	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/청나라
-http://ko.dbpedia.org/resource/연갱요	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/옹정제
-http://ko.dbpedia.org/resource/연갱요	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/군사
-http://ko.dbpedia.org/resource/연갱요	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/청나라
-http://ko.dbpedia.org/resource/연갱요	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/후궁
-http://ko.dbpedia.org/resource/연갱요	http://ko.dbpedia.org/property/기타이력	http://ko.dbpedia.org/resource/돈숙황귀비

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/얼터너티브_록
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_펑크
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/펑크_록
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/activeYearsStartYear	1997
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/바이올린
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
-http://ko.dbpedia.org/resource/숀_맥킨	http://dbpedia.org/ontology/birthDate	1979-04-30

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/노선	나고야 시 교통국 ■ 지하철 2호선 메이조 선
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/노선	나고야 지하철 ■ 메이조 선
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/후역	가미마에즈 M 03
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/전역	M 01 가나야마
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/개업일	1967
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/소재지	아이치 현 나고야 시 나카 구
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/후역	M 03 가미마에즈
-http://ko.dbpedia.org/resource/히가시베쓰인_역	http://ko.dbpedia.org/property/역명	히가시베쓰인

@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/메구레_쥬죠	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
-http://ko.dbpedia.org/resource/메구레_쥬죠	http://dbpedia.org/ontology/occupation	경부
-http://ko.dbpedia.org/resource/메구레_쥬죠	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼
-http://ko.dbpedia.org/resource/메구레_쥬죠	http://dbpedia.org/ontology/gender	남
-http://ko.dbpedia.org/resource/메구레_쥬죠	http://dbpedia.org/ontology/firstAppearance	1

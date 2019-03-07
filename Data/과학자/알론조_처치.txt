@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/워싱턴_D.C.
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/논리학
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/처치-튜링_명제
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/처치-로서_정리
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/람다_대수
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/컴퓨터_과학자
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/수학자
-http://ko.dbpedia.org/resource/알론조_처치	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학

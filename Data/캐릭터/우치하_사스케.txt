@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/우치하_사스케	http://dbpedia.org/ontology/gender	남
-http://ko.dbpedia.org/resource/우치하_사스케	http://dbpedia.org/ontology/birthDate	7
-http://ko.dbpedia.org/resource/우치하_사스케	http://dbpedia.org/ontology/firstAppearance	1
-http://ko.dbpedia.org/resource/우치하_사스케	http://dbpedia.org/ontology/firstAppearance	3
-http://ko.dbpedia.org/resource/우치하_사스케	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/키시모토_마사시
-http://ko.dbpedia.org/resource/우치하_사스케	http://dbpedia.org/ontology/occupation	닌자

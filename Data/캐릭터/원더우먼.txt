@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/nationality	테미스키라
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/firstAppearance	올 스타 코믹스 #8 (1941년 12월)
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/gender	여성
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/윌리엄_몰튼_마스턴
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/윌리엄_몰턴_마스턴
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/엘리자베스_홀러웨이_마스턴
-http://ko.dbpedia.org/resource/원더우먼	http://dbpedia.org/ontology/birthPlace	테미스키라

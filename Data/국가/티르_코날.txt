@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/게일어
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/foundingYear	0005
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/제1대_티르코날_백작_루그라거_오_돔날
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/코날_굴반
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/도니골
-http://ko.dbpedia.org/resource/티르_코날	http://dbpedia.org/ontology/country	아일랜드

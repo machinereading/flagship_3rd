@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/블로그칵테일	http://ko.dbpedia.org/property/산업	블로그마케팅
-http://ko.dbpedia.org/resource/블로그칵테일	http://dbpedia.org/ontology/industry	블로그마케팅
-http://ko.dbpedia.org/resource/블로그칵테일	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/강남구
-http://ko.dbpedia.org/resource/블로그칵테일	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울시
-http://ko.dbpedia.org/resource/블로그칵테일	http://ko.dbpedia.org/property/창립자	박영욱
-http://ko.dbpedia.org/resource/블로그칵테일	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/위드블로그
-http://ko.dbpedia.org/resource/블로그칵테일	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/올블로그
-http://ko.dbpedia.org/resource/블로그칵테일	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/올블릿

@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/CF_몬테레이	http://dbpedia.org/ontology/foundingYear	1945
-http://ko.dbpedia.org/resource/CF_몬테레이	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/리가_MX
-http://ko.dbpedia.org/resource/CF_몬테레이	http://ko.dbpedia.org/property/감독	빅토르 마누엘 부세티츠
-http://ko.dbpedia.org/resource/CF_몬테레이	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/멕시코_프리메라_디비시온
-http://ko.dbpedia.org/resource/CF_몬테레이	http://ko.dbpedia.org/property/구단주	포멘토 에코노미코 멕시카노 SAB
-http://ko.dbpedia.org/resource/CF_몬테레이	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/멕시코

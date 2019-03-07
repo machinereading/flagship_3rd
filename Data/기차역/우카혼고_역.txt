@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/유타마_역
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/노선	■ 산인 본선
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/개업일	1958
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/산인_본선
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/나가토후타미_역
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/역명	우카혼고
-http://ko.dbpedia.org/resource/우카혼고_역	http://ko.dbpedia.org/property/소재지	야마구치 현 시모노세키 시

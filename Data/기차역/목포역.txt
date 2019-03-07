@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/임성리역
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/개업일	1913
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/일로역
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/소재지	전라남도 목포시 영산로 98
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/나주역
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/호남선
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/역명	목포
-http://ko.dbpedia.org/resource/목포역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/호남본선

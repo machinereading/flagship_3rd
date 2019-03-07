@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/캔자스_대학교	http://ko.dbpedia.org/property/총장	Bernadette Gray-Little
-http://ko.dbpedia.org/resource/캔자스_대학교	http://ko.dbpedia.org/property/설립	1865
-http://ko.dbpedia.org/resource/캔자스_대학교	http://dbpedia.org/ontology/country	미국
-http://ko.dbpedia.org/resource/캔자스_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/캔자스_대학교	http://dbpedia.org/ontology/mascot	제이호크
-http://ko.dbpedia.org/resource/캔자스_대학교	http://ko.dbpedia.org/property/표어	Videbo visionem hanc magnam quare non comburatur rubus
-http://ko.dbpedia.org/resource/캔자스_대학교	http://dbpedia.org/ontology/mascot	제이호크(매)

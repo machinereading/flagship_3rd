@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/한국야쿠르트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서초구
-http://ko.dbpedia.org/resource/한국야쿠르트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/한국야쿠르트	http://dbpedia.org/ontology/foundingYear	1969
-http://ko.dbpedia.org/resource/한국야쿠르트	http://dbpedia.org/ontology/industry	식·음료품
-http://ko.dbpedia.org/resource/한국야쿠르트	http://ko.dbpedia.org/property/산업	식·음료품
-http://ko.dbpedia.org/resource/한국야쿠르트	http://ko.dbpedia.org/property/제품	발효유, 우유, 건강음료, 건강기능식품

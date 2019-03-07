@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/타카하시_요코	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/J-pop
-http://ko.dbpedia.org/resource/타카하시_요코	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
-http://ko.dbpedia.org/resource/타카하시_요코	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/애니메이션_음악
-http://ko.dbpedia.org/resource/타카하시_요코	http://ko.dbpedia.org/property/소속사	아토믹 몽키
-http://ko.dbpedia.org/resource/타카하시_요코	http://dbpedia.org/ontology/activeYearsStartYear	1991
-http://ko.dbpedia.org/resource/타카하시_요코	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬

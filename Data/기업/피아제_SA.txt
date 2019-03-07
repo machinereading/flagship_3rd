@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/피아제_SA	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/제네바
-http://ko.dbpedia.org/resource/피아제_SA	http://ko.dbpedia.org/property/창립자	조르주 에두아르 피아제
-http://ko.dbpedia.org/resource/피아제_SA	http://dbpedia.org/ontology/location	제네바
-http://ko.dbpedia.org/resource/피아제_SA	http://ko.dbpedia.org/property/산업	시계, 보석 제조
-http://ko.dbpedia.org/resource/피아제_SA	http://ko.dbpedia.org/property/제품	시계, 보석
-http://ko.dbpedia.org/resource/피아제_SA	http://dbpedia.org/ontology/foundingYear	1874
-http://ko.dbpedia.org/resource/피아제_SA	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/주얼리

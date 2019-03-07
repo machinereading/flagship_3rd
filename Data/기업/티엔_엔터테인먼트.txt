@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/강서구_(서울특별시)
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/염창동
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/음반
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://ko.dbpedia.org/property/창립자	노진영, 토니 안
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/엔터테인먼트
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/엔터테인먼트
-http://ko.dbpedia.org/resource/티엔_엔터테인먼트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시

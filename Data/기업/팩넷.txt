@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/팩넷	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/원거리_통신
-http://ko.dbpedia.org/resource/팩넷	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/원거리_통신
-http://ko.dbpedia.org/resource/팩넷	http://dbpedia.org/ontology/foundingYear	2008
-http://ko.dbpedia.org/resource/팩넷	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/홍콩
-http://ko.dbpedia.org/resource/팩넷	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/싱가포르
-http://ko.dbpedia.org/resource/팩넷	http://ko.dbpedia.org/property/제품	브로드밴드 인터넷, Fixed Network, 데이터센터, Managed Service
-http://ko.dbpedia.org/resource/팩넷	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/전기_통신

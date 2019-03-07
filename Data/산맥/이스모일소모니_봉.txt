@@ -1,3 +1,0 @@
-http://ko.dbpedia.org/resource/이스모일소모니_봉	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/예브게니_아발라코프
-http://ko.dbpedia.org/resource/이스모일소모니_봉	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/파미르_고원
-http://ko.dbpedia.org/resource/이스모일소모니_봉	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/타지키스탄

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/전라남도
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/승주군
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/순천역_(전라남도)
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/별량면
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/원창역
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/경전선
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/개업일	구역 : 1932년 11월 1일
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/역명	수덕
-http://ko.dbpedia.org/resource/수덕역_(전라남도)	http://ko.dbpedia.org/property/개업일	신역 : 1958년 5월 21일

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/이탈리아_반도
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/교전국	이탈리아 도시 국가 연합:
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/교전국	18
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/날짜	1375
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/지휘관	존 호크우드 α
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/지휘관	''[[#8성인
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/결과	티볼리에서 강화 조약
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/지휘관	로베르 드 제네브 β
-http://ko.dbpedia.org/resource/8성인_전쟁	http://ko.dbpedia.org/property/교전국	20

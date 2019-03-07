@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/제주관광대학교	http://ko.dbpedia.org/property/설립	1992
-http://ko.dbpedia.org/resource/제주관광대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/호랑이
-http://ko.dbpedia.org/resource/제주관광대학교	http://ko.dbpedia.org/property/표어	성실하고 예의바른 진취적 기상의 젊은이
-http://ko.dbpedia.org/resource/제주관광대학교	http://ko.dbpedia.org/property/총장	김성규
-http://ko.dbpedia.org/resource/제주관광대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/왕벚꽃
-http://ko.dbpedia.org/resource/제주관광대학교	http://dbpedia.org/ontology/mascot	호랑이,왕벚꽃,소나무
-http://ko.dbpedia.org/resource/제주관광대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/소나무
-http://ko.dbpedia.org/resource/제주관광대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/제주관광대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국

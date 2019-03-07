@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/구_요도_강	http://dbpedia.org/ontology/length	13.83
-http://ko.dbpedia.org/resource/구_요도_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/일본
-http://ko.dbpedia.org/resource/구_요도_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/오사카_시
-http://ko.dbpedia.org/resource/구_요도_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/오사카_만
-http://ko.dbpedia.org/resource/구_요도_강	http://dbpedia.org/ontology/country	일본
-http://ko.dbpedia.org/resource/구_요도_강	http://ko.dbpedia.org/property/발원지	게마 수문

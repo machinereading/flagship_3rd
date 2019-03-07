@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/청담러닝	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/청담러닝	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/교육
-http://ko.dbpedia.org/resource/청담러닝	http://ko.dbpedia.org/property/제품	청담어학원, April어학원, 클루빌, Quick Chinese
-http://ko.dbpedia.org/resource/청담러닝	http://dbpedia.org/ontology/foundingYear	1998
-http://ko.dbpedia.org/resource/청담러닝	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/학원
-http://ko.dbpedia.org/resource/청담러닝	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/학원
-http://ko.dbpedia.org/resource/청담러닝	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/교육

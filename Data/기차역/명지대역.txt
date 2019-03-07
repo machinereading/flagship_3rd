@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/시청·용인대역
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/역명	명지대
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/개업일	2013
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/용인경전철
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/전역	Y117 시청·용인대
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/용인_경전철
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/김량장역
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/소재지	경기도 용인시 처인구 금학로 241
-http://ko.dbpedia.org/resource/명지대역	http://ko.dbpedia.org/property/후역	Y119 김량장

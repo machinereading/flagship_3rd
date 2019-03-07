@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://ko.dbpedia.org/property/구단주	Petr Šafarčík
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/체코
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/감브리누스_리가
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/바잘리
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/오스트라바
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://dbpedia.org/ontology/foundingYear	1922
-http://ko.dbpedia.org/resource/FC_바니크_오스트라바	http://ko.dbpedia.org/property/감독	Radomír Korytář

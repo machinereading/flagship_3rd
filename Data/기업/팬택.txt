@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/팬택	http://ko.dbpedia.org/property/산업	휴대전화, IoT 제품 제조,판매
-http://ko.dbpedia.org/resource/팬택	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/팬택	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/휴대전화
-http://ko.dbpedia.org/resource/팬택	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/휴대전화
-http://ko.dbpedia.org/resource/팬택	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/박병엽

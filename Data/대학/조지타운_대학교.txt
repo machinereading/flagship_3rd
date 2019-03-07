@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/조지타운_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/워싱턴_D.C.
-http://ko.dbpedia.org/resource/조지타운_대학교	http://ko.dbpedia.org/property/설립	1789
-http://ko.dbpedia.org/resource/조지타운_대학교	http://ko.dbpedia.org/property/총장	John J. DeGioia
-http://ko.dbpedia.org/resource/조지타운_대학교	http://dbpedia.org/ontology/mascot	호야 (Hoya)
-http://ko.dbpedia.org/resource/조지타운_대학교	http://ko.dbpedia.org/property/표어	Utraque Unum
-http://ko.dbpedia.org/resource/조지타운_대학교	http://dbpedia.org/ontology/mascot	호야
-http://ko.dbpedia.org/resource/조지타운_대학교	http://ko.dbpedia.org/property/표어	둘을 하나로

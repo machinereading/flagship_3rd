@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/로베르트_보쉬	http://ko.dbpedia.org/property/제품	자동차 부품, 전동 공구, 보안 시스템, 가전제품 등
-http://ko.dbpedia.org/resource/로베르트_보쉬	http://ko.dbpedia.org/property/산업	산업 제품 생산
-http://ko.dbpedia.org/resource/로베르트_보쉬	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/복합기업
-http://ko.dbpedia.org/resource/로베르트_보쉬	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/바덴뷔르템베르크_주
-http://ko.dbpedia.org/resource/로베르트_보쉬	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/로베르트_보슈
-http://ko.dbpedia.org/resource/로베르트_보쉬	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/고릴겐

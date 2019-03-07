@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/이구아수_강	http://dbpedia.org/ontology/length	1320
-http://ko.dbpedia.org/resource/이구아수_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/이구아수_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/파라나_강
-http://ko.dbpedia.org/resource/이구아수_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/산안토니오_강
-http://ko.dbpedia.org/resource/이구아수_강	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/이구아수_강	http://dbpedia.org/ontology/country	아르헨티나

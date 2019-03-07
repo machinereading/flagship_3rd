@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/티맥스소프트	http://dbpedia.org/ontology/foundingYear	1997
-http://ko.dbpedia.org/resource/티맥스소프트	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/소프트웨어
-http://ko.dbpedia.org/resource/티맥스소프트	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/박대연
-http://ko.dbpedia.org/resource/티맥스소프트	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/CEO
-http://ko.dbpedia.org/resource/티맥스소프트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/경기도
-http://ko.dbpedia.org/resource/티맥스소프트	http://ko.dbpedia.org/property/제품	티맥스, 제우스, 티베로, 프로프레임, 오픈프레임 등
-http://ko.dbpedia.org/resource/티맥스소프트	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/소프트웨어

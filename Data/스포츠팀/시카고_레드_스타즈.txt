@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/일리노이_주
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브리지뷰
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/도요타_파크
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://dbpedia.org/ontology/foundingYear	2013
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://dbpedia.org/ontology/foundingYear	2007
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://ko.dbpedia.org/property/구단주	아르님 휘슬러
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://ko.dbpedia.org/property/감독	로리 데임즈
-http://ko.dbpedia.org/resource/시카고_레드_스타즈	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/내셔널_우먼스_사커_리그

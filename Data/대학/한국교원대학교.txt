@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/한국교원대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국
-http://ko.dbpedia.org/resource/한국교원대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/청주시
-http://ko.dbpedia.org/resource/한국교원대학교	http://ko.dbpedia.org/property/설립	1984
-http://ko.dbpedia.org/resource/한국교원대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/매화
-http://ko.dbpedia.org/resource/한국교원대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/느티나무
-http://ko.dbpedia.org/resource/한국교원대학교	http://dbpedia.org/ontology/mascot	느티나무,황새,매화
-http://ko.dbpedia.org/resource/한국교원대학교	http://ko.dbpedia.org/property/총장	http://ko.dbpedia.org/resource/류희찬
-http://ko.dbpedia.org/resource/한국교원대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/황새
-http://ko.dbpedia.org/resource/한국교원대학교	http://ko.dbpedia.org/property/표어	사랑·신뢰·인내

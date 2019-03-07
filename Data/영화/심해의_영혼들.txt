@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/심해의_영혼들	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/제임스_카메론
-http://ko.dbpedia.org/resource/심해의_영혼들	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/United_States
-http://ko.dbpedia.org/resource/심해의_영혼들	http://ko.dbpedia.org/property/등급	G
-http://ko.dbpedia.org/resource/심해의_영혼들	http://ko.dbpedia.org/property/시간	59
-http://ko.dbpedia.org/resource/심해의_영혼들	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/영어
-http://ko.dbpedia.org/resource/심해의_영혼들	http://ko.dbpedia.org/property/개봉	2003
-http://ko.dbpedia.org/resource/심해의_영혼들	http://ko.dbpedia.org/property/장르	다큐멘터리

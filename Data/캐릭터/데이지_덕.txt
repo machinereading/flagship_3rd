@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/데이지_덕	http://dbpedia.org/ontology/firstAppearance	Mr. Duck Steps Out(1940)
-http://ko.dbpedia.org/resource/데이지_덕	http://dbpedia.org/ontology/gender	여성
-http://ko.dbpedia.org/resource/데이지_덕	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/오리
-http://ko.dbpedia.org/resource/데이지_덕	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/월트_디즈니_컴패니
-http://ko.dbpedia.org/resource/데이지_덕	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/미국

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/쓰루미_선
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/고쿠도_역
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/노선	■ 쓰루미 선
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/소재지	가나가와 현 요코하마 시 쓰루미 구 오노초 24
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/개업일	1936
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/역명	쓰루미오노
-http://ko.dbpedia.org/resource/쓰루미오노_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/벤텐바시_역

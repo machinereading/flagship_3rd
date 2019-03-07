@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/foundingYear	1816
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공동_관리지
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/켈미스
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공동통치령
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/아널드_티모테_디_라소
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/피어_그리나르
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/네덜란드어
-http://ko.dbpedia.org/resource/중립_모레스네	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어

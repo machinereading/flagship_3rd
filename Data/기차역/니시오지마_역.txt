@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/니시오지마_역	http://ko.dbpedia.org/property/소재지	도쿄 도 스미다 구
-http://ko.dbpedia.org/resource/니시오지마_역	http://ko.dbpedia.org/property/후역	오지마 S 15
-http://ko.dbpedia.org/resource/니시오지마_역	http://ko.dbpedia.org/property/역명	니시오지마
-http://ko.dbpedia.org/resource/니시오지마_역	http://ko.dbpedia.org/property/노선	도쿄 도 교통국 ○ 지하철 10호선 신주쿠 선
-http://ko.dbpedia.org/resource/니시오지마_역	http://ko.dbpedia.org/property/개업일	1978
-http://ko.dbpedia.org/resource/니시오지마_역	http://ko.dbpedia.org/property/전역	S 13 스미요시

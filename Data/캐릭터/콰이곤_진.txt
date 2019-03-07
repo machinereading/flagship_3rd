@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/콰이곤_진	http://dbpedia.org/ontology/firstAppearance	《보이지 않는 위험》 (1999년)
-http://ko.dbpedia.org/resource/콰이곤_진	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루카스
-http://ko.dbpedia.org/resource/콰이곤_진	http://dbpedia.org/ontology/gender	남성
-http://ko.dbpedia.org/resource/콰이곤_진	http://dbpedia.org/ontology/birthPlace	코러산트
-http://ko.dbpedia.org/resource/콰이곤_진	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/제다이

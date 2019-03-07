@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/키몬다	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/반도체
-http://ko.dbpedia.org/resource/키몬다	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/디램
-http://ko.dbpedia.org/resource/키몬다	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뮌헨
-http://ko.dbpedia.org/resource/키몬다	http://dbpedia.org/ontology/foundingYear	2006
-http://ko.dbpedia.org/resource/키몬다	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/반도체
-http://ko.dbpedia.org/resource/키몬다	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/CEO

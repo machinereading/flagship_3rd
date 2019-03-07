@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/경부선
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/역명	추풍령
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/황간역
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/소재지	충청북도 영동군 추풍령면 추풍령로 444
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/개업일	1905
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/김천역
-http://ko.dbpedia.org/resource/추풍령역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신암역

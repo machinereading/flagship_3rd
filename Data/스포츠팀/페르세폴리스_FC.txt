@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아자디_경기장
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아자디_스타디움
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/이란_프로리그
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://dbpedia.org/ontology/foundingYear	1963
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이란
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://ko.dbpedia.org/property/구단주	하미드 레자 시아시
-http://ko.dbpedia.org/resource/페르세폴리스_FC	http://ko.dbpedia.org/property/감독	하미드 데락샨

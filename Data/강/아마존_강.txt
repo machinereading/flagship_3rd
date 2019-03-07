@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/아마존_강	http://dbpedia.org/ontology/country	콜롬비아
-http://ko.dbpedia.org/resource/아마존_강	http://dbpedia.org/ontology/country	브라질
-http://ko.dbpedia.org/resource/아마존_강	http://ko.dbpedia.org/property/하구	대서양
-http://ko.dbpedia.org/resource/아마존_강	http://dbpedia.org/ontology/country	페루
-http://ko.dbpedia.org/resource/아마존_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/페루
-http://ko.dbpedia.org/resource/아마존_강	http://dbpedia.org/ontology/length	7062
-http://ko.dbpedia.org/resource/아마존_강	http://ko.dbpedia.org/property/발원지	안데스 산맥
-http://ko.dbpedia.org/resource/아마존_강	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/에콰도르

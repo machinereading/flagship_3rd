@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/시바카와_역
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/역명	누마쿠보
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/미노부_선
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/니시후지노미야_역
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/개업일	1929
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/소재지	누마쿠보 1065
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/소재지	시즈오카 현 후지노미야 시
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
-http://ko.dbpedia.org/resource/누마쿠보_역	http://ko.dbpedia.org/property/노선	■ 미노부 선

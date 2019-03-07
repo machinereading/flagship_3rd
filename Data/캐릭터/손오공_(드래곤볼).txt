@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/손오공_(드래곤볼)	http://dbpedia.org/ontology/gender	남자
-http://ko.dbpedia.org/resource/손오공_(드래곤볼)	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/사이어인
-http://ko.dbpedia.org/resource/손오공_(드래곤볼)	http://dbpedia.org/ontology/occupation	무술인
-http://ko.dbpedia.org/resource/손오공_(드래곤볼)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/도리야마_아키라
-http://ko.dbpedia.org/resource/손오공_(드래곤볼)	http://dbpedia.org/ontology/firstAppearance	1984년 주간 소년 점프

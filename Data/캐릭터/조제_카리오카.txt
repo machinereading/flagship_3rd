@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/앵무새
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/월트_디즈니_컴퍼니
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/리우데자네이루
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/gender	수컷
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/조제_카리오카	http://dbpedia.org/ontology/firstAppearance	라틴 아메리카의 밤

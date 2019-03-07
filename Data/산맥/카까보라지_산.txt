@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/카까보라지_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/미얀마
-http://ko.dbpedia.org/resource/카까보라지_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/미얀마
-http://ko.dbpedia.org/resource/카까보라지_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/티베트
-http://ko.dbpedia.org/resource/카까보라지_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/히말라야_산맥
-http://ko.dbpedia.org/resource/카까보라지_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/카친_주

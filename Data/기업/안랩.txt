@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/안랩	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/경기도
-http://ko.dbpedia.org/resource/안랩	http://ko.dbpedia.org/property/산업	정보 보안
-http://ko.dbpedia.org/resource/안랩	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/안철수
-http://ko.dbpedia.org/resource/안랩	http://dbpedia.org/ontology/foundingYear	1995
-http://ko.dbpedia.org/resource/안랩	http://ko.dbpedia.org/property/제품	AhnLab SiteGuard,
-http://ko.dbpedia.org/resource/안랩	http://ko.dbpedia.org/property/제품	AhnLab V3 Lite 등 다양
-http://ko.dbpedia.org/resource/안랩	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/정보_보안
-http://ko.dbpedia.org/resource/안랩	http://ko.dbpedia.org/property/제품	AhnLab TrusGuard,

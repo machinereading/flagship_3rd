@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/러시아_프로페셔널_풋볼_리그
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://ko.dbpedia.org/property/구단주	유리 미신
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/러시아_프리미어리그
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/모스크바
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://dbpedia.org/ontology/foundingYear	1924
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://ko.dbpedia.org/property/감독	Александр Тукманов
-http://ko.dbpedia.org/resource/FC_토르페도_모스크바	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/러시아

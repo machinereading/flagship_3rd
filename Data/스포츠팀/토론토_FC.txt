@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/토론토_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/메이저_리그_사커
-http://ko.dbpedia.org/resource/토론토_FC	http://ko.dbpedia.org/property/구단주	메이플 리프 스포츠 & 엔터테인먼트
-http://ko.dbpedia.org/resource/토론토_FC	http://dbpedia.org/ontology/foundingYear	2006
-http://ko.dbpedia.org/resource/토론토_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/온타리오_주
-http://ko.dbpedia.org/resource/토론토_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/BMO_필드
-http://ko.dbpedia.org/resource/토론토_FC	http://ko.dbpedia.org/property/감독	그렉 버니
-http://ko.dbpedia.org/resource/토론토_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/캐나다

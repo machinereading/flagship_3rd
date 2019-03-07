@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/FC_터터바녀	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/터터바녀
-http://ko.dbpedia.org/resource/FC_터터바녀	http://ko.dbpedia.org/property/감독	Herédi Attila
-http://ko.dbpedia.org/resource/FC_터터바녀	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/헝가리
-http://ko.dbpedia.org/resource/FC_터터바녀	http://ko.dbpedia.org/property/구단주	Bolla Krisztián
-http://ko.dbpedia.org/resource/FC_터터바녀	http://dbpedia.org/ontology/foundingYear	1910
-http://ko.dbpedia.org/resource/FC_터터바녀	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/넴제티_버이녹샤그_II

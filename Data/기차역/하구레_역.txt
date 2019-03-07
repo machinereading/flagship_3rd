@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/하구레_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/히구치_역_(사이타마_현)
-http://ko.dbpedia.org/resource/하구레_역	http://ko.dbpedia.org/property/역명	하구레
-http://ko.dbpedia.org/resource/하구레_역	http://ko.dbpedia.org/property/개업일	1903
-http://ko.dbpedia.org/resource/하구레_역	http://ko.dbpedia.org/property/소재지	사이타마 현 오사토 군 요리이 정
-http://ko.dbpedia.org/resource/하구레_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/요리이_역
-http://ko.dbpedia.org/resource/하구레_역	http://ko.dbpedia.org/property/노선	지치부 철도 ■ 지치부 본선

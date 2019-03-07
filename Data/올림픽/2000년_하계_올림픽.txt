@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/2000년_하계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/시드니
-http://ko.dbpedia.org/resource/2000년_하계_올림픽	http://ko.dbpedia.org/property/참가국	199
-http://ko.dbpedia.org/resource/2000년_하계_올림픽	http://ko.dbpedia.org/property/참가선수	10651
-http://ko.dbpedia.org/resource/2000년_하계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/윌리엄_딘
-http://ko.dbpedia.org/resource/2000년_하계_올림픽	http://dbpedia.org/ontology/motto	하나의 목표를 향한 수천 가지의 마음, 함께 나누는 정신, 꿈을 향한 도전

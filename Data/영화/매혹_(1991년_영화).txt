@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://ko.dbpedia.org/property/등급	청소년 관람불가
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://ko.dbpedia.org/property/시간	93
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://ko.dbpedia.org/property/개봉	1991
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://ko.dbpedia.org/property/장르	드라마, 로맨스
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://ko.dbpedia.org/property/감독	박수일
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/매혹_(1991년_영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어

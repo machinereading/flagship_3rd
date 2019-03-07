@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/최진호_(1948년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/대한민국
-http://ko.dbpedia.org/resource/최진호_(1948년)	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/최진호_(1948년)	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/화학
-http://ko.dbpedia.org/resource/최진호_(1948년)	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/화학
-http://ko.dbpedia.org/resource/최진호_(1948년)	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/이화여자대학교
-http://ko.dbpedia.org/resource/최진호_(1948년)	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/독일_뮌헨대학교

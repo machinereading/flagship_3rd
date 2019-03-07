@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/에릭슨-LG	http://dbpedia.org/ontology/foundingYear	2005
-http://ko.dbpedia.org/resource/에릭슨-LG	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/에릭슨-LG	http://dbpedia.org/ontology/industry	통신장비제조업
-http://ko.dbpedia.org/resource/에릭슨-LG	http://ko.dbpedia.org/property/제품	유무선 통신시스템, 기업용 통신장비
-http://ko.dbpedia.org/resource/에릭슨-LG	http://ko.dbpedia.org/property/산업	통신장비제조업

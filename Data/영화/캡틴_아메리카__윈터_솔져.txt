@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/영어
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/감독	조 루소
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/앤서니_루소
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/개봉	2014
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/시간	136
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/관객수	3963220
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/슈퍼히어로
-http://ko.dbpedia.org/resource/캡틴_아메리카:_윈터_솔져	http://ko.dbpedia.org/property/등급	15

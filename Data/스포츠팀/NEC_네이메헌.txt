@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/에레디비시
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/네이메헌
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/네덜란드
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/호퍼르트_스타디온
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://dbpedia.org/ontology/foundingYear	1900
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://ko.dbpedia.org/property/구단주	얀 판 테이펠런
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://dbpedia.org/ontology/league	에레디비시
-http://ko.dbpedia.org/resource/NEC_네이메헌	http://ko.dbpedia.org/property/감독	마리오 베인

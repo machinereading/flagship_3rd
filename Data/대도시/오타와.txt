@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/오타와	http://ko.dbpedia.org/property/별명	http://ko.dbpedia.org/resource/바이타운
-http://ko.dbpedia.org/resource/오타와	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/캐나다
-http://ko.dbpedia.org/resource/오타와	http://dbpedia.org/ontology/area	2778.13
-http://ko.dbpedia.org/resource/오타와	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/온타리오_주
-http://ko.dbpedia.org/resource/오타와	http://dbpedia.org/ontology/populationTotal	883391

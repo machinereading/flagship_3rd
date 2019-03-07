@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/튀빙겐
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/독일
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/activeYearsStartYear	1994
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/activeYearsStartYear	1992
-http://ko.dbpedia.org/resource/데스피나_반디	http://ko.dbpedia.org/property/본명	Δέσποινα Μαλέα
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/birthDate	1969-07-22
-http://ko.dbpedia.org/resource/데스피나_반디	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝

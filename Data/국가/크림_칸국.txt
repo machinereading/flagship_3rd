@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/하즈_기라이
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/샤힌_기라이
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/foundingYear	1449
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/오스만_터키어
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/크림_타타르어
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/세습군주제
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/바흐치사라이
-http://ko.dbpedia.org/resource/크림_칸국	http://dbpedia.org/ontology/foundingYear	1441

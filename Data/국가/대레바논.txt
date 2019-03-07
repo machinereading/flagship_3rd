@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/대레바논	http://dbpedia.org/ontology/foundingYear	1920
-http://ko.dbpedia.org/resource/대레바논	http://dbpedia.org/ontology/country	레바논
-http://ko.dbpedia.org/resource/대레바논	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/위임통치령
-http://ko.dbpedia.org/resource/대레바논	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/베이루트
-http://ko.dbpedia.org/resource/대레바논	http://dbpedia.org/ontology/officialLanguage	프랑스어아랍어
-http://ko.dbpedia.org/resource/대레바논	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어

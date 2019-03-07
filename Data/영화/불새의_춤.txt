@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/불새의_춤	http://ko.dbpedia.org/property/감독	강대하
-http://ko.dbpedia.org/resource/불새의_춤	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/불새의_춤	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
-http://ko.dbpedia.org/resource/불새의_춤	http://ko.dbpedia.org/property/등급	청소년 관람불가
-http://ko.dbpedia.org/resource/불새의_춤	http://ko.dbpedia.org/property/시간	88
-http://ko.dbpedia.org/resource/불새의_춤	http://ko.dbpedia.org/property/개봉	1991
-http://ko.dbpedia.org/resource/불새의_춤	http://ko.dbpedia.org/property/장르	로맨스

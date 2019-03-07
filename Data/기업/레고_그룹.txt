@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/레고_그룹	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/장난감
-http://ko.dbpedia.org/resource/레고_그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/빌룬드
-http://ko.dbpedia.org/resource/레고_그룹	http://ko.dbpedia.org/property/창립자	올레 키르크 크리스티얀센
-http://ko.dbpedia.org/resource/레고_그룹	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/레고
-http://ko.dbpedia.org/resource/레고_그룹	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/브릭
-http://ko.dbpedia.org/resource/레고_그룹	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/브릭

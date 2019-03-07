@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/국립_정치_대학	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/타이베이_시
-http://ko.dbpedia.org/resource/국립_정치_대학	http://ko.dbpedia.org/property/설립	1927
-http://ko.dbpedia.org/resource/국립_정치_대학	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/매화나무
-http://ko.dbpedia.org/resource/국립_정치_대학	http://ko.dbpedia.org/property/표어	親愛精誠
-http://ko.dbpedia.org/resource/국립_정치_대학	http://ko.dbpedia.org/property/표어	Harmony, Independence, Balance, and Preeminence
-http://ko.dbpedia.org/resource/국립_정치_대학	http://ko.dbpedia.org/property/총장	周行一
-http://ko.dbpedia.org/resource/국립_정치_대학	http://dbpedia.org/ontology/mascot	매화나무

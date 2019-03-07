@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/세계_기상_기구
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/대영_제국_훈장
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/가이아_이론
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/지구과학
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/레치워스
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/하트퍼드셔_주
-http://ko.dbpedia.org/resource/제임스_러브록	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/화학

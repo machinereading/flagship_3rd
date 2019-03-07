@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/파네베지스	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/아욱슈타이티야
-http://ko.dbpedia.org/resource/파네베지스	http://ko.dbpedia.org/property/별명	리투아니아의 시카고
-http://ko.dbpedia.org/resource/파네베지스	http://dbpedia.org/ontology/area	50
-http://ko.dbpedia.org/resource/파네베지스	http://dbpedia.org/ontology/populationTotal	113653
-http://ko.dbpedia.org/resource/파네베지스	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/리투아니아
-http://ko.dbpedia.org/resource/파네베지스	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/파네베지스_주

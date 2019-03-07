@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/후역	824
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신흥역_(성남)
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/소재지	경기도 성남시 수정구 산성대로 지하365
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/역명	단대오거리
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서울_지하철_8호선
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/전역	822
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/남한산성입구역
-http://ko.dbpedia.org/resource/단대오거리역	http://ko.dbpedia.org/property/개업일	1996

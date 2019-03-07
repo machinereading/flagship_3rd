@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/아야사키_하야테	http://dbpedia.org/ontology/firstAppearance	제1화
-http://ko.dbpedia.org/resource/아야사키_하야테	http://dbpedia.org/ontology/gender	남
-http://ko.dbpedia.org/resource/아야사키_하야테	http://dbpedia.org/ontology/birthDate	1988
-http://ko.dbpedia.org/resource/아야사키_하야테	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
-http://ko.dbpedia.org/resource/아야사키_하야테	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/하타_켄지로

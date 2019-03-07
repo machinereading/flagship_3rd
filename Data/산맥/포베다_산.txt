@@ -1,2 +1,0 @@
-http://ko.dbpedia.org/resource/포베다_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/톈산_산맥
-http://ko.dbpedia.org/resource/포베다_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/비탈리_아발라코프

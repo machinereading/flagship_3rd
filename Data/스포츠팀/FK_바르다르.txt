@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/FK_바르다르	http://ko.dbpedia.org/property/감독	Ilco Gjorgioski
-http://ko.dbpedia.org/resource/FK_바르다르	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스코페
-http://ko.dbpedia.org/resource/FK_바르다르	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/필리포스_2세_아레나
-http://ko.dbpedia.org/resource/FK_바르다르	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/마케도니아_공화국
-http://ko.dbpedia.org/resource/FK_바르다르	http://ko.dbpedia.org/property/구단주	Zoran Šiškovski
-http://ko.dbpedia.org/resource/FK_바르다르	http://dbpedia.org/ontology/foundingYear	1947
-http://ko.dbpedia.org/resource/FK_바르다르	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/마케도니아_1부_리그

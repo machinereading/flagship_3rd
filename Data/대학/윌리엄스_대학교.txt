@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://dbpedia.org/ontology/country	미국
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/윌리엄스타운_(매사추세츠_주)
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://ko.dbpedia.org/property/표어	E liberalitate E. Williams, armigeri
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://dbpedia.org/ontology/mascot	Purple cow (보랏빛소)
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://ko.dbpedia.org/property/설립	1793
-http://ko.dbpedia.org/resource/윌리엄스_대학교	http://ko.dbpedia.org/property/총장	아담 F. 포크

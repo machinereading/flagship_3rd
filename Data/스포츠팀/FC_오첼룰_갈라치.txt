@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/FC_오첼룰_갈라치	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/도리넬_문테아누
-http://ko.dbpedia.org/resource/FC_오첼룰_갈라치	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/오첼룰_경기장
-http://ko.dbpedia.org/resource/FC_오첼룰_갈라치	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/루마니아
-http://ko.dbpedia.org/resource/FC_오첼룰_갈라치	http://ko.dbpedia.org/property/구단주	마리우스 스탄
-http://ko.dbpedia.org/resource/FC_오첼룰_갈라치	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/리가_I
-http://ko.dbpedia.org/resource/FC_오첼룰_갈라치	http://dbpedia.org/ontology/foundingYear	1964

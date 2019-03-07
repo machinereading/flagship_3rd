@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/필터_(음악가)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/음악가
-http://ko.dbpedia.org/resource/필터_(음악가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로니카
-http://ko.dbpedia.org/resource/필터_(음악가)	http://dbpedia.org/ontology/activeYearsStartYear	2008
-http://ko.dbpedia.org/resource/필터_(음악가)	http://ko.dbpedia.org/property/본명	장재원
-http://ko.dbpedia.org/resource/필터_(음악가)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/트랜스_(음악)
-http://ko.dbpedia.org/resource/필터_(음악가)	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/아메바_컬쳐

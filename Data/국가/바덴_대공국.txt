@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/카를스루에
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/바덴의_프리드리히_2세
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/바덴의_카를_프리드리히
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/country	바덴
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/바덴의_노래
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/foundingYear	1806
-http://ko.dbpedia.org/resource/바덴_대공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어

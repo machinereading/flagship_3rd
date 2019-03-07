@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/트로이카_게임스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임
-http://ko.dbpedia.org/resource/트로이카_게임스	http://ko.dbpedia.org/property/제품	Arcanum: Of Steamworks and Magick Obscura, The Temple of Elemental Evil, Vampire: The Masquerade – Bloodlines
-http://ko.dbpedia.org/resource/트로이카_게임스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업
-http://ko.dbpedia.org/resource/트로이카_게임스	http://dbpedia.org/ontology/foundingYear	1998
-http://ko.dbpedia.org/resource/트로이카_게임스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/어바인_(캘리포니아_주)
-http://ko.dbpedia.org/resource/트로이카_게임스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업

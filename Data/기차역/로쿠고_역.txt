@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/시마다_역
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/후지에다_역
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/개업일	1986
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/소재지	도에쓰 1초메 16
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/역명	로쿠고
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/소재지	시즈오카 현 시마다 시
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이도_본선
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
-http://ko.dbpedia.org/resource/로쿠고_역	http://ko.dbpedia.org/property/노선	■ 도카이도 본선

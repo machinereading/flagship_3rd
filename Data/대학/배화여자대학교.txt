@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/배화여자대학교	http://dbpedia.org/ontology/mascot	목련
-http://ko.dbpedia.org/resource/배화여자대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/배화여자대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국
-http://ko.dbpedia.org/resource/배화여자대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/배화여자대학교	http://ko.dbpedia.org/property/총장	김숙자
-http://ko.dbpedia.org/resource/배화여자대학교	http://dbpedia.org/ontology/mascot	목련
-http://ko.dbpedia.org/resource/배화여자대학교	http://ko.dbpedia.org/property/표어	정직·근면·봉사

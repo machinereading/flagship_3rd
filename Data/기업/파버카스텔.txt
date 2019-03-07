@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/파버카스텔	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/문방구
-http://ko.dbpedia.org/resource/파버카스텔	http://dbpedia.org/ontology/industry	필기류
-http://ko.dbpedia.org/resource/파버카스텔	http://dbpedia.org/ontology/foundingYear	1761
-http://ko.dbpedia.org/resource/파버카스텔	http://ko.dbpedia.org/property/산업	필기류
-http://ko.dbpedia.org/resource/파버카스텔	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/바이에른_주
-http://ko.dbpedia.org/resource/파버카스텔	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/연필
-http://ko.dbpedia.org/resource/파버카스텔	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미텔프랑켄_현
-http://ko.dbpedia.org/resource/파버카스텔	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/지우개
-http://ko.dbpedia.org/resource/파버카스텔	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/카스파르_파버

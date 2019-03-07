@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/마블_코믹스	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/마틴_굿맨
-http://ko.dbpedia.org/resource/마블_코믹스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/출판
-http://ko.dbpedia.org/resource/마블_코믹스	http://dbpedia.org/ontology/foundingYear	1939
-http://ko.dbpedia.org/resource/마블_코믹스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/마블_코믹스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뉴욕_주
-http://ko.dbpedia.org/resource/마블_코믹스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/만화책
-http://ko.dbpedia.org/resource/마블_코믹스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/5번가_(맨하탄)
-http://ko.dbpedia.org/resource/마블_코믹스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/뉴욕_시
-http://ko.dbpedia.org/resource/마블_코믹스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/출판

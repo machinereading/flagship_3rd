@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/해왕성
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/해왕성의_발견
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/베를린
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/천문학
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/베를린_훔볼트_대학교
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/베를린_천문대
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/천문학
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/라이프치히_천문대
-http://ko.dbpedia.org/resource/하인리히_루트비히_다레스트	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/왕립_천문학회_금메달

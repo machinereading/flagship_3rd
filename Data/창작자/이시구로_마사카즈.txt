@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/오사카_예술대학
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/희극
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일상물
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/award	2000
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/후쿠이_현
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/그래도_마을은_돌아간다
-http://ko.dbpedia.org/resource/이시구로_마사카즈	http://dbpedia.org/ontology/award	2013

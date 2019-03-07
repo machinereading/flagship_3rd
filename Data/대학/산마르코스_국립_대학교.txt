@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://ko.dbpedia.org/property/표어	Decana de América»
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://ko.dbpedia.org/property/표어	«Universidad del Perú,
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://dbpedia.org/ontology/mascot	사자
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/사자
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://ko.dbpedia.org/property/총장	Luis Izquierdo Vásquez
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://ko.dbpedia.org/property/설립	1551
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/페루
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://dbpedia.org/ontology/country	페루
-http://ko.dbpedia.org/resource/산마르코스_국립_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/리마

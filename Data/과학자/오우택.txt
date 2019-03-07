@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/오우택	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/생리학
-http://ko.dbpedia.org/resource/오우택	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/교육인
-http://ko.dbpedia.org/resource/오우택	http://ko.dbpedia.org/property/소속	http://ko.dbpedia.org/resource/서울대학교_약학대학
-http://ko.dbpedia.org/resource/오우택	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/서울대학교_약학대학
-http://ko.dbpedia.org/resource/오우택	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/약학
-http://ko.dbpedia.org/resource/오우택	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/약학

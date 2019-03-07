@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/FC_페트르잘카_아카데미아	http://dbpedia.org/ontology/foundingYear	1898
-http://ko.dbpedia.org/resource/FC_페트르잘카_아카데미아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/슬로바키아
-http://ko.dbpedia.org/resource/FC_페트르잘카_아카데미아	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/슬로바키아_수페르리가
-http://ko.dbpedia.org/resource/FC_페트르잘카_아카데미아	http://ko.dbpedia.org/property/감독	Vladimír Weiss
-http://ko.dbpedia.org/resource/FC_페트르잘카_아카데미아	http://ko.dbpedia.org/property/구단주	Vladimír Bajan
-http://ko.dbpedia.org/resource/FC_페트르잘카_아카데미아	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/페트르잘카_경기장

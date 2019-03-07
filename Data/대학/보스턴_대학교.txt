@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/보스턴_대학교	http://ko.dbpedia.org/property/표어	Learning, Virtue, Piety
-http://ko.dbpedia.org/resource/보스턴_대학교	http://ko.dbpedia.org/property/총장	Robert A. Brown
-http://ko.dbpedia.org/resource/보스턴_대학교	http://ko.dbpedia.org/property/설립	1839
-http://ko.dbpedia.org/resource/보스턴_대학교	http://dbpedia.org/ontology/mascot	보스턴 테리어 (Boston terrier)
-http://ko.dbpedia.org/resource/보스턴_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/보스턴

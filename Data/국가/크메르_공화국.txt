@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/크메르_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/프놈펜
-http://ko.dbpedia.org/resource/크메르_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/크메르어
-http://ko.dbpedia.org/resource/크메르_공화국	http://dbpedia.org/ontology/foundingYear	1970
-http://ko.dbpedia.org/resource/크메르_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화제
-http://ko.dbpedia.org/resource/크메르_공화국	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/크메르_공화국의_국가
-http://ko.dbpedia.org/resource/크메르_공화국	http://dbpedia.org/ontology/country	캄보디아

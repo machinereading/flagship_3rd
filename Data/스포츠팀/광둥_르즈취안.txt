@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://ko.dbpedia.org/property/감독	차오양
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/광둥_성
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/중화인민공화국
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/광둥_성_인민체육장
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/광저우_시
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://ko.dbpedia.org/property/구단주	린친
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://dbpedia.org/ontology/foundingYear	2007
-http://ko.dbpedia.org/resource/광둥_르즈취안	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/중국_갑급리그

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/역명	야히로
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/후역	요쓰기 KS48
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/개업일	1923
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/오시아게_선
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/게이세이_전철_오시아게_선
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/소재지	도쿄 도 스미다 구
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/게이세이_전철
-http://ko.dbpedia.org/resource/야히로_역	http://ko.dbpedia.org/property/전역	KS46 게이세이히키후네

@@ -1,2 +1,0 @@
-http://ko.dbpedia.org/resource/케냐_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/1899년
-http://ko.dbpedia.org/resource/케냐_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/케냐

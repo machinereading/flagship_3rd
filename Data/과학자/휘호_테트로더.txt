@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/휘호_테트로더	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/암스테르담
-http://ko.dbpedia.org/resource/휘호_테트로더	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/네덜란드
-http://ko.dbpedia.org/resource/휘호_테트로더	http://ko.dbpedia.org/property/출신대학	http://ko.dbpedia.org/resource/라이프치히_대학교
-http://ko.dbpedia.org/resource/휘호_테트로더	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/자쿠어-테트로더_엔트로피
-http://ko.dbpedia.org/resource/휘호_테트로더	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
-http://ko.dbpedia.org/resource/휘호_테트로더	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/물리학

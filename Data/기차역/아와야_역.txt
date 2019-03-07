@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/노선	■ 산코 선
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/오제키야마_역
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/나가타니_역
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/소재지	히로시마 현 미요시 시
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/산코_선
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/역명	아와야
-http://ko.dbpedia.org/resource/아와야_역	http://ko.dbpedia.org/property/개업일	1955

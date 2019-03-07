@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/오번_(앨라배마_주)	http://ko.dbpedia.org/property/별명	The Loveliest Village on the Plains
-http://ko.dbpedia.org/resource/오번_(앨라배마_주)	http://dbpedia.org/ontology/populationTotal	57833
-http://ko.dbpedia.org/resource/오번_(앨라배마_주)	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/앨라배마_주
-http://ko.dbpedia.org/resource/오번_(앨라배마_주)	http://dbpedia.org/ontology/area	39.6
-http://ko.dbpedia.org/resource/오번_(앨라배마_주)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국

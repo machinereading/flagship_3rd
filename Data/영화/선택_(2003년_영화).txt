@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/장르	드라마
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/시간	103
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/등급	15
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/개봉	2003
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/안석환
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/언어	한국어
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/홍기선
-http://ko.dbpedia.org/resource/선택_(2003년_영화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/김중기_(배우)

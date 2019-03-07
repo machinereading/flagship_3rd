@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/사카노이치_역
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/소재지	오이타 현 오이타 시
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/개업일	1924
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/역명	오자이
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/닛포_본선
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/쓰루사키_역
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/소재지	오아자 마도코로 1456
-http://ko.dbpedia.org/resource/오자이_역	http://ko.dbpedia.org/property/노선	■ 닛포 본선

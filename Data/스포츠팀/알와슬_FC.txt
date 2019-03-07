@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/알와슬_FC	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/가브리엘_칼데론
-http://ko.dbpedia.org/resource/알와슬_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아랍에미리트
-http://ko.dbpedia.org/resource/알와슬_FC	http://dbpedia.org/ontology/foundingYear	1960
-http://ko.dbpedia.org/resource/알와슬_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/UAE_아라비안_걸프_리그
-http://ko.dbpedia.org/resource/알와슬_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/자벨_경기장
-http://ko.dbpedia.org/resource/알와슬_FC	http://ko.dbpedia.org/property/구단주	아흐메드 빈 라세드 알막툼
-http://ko.dbpedia.org/resource/알와슬_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/두바이

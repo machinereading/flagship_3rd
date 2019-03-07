@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/대발해	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/고영창
-http://ko.dbpedia.org/resource/대발해	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/동경_용원부
-http://ko.dbpedia.org/resource/대발해	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
-http://ko.dbpedia.org/resource/대발해	http://dbpedia.org/ontology/foundingYear	1116
-http://ko.dbpedia.org/resource/대발해	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중세_한국어

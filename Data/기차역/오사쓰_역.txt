@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/소재지	홋카이도 지토세 시
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/노선	홋카이도 여객철도 지토세 선
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/전역	H 13 지토세
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/후역	삿포로비루테이엔 H 11
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/개업일	1958
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/노선	■ 지토세 선
-http://ko.dbpedia.org/resource/오사쓰_역	http://ko.dbpedia.org/property/역명	오사쓰

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/activeYearsStartYear	2011
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/홀론
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/보컬
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/activeYearsStartYear	2011
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/월드_뮤직
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/birthDate	1991-05-17
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/이스라엘
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/팝_음악
-http://ko.dbpedia.org/resource/모한_마조흐	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/싱어송라이터

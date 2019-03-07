@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/슈체친	http://ko.dbpedia.org/property/별명	떠있는 호수
-http://ko.dbpedia.org/resource/슈체친	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/서포모제_주
-http://ko.dbpedia.org/resource/슈체친	http://dbpedia.org/ontology/populationTotal	406427
-http://ko.dbpedia.org/resource/슈체친	http://dbpedia.org/ontology/area	301
-http://ko.dbpedia.org/resource/슈체친	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/폴란드

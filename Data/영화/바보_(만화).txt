@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/언어	한국어
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/등급	12
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/장르	드라마
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/시간	97
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/하지원
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/차태현
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/개봉	2008
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/김정권
-http://ko.dbpedia.org/resource/바보_(만화)	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/박희순

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/CR_플라멩구	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/CR_플라멩구	http://dbpedia.org/ontology/foundingYear	1895
-http://ko.dbpedia.org/resource/CR_플라멩구	http://ko.dbpedia.org/property/감독	반데를레이 루솀부르구
-http://ko.dbpedia.org/resource/CR_플라멩구	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이스타지우_두_마라카낭
-http://ko.dbpedia.org/resource/CR_플라멩구	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/브라질_세리에_A
-http://ko.dbpedia.org/resource/CR_플라멩구	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/캄페오나투_브라질레이루_세리이_A
-http://ko.dbpedia.org/resource/CR_플라멩구	http://ko.dbpedia.org/property/구단주	에두아르두 반데이라 지 멜루

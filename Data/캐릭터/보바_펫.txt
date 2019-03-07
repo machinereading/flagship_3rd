@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/보바_펫	http://dbpedia.org/ontology/firstAppearance	《스타워즈 홀리데이 스페셜》 (1978년)
-http://ko.dbpedia.org/resource/보바_펫	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루카스
-http://ko.dbpedia.org/resource/보바_펫	http://dbpedia.org/ontology/gender	남성
-http://ko.dbpedia.org/resource/보바_펫	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스타워즈의_행성_목록
-http://ko.dbpedia.org/resource/보바_펫	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/현상금_사냥꾼

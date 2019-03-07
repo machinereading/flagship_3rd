@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/기타신요코하마_역	http://ko.dbpedia.org/property/역명	기타신요코하마
-http://ko.dbpedia.org/resource/기타신요코하마_역	http://ko.dbpedia.org/property/전역	B25 신요코하마
-http://ko.dbpedia.org/resource/기타신요코하마_역	http://ko.dbpedia.org/property/소재지	가나가와 현 요코하마 시 고호쿠 구 기타신요코하마 1초메
-http://ko.dbpedia.org/resource/기타신요코하마_역	http://ko.dbpedia.org/property/노선	요코하마 시 교통국 ■ 지하철 3호선
-http://ko.dbpedia.org/resource/기타신요코하마_역	http://ko.dbpedia.org/property/후역	닛파 B27
-http://ko.dbpedia.org/resource/기타신요코하마_역	http://ko.dbpedia.org/property/개업일	1993

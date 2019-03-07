@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/결과	폴란드군 승리
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/지휘관	스테니스와브 마체크
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/장소	샹부아 동북쪽의 몽오르멜
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/날짜	1944
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/사상자	351
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/교전국	폴란드 서부군
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/사상자	전차 11대 파괴
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/사상자	~1,500명 사망
-http://ko.dbpedia.org/resource/262고지_전투	http://ko.dbpedia.org/property/지휘관	발터 모델

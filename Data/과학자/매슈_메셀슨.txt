@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/매슈_메셀슨	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/생화학
-http://ko.dbpedia.org/resource/매슈_메셀슨	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/덴버
-http://ko.dbpedia.org/resource/매슈_메셀슨	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/전령_RNA
-http://ko.dbpedia.org/resource/매슈_메셀슨	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/생물학자
-http://ko.dbpedia.org/resource/매슈_메셀슨	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/유전학
-http://ko.dbpedia.org/resource/매슈_메셀슨	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/생물무기금지협약

@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/1992년_하계_올림픽	http://ko.dbpedia.org/property/참가국	169
-http://ko.dbpedia.org/resource/1992년_하계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/후안_카를로스_1세
-http://ko.dbpedia.org/resource/1992년_하계_올림픽	http://ko.dbpedia.org/property/참가선수	9356
-http://ko.dbpedia.org/resource/1992년_하계_올림픽	http://dbpedia.org/ontology/motto	영원한 친구
-http://ko.dbpedia.org/resource/1992년_하계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/바르셀로나

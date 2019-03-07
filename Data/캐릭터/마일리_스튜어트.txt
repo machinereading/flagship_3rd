@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/마이클_폴리
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/리치_코럴
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/United_States
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/firstAppearance	Lilly, Do You Want to Know a Secret?
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/학생
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/베리_오_브라이언
-http://ko.dbpedia.org/resource/마일리_스튜어트	http://dbpedia.org/ontology/gender	여자

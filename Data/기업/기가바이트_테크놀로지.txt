@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/일렉트로닉스
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터_산업
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/그래픽_카드
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/타이페이
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://dbpedia.org/ontology/foundingYear	1986
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/메인보드
-http://ko.dbpedia.org/resource/기가바이트_테크놀로지	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터_산업

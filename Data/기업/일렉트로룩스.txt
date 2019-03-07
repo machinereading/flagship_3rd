@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/일렉트로룩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/스톡홀롬
-http://ko.dbpedia.org/resource/일렉트로룩스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/청소기
-http://ko.dbpedia.org/resource/일렉트로룩스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/믹서기
-http://ko.dbpedia.org/resource/일렉트로룩스	http://ko.dbpedia.org/property/산업	전자제품 제조및 판매
-http://ko.dbpedia.org/resource/일렉트로룩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/가전제품
-http://ko.dbpedia.org/resource/일렉트로룩스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/냉장고
-http://ko.dbpedia.org/resource/일렉트로룩스	http://dbpedia.org/ontology/foundingYear	1919

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/역명	아타시카
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/니기시마_역
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/노선	■ 기세이 본선
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/소재지	미에 현 구마노 시
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/하다스_역
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/개업일	1956
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/소재지	아타시카초 364
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/기세이_본선
-http://ko.dbpedia.org/resource/아타시카_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도

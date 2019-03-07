@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/철학
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/독일_제국
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/킬_(슐레스비히홀슈타인_주)
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/CNO_순환
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/템플턴상
-http://ko.dbpedia.org/resource/카를_프리드리히_폰_바이츠제커	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/막스_플랑크_메달

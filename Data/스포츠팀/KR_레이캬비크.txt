@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아이슬란드_랜드스반카데일딘
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://ko.dbpedia.org/property/구단주	Magnús Ingimundarson
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아이슬란드
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://ko.dbpedia.org/property/감독	Logi Ólafsson
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/우르발스데일드
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/KR_뵐루르
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/레이캬비크
-http://ko.dbpedia.org/resource/KR_레이캬비크	http://dbpedia.org/ontology/foundingYear	1899

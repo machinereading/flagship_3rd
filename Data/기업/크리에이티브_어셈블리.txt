@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/토탈_워_(게임)
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://ko.dbpedia.org/property/창립자	팀 안셀
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/웨스트서식스_주
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/잉글랜드
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터·비디오_게임_산업
-http://ko.dbpedia.org/resource/크리에이티브_어셈블리	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업

@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/경민대학교	http://ko.dbpedia.org/property/총장	이연신
-http://ko.dbpedia.org/resource/경민대학교	http://ko.dbpedia.org/property/설립	1990
-http://ko.dbpedia.org/resource/경민대학교	http://ko.dbpedia.org/property/표어	교육 이념: 사람을 키우는 대학
-http://ko.dbpedia.org/resource/경민대학교	http://ko.dbpedia.org/property/표어	설립 정신: 교육은 제 2의 독립운동
-http://ko.dbpedia.org/resource/경민대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/경민대학교	http://dbpedia.org/ontology/mascot	우리 배달민족의 끊임없는 발전과 기독교의 십자가 정신을 상징

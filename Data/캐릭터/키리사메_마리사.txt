@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/키리사메_마리사	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/마법사
-http://ko.dbpedia.org/resource/키리사메_마리사	http://dbpedia.org/ontology/firstAppearance	동방봉마록 ~ the Story of Eastern Wonderland
-http://ko.dbpedia.org/resource/키리사메_마리사	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/오타_준야
-http://ko.dbpedia.org/resource/키리사메_마리사	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/인간
-http://ko.dbpedia.org/resource/키리사메_마리사	http://dbpedia.org/ontology/gender	여자

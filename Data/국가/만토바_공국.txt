@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/만토바_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/롬바르디아어
-http://ko.dbpedia.org/resource/만토바_공국	http://dbpedia.org/ontology/foundingYear	1530
-http://ko.dbpedia.org/resource/만토바_공국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
-http://ko.dbpedia.org/resource/만토바_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/만토바
-http://ko.dbpedia.org/resource/만토바_공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공작령
-http://ko.dbpedia.org/resource/만토바_공국	http://dbpedia.org/ontology/country	만토바

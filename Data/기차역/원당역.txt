@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/원흥역
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/전역	315
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/개업일	1996
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/일산선
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/역명	원당
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/소재지	경기도 고양시 덕양구 고양대로 1429
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/화정역_(고양)
-http://ko.dbpedia.org/resource/원당역	http://ko.dbpedia.org/property/후역	317

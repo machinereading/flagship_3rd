@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/저지_독일어
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/카셀
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/조제프_제롬
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/제롬_보나파르트
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
-http://ko.dbpedia.org/resource/베스트팔렌_왕국	http://dbpedia.org/ontology/foundingYear	1807

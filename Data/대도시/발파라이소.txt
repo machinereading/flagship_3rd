@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/발파라이소	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/칠레
-http://ko.dbpedia.org/resource/발파라이소	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/발파라이소
-http://ko.dbpedia.org/resource/발파라이소	http://dbpedia.org/ontology/area	401.6
-http://ko.dbpedia.org/resource/발파라이소	http://dbpedia.org/ontology/populationTotal	275982
-http://ko.dbpedia.org/resource/발파라이소	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/발파라이소_현
-http://ko.dbpedia.org/resource/발파라이소	http://ko.dbpedia.org/property/별명	태평양의 보석

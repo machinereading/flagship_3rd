@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/그레미우	http://ko.dbpedia.org/property/감독	루이스 펠리피 스콜라리
-http://ko.dbpedia.org/resource/그레미우	http://dbpedia.org/ontology/foundingYear	1903
-http://ko.dbpedia.org/resource/그레미우	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/캄페오나투_브라질레이루_세리이_A
-http://ko.dbpedia.org/resource/그레미우	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/브라질_세리_A
-http://ko.dbpedia.org/resource/그레미우	http://ko.dbpedia.org/property/구단주	페르난두 A. 크로에프
-http://ko.dbpedia.org/resource/그레미우	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/포르투알레그리
-http://ko.dbpedia.org/resource/그레미우	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/그레미우	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아레나_두_그레미우

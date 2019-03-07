@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/노선	나고야 지하철 ■ 사쿠라도리 선
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/소재지	아이치 현 나고야 시 미즈호 구
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/개업일	1994
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/전역	S 11 사쿠라야마
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/역명	미즈호 구청
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/노선	나고야 시 교통국 ■ 지하철 사쿠라도리 선
-http://ko.dbpedia.org/resource/미즈호쿠야쿠쇼_역	http://ko.dbpedia.org/property/후역	미즈호 운동장 니시 S 13

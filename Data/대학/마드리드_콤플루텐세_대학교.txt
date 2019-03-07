@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/마드리드_콤플루텐세_대학교	http://dbpedia.org/ontology/mascot	백조 (Cisne)
-http://ko.dbpedia.org/resource/마드리드_콤플루텐세_대학교	http://dbpedia.org/ontology/mascot	백조
-http://ko.dbpedia.org/resource/마드리드_콤플루텐세_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/마드리드
-http://ko.dbpedia.org/resource/마드리드_콤플루텐세_대학교	http://ko.dbpedia.org/property/표어	자유는 모든 것을 비춘다.
-http://ko.dbpedia.org/resource/마드리드_콤플루텐세_대학교	http://ko.dbpedia.org/property/설립	1293
-http://ko.dbpedia.org/resource/마드리드_콤플루텐세_대학교	http://ko.dbpedia.org/property/총장	호세 카리요

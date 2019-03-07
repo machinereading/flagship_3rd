@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/샬럿
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/노스캐롤라이나_주
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://dbpedia.org/ontology/foundingYear	1991
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/유나이티드_사커_리그
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프리미어_디벨로프먼트_리그
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://ko.dbpedia.org/property/감독	데이브 딕슨
-http://ko.dbpedia.org/resource/샬럿_이글스_SC	http://ko.dbpedia.org/property/구단주	팻 스튜어트

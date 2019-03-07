@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/키츠_치리	http://dbpedia.org/ontology/occupation	학생
-http://ko.dbpedia.org/resource/키츠_치리	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/쿠메타_코지
-http://ko.dbpedia.org/resource/키츠_치리	http://dbpedia.org/ontology/firstAppearance	http://ko.dbpedia.org/resource/안녕,_절망선생
-http://ko.dbpedia.org/resource/키츠_치리	http://dbpedia.org/ontology/birthDate	6
-http://ko.dbpedia.org/resource/키츠_치리	http://dbpedia.org/ontology/gender	여

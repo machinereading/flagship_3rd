@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/알가라파_SC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/카타르
-http://ko.dbpedia.org/resource/알가라파_SC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/도하
-http://ko.dbpedia.org/resource/알가라파_SC	http://dbpedia.org/ontology/foundingYear	1979
-http://ko.dbpedia.org/resource/알가라파_SC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/알가라파_경기장
-http://ko.dbpedia.org/resource/알가라파_SC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/카타르_스타스_리그
-http://ko.dbpedia.org/resource/알가라파_SC	http://ko.dbpedia.org/property/구단주	하마드 빈 타메르 알타니
-http://ko.dbpedia.org/resource/알가라파_SC	http://ko.dbpedia.org/property/감독	마르쿠스 파케타

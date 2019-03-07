@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/금호타이어	http://dbpedia.org/ontology/industry	자동차부품
-http://ko.dbpedia.org/resource/금호타이어	http://ko.dbpedia.org/property/제품	타이어
-http://ko.dbpedia.org/resource/금호타이어	http://ko.dbpedia.org/property/산업	자동차부품
-http://ko.dbpedia.org/resource/금호타이어	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/금호타이어	http://dbpedia.org/ontology/foundingYear	1960

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/소재지	시즈오카 현 하마마쓰 시 히가시 구 덴류가와초
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/하마마쓰_역
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/역명	덴류가와
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/개업일	1898
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/도요다초_역
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이도_본선
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
-http://ko.dbpedia.org/resource/덴류가와_역	http://ko.dbpedia.org/property/노선	■ 도카이도 본선

@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/세이부엔_역	http://ko.dbpedia.org/property/소재지	도쿄 도 히가시무라야마 시
-http://ko.dbpedia.org/resource/세이부엔_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/히가시무라야마_역
-http://ko.dbpedia.org/resource/세이부엔_역	http://ko.dbpedia.org/property/노선	세이부 철도 ■ 세이부엔 선
-http://ko.dbpedia.org/resource/세이부엔_역	http://ko.dbpedia.org/property/역명	세이부엔
-http://ko.dbpedia.org/resource/세이부엔_역	http://ko.dbpedia.org/property/개업일	1930

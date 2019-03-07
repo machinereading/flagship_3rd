@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/칼_구스_잰스키	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/공학자
-http://ko.dbpedia.org/resource/칼_구스_잰스키	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/물리학자
-http://ko.dbpedia.org/resource/칼_구스_잰스키	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/전파천문학
-http://ko.dbpedia.org/resource/칼_구스_잰스키	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
-http://ko.dbpedia.org/resource/칼_구스_잰스키	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/전파천문학
-http://ko.dbpedia.org/resource/칼_구스_잰스키	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/일본
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/효고_현
-http://ko.dbpedia.org/resource/혼조_시게루	http://ko.dbpedia.org/property/최종계급	대장
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/욱일장
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/일본제국_육군
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/러일_전쟁
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/중일_전쟁
-http://ko.dbpedia.org/resource/혼조_시게루	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/금치훈장
-http://ko.dbpedia.org/resource/혼조_시게루	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/일본제국_육군

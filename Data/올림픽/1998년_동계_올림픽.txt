@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/1998년_동계_올림픽	http://dbpedia.org/ontology/motto	자연과 함께 공존
-http://ko.dbpedia.org/resource/1998년_동계_올림픽	http://ko.dbpedia.org/property/참가선수	2176
-http://ko.dbpedia.org/resource/1998년_동계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/나가노_시
-http://ko.dbpedia.org/resource/1998년_동계_올림픽	http://ko.dbpedia.org/property/참가국	72
-http://ko.dbpedia.org/resource/1998년_동계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/아키히토

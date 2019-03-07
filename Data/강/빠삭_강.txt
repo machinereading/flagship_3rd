@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/빠삭_강	http://dbpedia.org/ontology/length	513
-http://ko.dbpedia.org/resource/빠삭_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/타이
-http://ko.dbpedia.org/resource/빠삭_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/단사이_군
-http://ko.dbpedia.org/resource/빠삭_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/로에이_주
-http://ko.dbpedia.org/resource/빠삭_강	http://dbpedia.org/ontology/country	타이
-http://ko.dbpedia.org/resource/빠삭_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/짜오프라야_강

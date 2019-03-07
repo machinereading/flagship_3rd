@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://ko.dbpedia.org/property/감독	이한
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://ko.dbpedia.org/property/등급	12
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://ko.dbpedia.org/property/시간	106
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://ko.dbpedia.org/property/개봉	2002
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/연애소설_(영화)	http://ko.dbpedia.org/property/장르	드라마, 로맨스

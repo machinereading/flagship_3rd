@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://ko.dbpedia.org/property/감독	Robert Podoliński
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/엑스트라클라사
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/비엘스코비아와
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디온_미에이스키_(비엘스코비아와)
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://dbpedia.org/ontology/foundingYear	1995
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/폴란드
-http://ko.dbpedia.org/resource/포드베스키지에_비엘스코비아와	http://ko.dbpedia.org/property/구단주	Tomasz Mikołajko

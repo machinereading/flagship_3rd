@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://ko.dbpedia.org/property/설립	1821
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://ko.dbpedia.org/property/총장	Steven Knapp
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/워싱턴_D.C.
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://dbpedia.org/ontology/mascot	비공식 :Hippo
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://dbpedia.org/ontology/mascot	George, the Colonial
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://ko.dbpedia.org/property/표어	Deus Nobis Fiducia
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://ko.dbpedia.org/property/표어	In God Our Trust
-http://ko.dbpedia.org/resource/조지_워싱턴_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/조지_워싱턴

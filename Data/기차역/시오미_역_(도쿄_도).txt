@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/소재지	시오미 2초메 7-20
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/소재지	도쿄 도 고토 구
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/신키바_역
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/역명	시오미
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/엣추지마_역
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 게이요 선
-http://ko.dbpedia.org/resource/시오미_역_(도쿄_도)	http://ko.dbpedia.org/property/개업일	1990

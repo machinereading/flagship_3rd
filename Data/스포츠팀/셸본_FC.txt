@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/셸본_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아일랜드
-http://ko.dbpedia.org/resource/셸본_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/더블린
-http://ko.dbpedia.org/resource/셸본_FC	http://ko.dbpedia.org/property/감독	앨런 매슈
-http://ko.dbpedia.org/resource/셸본_FC	http://dbpedia.org/ontology/foundingYear	1895
-http://ko.dbpedia.org/resource/셸본_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/리그_오브_아일랜드
-http://ko.dbpedia.org/resource/셸본_FC	http://ko.dbpedia.org/property/구단주	조 케이시
-http://ko.dbpedia.org/resource/셸본_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/톨카_파크
-http://ko.dbpedia.org/resource/셸본_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/리그오브아일랜드

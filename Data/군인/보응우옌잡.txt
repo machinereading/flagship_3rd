@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/보응우옌잡	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/베트민
-http://ko.dbpedia.org/resource/보응우옌잡	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/베트남_인민군
-http://ko.dbpedia.org/resource/보응우옌잡	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/베트남
-http://ko.dbpedia.org/resource/보응우옌잡	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/베트민
-http://ko.dbpedia.org/resource/보응우옌잡	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/꽝빈_성
-http://ko.dbpedia.org/resource/보응우옌잡	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/베트남_인민군
-http://ko.dbpedia.org/resource/보응우옌잡	http://dbpedia.org/ontology/birthDate	1911-08-25
-http://ko.dbpedia.org/resource/보응우옌잡	http://ko.dbpedia.org/property/최종계급	http://ko.dbpedia.org/resource/대장
-http://ko.dbpedia.org/resource/보응우옌잡	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/프랑스령_인도차이나

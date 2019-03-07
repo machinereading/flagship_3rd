@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/gender	남성
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/occupation	탐정
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/gender	http://ko.dbpedia.org/resource/수컷
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/벨기에인
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Belgium
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/firstAppearance	《스타일즈 저택의 괴사건》
-http://ko.dbpedia.org/resource/에르퀼_푸아로	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/애거사_크리스티

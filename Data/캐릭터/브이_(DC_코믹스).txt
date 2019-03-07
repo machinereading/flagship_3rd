@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/브이_(DC_코믹스)	http://dbpedia.org/ontology/birthPlace	영국
-http://ko.dbpedia.org/resource/브이_(DC_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/앨런_무어
-http://ko.dbpedia.org/resource/브이_(DC_코믹스)	http://dbpedia.org/ontology/gender	남자
-http://ko.dbpedia.org/resource/브이_(DC_코믹스)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/데이비드_로이드
-http://ko.dbpedia.org/resource/브이_(DC_코믹스)	http://dbpedia.org/ontology/firstAppearance	《워리어 #1》(Warrior #1, 1982년)
-http://ko.dbpedia.org/resource/브이_(DC_코믹스)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/혁명

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군사_정권
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/한국어
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/박정희
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/foundingYear	1961
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/leaderName	박정희
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/country	대한민국
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/장도영
-http://ko.dbpedia.org/resource/국가재건최고회의	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국의_국가

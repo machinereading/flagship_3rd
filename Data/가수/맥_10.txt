@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/맥_10	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
-http://ko.dbpedia.org/resource/맥_10	http://dbpedia.org/ontology/birthDate	1971-08-09
-http://ko.dbpedia.org/resource/맥_10	http://dbpedia.org/ontology/activeYearsStartYear	1994
-http://ko.dbpedia.org/resource/맥_10	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/캘리포니아_주
-http://ko.dbpedia.org/resource/맥_10	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/갱스터_랩

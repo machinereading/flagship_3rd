@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/2012년_하계_올림픽	http://ko.dbpedia.org/property/개회선언	http://ko.dbpedia.org/resource/엘리자베스_2세
-http://ko.dbpedia.org/resource/2012년_하계_올림픽	http://dbpedia.org/ontology/motto	세대에게 영감을
-http://ko.dbpedia.org/resource/2012년_하계_올림픽	http://ko.dbpedia.org/property/참가선수	10768
-http://ko.dbpedia.org/resource/2012년_하계_올림픽	http://ko.dbpedia.org/property/참가국	204
-http://ko.dbpedia.org/resource/2012년_하계_올림픽	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/런던

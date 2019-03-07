@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/소재지	오아자 가사하타 3732
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/역명	가사하타
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 가와고에 선
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/소재지	사이타마 현 가와고에 시
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/개업일	1940
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/마토바_역
-http://ko.dbpedia.org/resource/가사하타_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/무사시타카하기_역

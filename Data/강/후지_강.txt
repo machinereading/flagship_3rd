@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/후지_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/일본
-http://ko.dbpedia.org/resource/후지_강	http://dbpedia.org/ontology/country	일본
-http://ko.dbpedia.org/resource/후지_강	http://dbpedia.org/ontology/length	128
-http://ko.dbpedia.org/resource/후지_강	http://ko.dbpedia.org/property/발원지	노코기리다케
-http://ko.dbpedia.org/resource/후지_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/스루가_만

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/포항공과대학교	http://ko.dbpedia.org/property/총장	김도연
-http://ko.dbpedia.org/resource/포항공과대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/포항공과대학교	http://dbpedia.org/ontology/mascot	교색:빨강     ,오렌지색      / 교화:백일홍
-http://ko.dbpedia.org/resource/포항공과대학교	http://ko.dbpedia.org/property/설립	1986
-http://ko.dbpedia.org/resource/포항공과대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국
-http://ko.dbpedia.org/resource/포항공과대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/포항시
-http://ko.dbpedia.org/resource/포항공과대학교	http://ko.dbpedia.org/property/표어	성실 창의 진취

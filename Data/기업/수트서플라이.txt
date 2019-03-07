@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/수트서플라이	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/포크_드_용
-http://ko.dbpedia.org/resource/수트서플라이	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/패션
-http://ko.dbpedia.org/resource/수트서플라이	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/암스테르담
-http://ko.dbpedia.org/resource/수트서플라이	http://dbpedia.org/ontology/location	암스테르담
-http://ko.dbpedia.org/resource/수트서플라이	http://dbpedia.org/ontology/foundingYear	2000
-http://ko.dbpedia.org/resource/수트서플라이	http://ko.dbpedia.org/property/제품	남성 의류, 패션 액세서리

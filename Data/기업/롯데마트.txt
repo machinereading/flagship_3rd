@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/롯데마트	http://dbpedia.org/ontology/industry	도소매
-http://ko.dbpedia.org/resource/롯데마트	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/롯데마트	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/롯데쇼핑
-http://ko.dbpedia.org/resource/롯데마트	http://dbpedia.org/ontology/foundingYear	1998
-http://ko.dbpedia.org/resource/롯데마트	http://ko.dbpedia.org/property/제품	롯데마트
-http://ko.dbpedia.org/resource/롯데마트	http://ko.dbpedia.org/property/산업	도소매

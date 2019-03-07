@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/역명	히가시네무로
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/소재지	쇼와초 4초메
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/소재지	홋카이도 네무로 시
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/네무로_역
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/개업일	1961
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/니시와다_역
-http://ko.dbpedia.org/resource/히가시네무로_역	http://ko.dbpedia.org/property/노선	■ 네무로 본선

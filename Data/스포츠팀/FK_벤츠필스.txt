@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/FK_벤츠필스	http://ko.dbpedia.org/property/구단주	Guntis Blumbergs
-http://ko.dbpedia.org/resource/FK_벤츠필스	http://dbpedia.org/ontology/foundingYear	1997
-http://ko.dbpedia.org/resource/FK_벤츠필스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/라트비아
-http://ko.dbpedia.org/resource/FK_벤츠필스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/벤츠필스_경기장
-http://ko.dbpedia.org/resource/FK_벤츠필스	http://ko.dbpedia.org/property/감독	Paul Ashworth
-http://ko.dbpedia.org/resource/FK_벤츠필스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/라트비아_비르스리가

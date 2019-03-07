@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/기타
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/컨트리_음악
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/birthDate	1942-05-05
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/가창
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/activeYearsStartYear	1966
-http://ko.dbpedia.org/resource/태미_와이넷	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/송라이터

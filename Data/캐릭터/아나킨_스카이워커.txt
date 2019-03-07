@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/노예
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/타투인
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/은하_제국
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/은하_공화국
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/gender	남자
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/firstAppearance	EP 1: 보이지 않는 위험(1999년)
-http://ko.dbpedia.org/resource/아나킨_스카이워커	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/조지_루커스

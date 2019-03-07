@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공사
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공_운송업
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://dbpedia.org/ontology/foundingYear	2000
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/퀸즐랜드_주
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://ko.dbpedia.org/property/제품	항공 서비스
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/항공_운송업
-http://ko.dbpedia.org/resource/버진_오스트레일리아_홀딩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/브리즈번

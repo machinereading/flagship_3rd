@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가창
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://dbpedia.org/ontology/activeYearsStartYear	2007
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://dbpedia.org/ontology/activeYearsStartYear	2009
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://ko.dbpedia.org/property/본명	Milan Stanković
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://dbpedia.org/ontology/birthDate	1987-09-09
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/일렉트로팝
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/댄스_팝
-http://ko.dbpedia.org/resource/밀란_스탄코비치	http://ko.dbpedia.org/property/소속사	http://ko.dbpedia.org/resource/Miki

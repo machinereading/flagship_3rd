@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://ko.dbpedia.org/property/구단주	심찬구
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://ko.dbpedia.org/property/구단주	레이몽드 랑젠드리에
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://dbpedia.org/ontology/foundingYear	1953
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://ko.dbpedia.org/property/감독	김은중
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/튀비즈
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/벨기에
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타드_레뷔르통
-http://ko.dbpedia.org/resource/AFC_튀비즈	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/벨기에_2부_리그

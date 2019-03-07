@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/고미_역
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/주고쿠카쓰야마_역
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/역명	구세
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/노선	■ 기신 선
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/개업일	1924
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/기신_선
-http://ko.dbpedia.org/resource/구세_역	http://ko.dbpedia.org/property/소재지	오카야마 현 마니와 시

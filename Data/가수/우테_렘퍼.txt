@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/activeYearsStartYear	1987
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/독일
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/배우
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/뮌스터
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/서독
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/activeYearsStartYear	1987
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/birthDate	1963-07-04
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/가수
-http://ko.dbpedia.org/resource/우테_렘퍼	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/카바레

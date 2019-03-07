@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/샘_햄
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/firstAppearance	디텍티브 코믹스 통권 제599호
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/용병
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/프랑스인
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/gender	남성
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/birthPlace	지구
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/사립탐정
-http://ko.dbpedia.org/resource/앙리_두카르	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/데니스_코완

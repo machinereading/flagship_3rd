@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/노선	■ 기비 선
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/역명	빗추타카마쓰
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/소재지	오카야마 현 오카야마 시 기타 구
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/기비_선
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/기비쓰_역
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/개업일	1904
-http://ko.dbpedia.org/resource/빗추타카마쓰_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/아시모리_역

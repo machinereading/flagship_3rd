@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/클라리스_스탈링	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/클라리스_스탈링	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/토머스_해리스
-http://ko.dbpedia.org/resource/클라리스_스탈링	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/웨스트버지니아_주
-http://ko.dbpedia.org/resource/클라리스_스탈링	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/연방수사국
-http://ko.dbpedia.org/resource/클라리스_스탈링	http://dbpedia.org/ontology/firstAppearance	양들의 침묵
-http://ko.dbpedia.org/resource/클라리스_스탈링	http://dbpedia.org/ontology/gender	여성

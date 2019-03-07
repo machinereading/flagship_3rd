@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/충주대학교	http://ko.dbpedia.org/property/설립	1962
-http://ko.dbpedia.org/resource/충주대학교	http://dbpedia.org/ontology/mascot	소나무(청솔)
-http://ko.dbpedia.org/resource/충주대학교	http://ko.dbpedia.org/property/표어	진리탐구, 미래창조, 인류봉사
-http://ko.dbpedia.org/resource/충주대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/소나무
-http://ko.dbpedia.org/resource/충주대학교	http://ko.dbpedia.org/property/총장	장병집
-http://ko.dbpedia.org/resource/충주대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea

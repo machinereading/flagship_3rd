@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/아폴론_리마솔	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/키프로스
-http://ko.dbpedia.org/resource/아폴론_리마솔	http://dbpedia.org/ontology/foundingYear	1954
-http://ko.dbpedia.org/resource/아폴론_리마솔	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/키프로스_1부_리그
-http://ko.dbpedia.org/resource/아폴론_리마솔	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/리마솔
-http://ko.dbpedia.org/resource/아폴론_리마솔	http://ko.dbpedia.org/property/감독	Nikodimos Papavasiliou
-http://ko.dbpedia.org/resource/아폴론_리마솔	http://ko.dbpedia.org/property/구단주	Nicos Kirzis

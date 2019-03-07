@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/소재지	시즈오카 현 후쿠로이 시
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/소재지	아이노 691-8
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/노선	■ 도카이도 본선
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이도_본선
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/역명	아이노
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/후쿠로이_역
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/가케가와_역
-http://ko.dbpedia.org/resource/아이노_역_(시즈오카_현)	http://ko.dbpedia.org/property/개업일	2001

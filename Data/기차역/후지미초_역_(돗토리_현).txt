@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/개업일	1987
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/노선	■ 사카이 선
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/역명	후지미초
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/소재지	돗토리 현 요나고 시
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/고토_역_(돗토리_현)
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/바쿠로마치_역
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/사카이_선
-http://ko.dbpedia.org/resource/후지미초_역_(돗토리_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도

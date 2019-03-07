@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://ko.dbpedia.org/property/감독	폴 댈글리시
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://dbpedia.org/ontology/foundingYear	2011
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://ko.dbpedia.org/property/구단주	르네 반 데 잔드
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://ko.dbpedia.org/property/구단주	데이비드 마클리
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/텍사스_주
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/하우스_파크
-http://ko.dbpedia.org/resource/오스틴_아즈텍	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/유나이티드_사커_리그

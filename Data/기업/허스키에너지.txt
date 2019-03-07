@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/허스키에너지	http://ko.dbpedia.org/property/산업	석유산업
-http://ko.dbpedia.org/resource/허스키에너지	http://ko.dbpedia.org/property/제품	석유제품 유통
-http://ko.dbpedia.org/resource/허스키에너지	http://dbpedia.org/ontology/industry	석유산업
-http://ko.dbpedia.org/resource/허스키에너지	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘거리
-http://ko.dbpedia.org/resource/허스키에너지	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/앨버타_주
-http://ko.dbpedia.org/resource/허스키에너지	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캐나다
-http://ko.dbpedia.org/resource/허스키에너지	http://dbpedia.org/ontology/foundingYear	1938

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/런던
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/카나리_워프
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://dbpedia.org/ontology/foundingYear	1997
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/금융_서비스
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/금융
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/카나리_와프
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/금융_서비스
-http://ko.dbpedia.org/resource/바클리스_캐피털	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/금융

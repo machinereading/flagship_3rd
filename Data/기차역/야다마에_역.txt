@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/야다마에_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/고야나기_역
-http://ko.dbpedia.org/resource/야다마에_역	http://ko.dbpedia.org/property/소재지	아오모리 현 아오모리 시
-http://ko.dbpedia.org/resource/야다마에_역	http://ko.dbpedia.org/property/개업일	1986
-http://ko.dbpedia.org/resource/야다마에_역	http://ko.dbpedia.org/property/역명	야다마에
-http://ko.dbpedia.org/resource/야다마에_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/노나이_역
-http://ko.dbpedia.org/resource/야다마에_역	http://ko.dbpedia.org/property/노선	아오이모리 철도 ■ 아오이모리 철도선

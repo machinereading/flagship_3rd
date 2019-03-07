@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/모젤_강	http://dbpedia.org/ontology/length	545.0
-http://ko.dbpedia.org/resource/모젤_강	http://dbpedia.org/ontology/sourceCountry	http://ko.dbpedia.org/resource/프랑스
-http://ko.dbpedia.org/resource/모젤_강	http://ko.dbpedia.org/property/발원지	http://ko.dbpedia.org/resource/꼴_드_뷔쌍
-http://ko.dbpedia.org/resource/모젤_강	http://dbpedia.org/ontology/country	프랑스
-http://ko.dbpedia.org/resource/모젤_강	http://dbpedia.org/ontology/country	룩셈부르크
-http://ko.dbpedia.org/resource/모젤_강	http://dbpedia.org/ontology/country	독일
-http://ko.dbpedia.org/resource/모젤_강	http://ko.dbpedia.org/property/하구	http://ko.dbpedia.org/resource/라인강

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/소재지	홋카이도 무로란 시
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/개업일	1897
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/무로란_본선
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/노선	■ 무로란 본선
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/역명	무로란
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/홋카이도_여객철도
-http://ko.dbpedia.org/resource/무로란_역	http://ko.dbpedia.org/property/전역	M 35 보코이

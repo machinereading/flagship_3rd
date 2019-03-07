@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/인피니티_워드	http://dbpedia.org/ontology/foundingYear	2002
-http://ko.dbpedia.org/resource/인피니티_워드	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/비디오_게임_산업
-http://ko.dbpedia.org/resource/인피니티_워드	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/콜_오브_듀티
-http://ko.dbpedia.org/resource/인피니티_워드	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캘리포니아_주
-http://ko.dbpedia.org/resource/인피니티_워드	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/엔시노
-http://ko.dbpedia.org/resource/인피니티_워드	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/비디오_게임_산업
-http://ko.dbpedia.org/resource/인피니티_워드	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/로스앤젤레스

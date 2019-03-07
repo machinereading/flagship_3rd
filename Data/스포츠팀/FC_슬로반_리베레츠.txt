@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://ko.dbpedia.org/property/감독	Jindřich Trpišovský
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://ko.dbpedia.org/property/구단주	Zbyněk Štiller
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://dbpedia.org/ontology/foundingYear	1958
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/체코_1부_리그
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/리베레츠
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/체코
-http://ko.dbpedia.org/resource/FC_슬로반_리베레츠	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/감브리누스리가

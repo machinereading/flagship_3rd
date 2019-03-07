@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/한국씨티은행	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/금융
-http://ko.dbpedia.org/resource/한국씨티은행	http://dbpedia.org/ontology/industry	금융업
-http://ko.dbpedia.org/resource/한국씨티은행	http://dbpedia.org/ontology/foundingYear	1983
-http://ko.dbpedia.org/resource/한국씨티은행	http://ko.dbpedia.org/property/제품	인터넷 뱅킹, 카드, 대출, 예금, 보험, 개인뱅킹, 기업뱅킹 등
-http://ko.dbpedia.org/resource/한국씨티은행	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/대한상공회의소
-http://ko.dbpedia.org/resource/한국씨티은행	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/한국씨티은행	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/대한민국
-http://ko.dbpedia.org/resource/한국씨티은행	http://ko.dbpedia.org/property/산업	금융업

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/foundingYear	1206
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/다울라타바드
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/델리
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이브라힘_로디
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/페르시아어
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/술탄국
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/꾸뜹우드딘_에이백
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아그라
-http://ko.dbpedia.org/resource/델리_술탄조	http://dbpedia.org/ontology/country	인도

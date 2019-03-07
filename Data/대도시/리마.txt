@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/리마	http://dbpedia.org/ontology/area	2672.3
-http://ko.dbpedia.org/resource/리마	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/리마_군
-http://ko.dbpedia.org/resource/리마	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/페루
-http://ko.dbpedia.org/resource/리마	http://ko.dbpedia.org/property/별명	도시의 왕
-http://ko.dbpedia.org/resource/리마	http://dbpedia.org/ontology/populationTotal	7605742

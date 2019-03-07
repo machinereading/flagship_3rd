@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/분류:일본의_식음료업_기업
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/분류:일본의_식음료업_기업
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미나토_구_(도쿄_도)
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/도쿄_도
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/일본
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://ko.dbpedia.org/property/제품	유제품
-http://ko.dbpedia.org/resource/야쿠르트_(기업)	http://dbpedia.org/ontology/foundingYear	1935

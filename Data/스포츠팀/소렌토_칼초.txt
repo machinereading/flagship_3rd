@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/소렌토_칼초	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/레가_프로_세컨다_디비시오네
-http://ko.dbpedia.org/resource/소렌토_칼초	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/알도_파파그니
-http://ko.dbpedia.org/resource/소렌토_칼초	http://dbpedia.org/ontology/foundingYear	1945
-http://ko.dbpedia.org/resource/소렌토_칼초	http://ko.dbpedia.org/property/구단주	http://ko.dbpedia.org/resource/마리오_감바르델라
-http://ko.dbpedia.org/resource/소렌토_칼초	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/소렌토

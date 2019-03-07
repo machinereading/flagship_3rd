@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/foundingYear	0868
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/갈리시아포르투갈어
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/country	포르투갈
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/포르투갈_백작_비마라_페레즈
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/포르투갈의_아폰수_1세
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/포르투
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/브라가
-http://ko.dbpedia.org/resource/포르투갈_백작령	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/백작령

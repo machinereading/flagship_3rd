@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공사
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/항공_운송업
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://dbpedia.org/ontology/foundingYear	2010
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/콜롬비아
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/보고타
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://ko.dbpedia.org/property/제품	항공 서비스
-http://ko.dbpedia.org/resource/아비앙카_항공_홀딩스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/항공_운송업

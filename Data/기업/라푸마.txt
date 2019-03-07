@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/라푸마	http://ko.dbpedia.org/property/제품	등산화, 배낭 등
-http://ko.dbpedia.org/resource/라푸마	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/파리_(프랑스)
-http://ko.dbpedia.org/resource/라푸마	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/론알프
-http://ko.dbpedia.org/resource/라푸마	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/운동복
-http://ko.dbpedia.org/resource/라푸마	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/드롬_주
-http://ko.dbpedia.org/resource/라푸마	http://dbpedia.org/ontology/foundingYear	1930
-http://ko.dbpedia.org/resource/라푸마	http://ko.dbpedia.org/property/산업	아웃도어 용품 판매

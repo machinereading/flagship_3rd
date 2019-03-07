@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/플렌스부르크_정부	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
-http://ko.dbpedia.org/resource/플렌스부르크_정부	http://dbpedia.org/ontology/foundingYear	1945
-http://ko.dbpedia.org/resource/플렌스부르크_정부	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/칼_되니츠
-http://ko.dbpedia.org/resource/플렌스부르크_정부	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/플렌스부르크
-http://ko.dbpedia.org/resource/플렌스부르크_정부	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/임시정부
-http://ko.dbpedia.org/resource/플렌스부르크_정부	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/독일의_국가

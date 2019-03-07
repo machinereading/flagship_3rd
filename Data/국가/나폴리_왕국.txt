@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/카를로_1세
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/페르디난도_1세_(양시칠리아)
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/나폴리
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/foundingYear	1282
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/governmentType	군주제
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/country	나폴리
-http://ko.dbpedia.org/resource/나폴리_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어

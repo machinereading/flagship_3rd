@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/미스터_콘돔	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
-http://ko.dbpedia.org/resource/미스터_콘돔	http://ko.dbpedia.org/property/개봉	1997
-http://ko.dbpedia.org/resource/미스터_콘돔	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/미스터_콘돔	http://ko.dbpedia.org/property/감독	양윤호
-http://ko.dbpedia.org/resource/미스터_콘돔	http://ko.dbpedia.org/property/시간	98
-http://ko.dbpedia.org/resource/미스터_콘돔	http://ko.dbpedia.org/property/장르	코미디
-http://ko.dbpedia.org/resource/미스터_콘돔	http://ko.dbpedia.org/property/등급	청소년 관람불가

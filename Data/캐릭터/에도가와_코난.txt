@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/에도가와_코난	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/탐정
-http://ko.dbpedia.org/resource/에도가와_코난	http://dbpedia.org/ontology/birthDate	5
-http://ko.dbpedia.org/resource/에도가와_코난	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/일본
-http://ko.dbpedia.org/resource/에도가와_코난	http://dbpedia.org/ontology/firstAppearance	1
-http://ko.dbpedia.org/resource/에도가와_코난	http://dbpedia.org/ontology/gender	남
-http://ko.dbpedia.org/resource/에도가와_코난	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼

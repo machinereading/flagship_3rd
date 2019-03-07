@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/governmentType	공화국
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/베이징
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/베이징_시
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/왕커민
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/officialLanguage	중국어
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/경운가
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/foundingYear	1937
-http://ko.dbpedia.org/resource/중화민국_임시_정부_(1937년)	http://dbpedia.org/ontology/country	중화민국

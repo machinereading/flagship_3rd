@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/프린스턴_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/호랑이
-http://ko.dbpedia.org/resource/프린스턴_대학교	http://ko.dbpedia.org/property/설립	1746
-http://ko.dbpedia.org/resource/프린스턴_대학교	http://ko.dbpedia.org/property/표어	Dei sub numine viget
-http://ko.dbpedia.org/resource/프린스턴_대학교	http://dbpedia.org/ontology/mascot	호랑이
-http://ko.dbpedia.org/resource/프린스턴_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/프린스턴_(뉴저지_주)
-http://ko.dbpedia.org/resource/프린스턴_대학교	http://ko.dbpedia.org/property/총장	크리스토퍼 L. 아이스그루버

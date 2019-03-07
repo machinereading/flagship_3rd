@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/메디케어그룹	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/메디케어그룹	http://ko.dbpedia.org/property/제품	과민성 대장 증후군 및 기능성 소화 불량을 동반한 위염을 치료하는 삼중정 치료제
-http://ko.dbpedia.org/resource/메디케어그룹	http://ko.dbpedia.org/property/제품	건성 기침을 동반한 점액 분비 장애로 인한 호흡기 질환을 치료하는 양·한방 융복합 이중정 치료제
-http://ko.dbpedia.org/resource/메디케어그룹	http://ko.dbpedia.org/property/창립자	나도현
-http://ko.dbpedia.org/resource/메디케어그룹	http://ko.dbpedia.org/property/산업	제약업
-http://ko.dbpedia.org/resource/메디케어그룹	http://dbpedia.org/ontology/industry	제약업

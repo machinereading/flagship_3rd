@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/타카기_와타루_(명탐정_코난)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/형사
-http://ko.dbpedia.org/resource/타카기_와타루_(명탐정_코난)	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/Japan
-http://ko.dbpedia.org/resource/타카기_와타루_(명탐정_코난)	http://dbpedia.org/ontology/gender	남
-http://ko.dbpedia.org/resource/타카기_와타루_(명탐정_코난)	http://dbpedia.org/ontology/firstAppearance	21
-http://ko.dbpedia.org/resource/타카기_와타루_(명탐정_코난)	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/아오야마_고쇼

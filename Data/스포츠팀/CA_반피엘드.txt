@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/CA_반피엘드	http://ko.dbpedia.org/property/구단주	카를로스 아틸리오 포르테이
-http://ko.dbpedia.org/resource/CA_반피엘드	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온
-http://ko.dbpedia.org/resource/CA_반피엘드	http://dbpedia.org/ontology/foundingYear	1896
-http://ko.dbpedia.org/resource/CA_반피엘드	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/반피엘드
-http://ko.dbpedia.org/resource/CA_반피엘드	http://ko.dbpedia.org/property/감독	줄리오 세자르 팔시오니
-http://ko.dbpedia.org/resource/CA_반피엘드	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/플로렌시오_솔라_경기장

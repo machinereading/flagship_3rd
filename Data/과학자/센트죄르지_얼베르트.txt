@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/TCA_회로
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/비타민_C
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_생리학·의학상
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/생화학
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/생리학
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/부다페스트
-http://ko.dbpedia.org/resource/센트죄르지_얼베르트	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오스트리아-헝가리_제국

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/다누비오_FC	http://dbpedia.org/ontology/foundingYear	1932
-http://ko.dbpedia.org/resource/다누비오_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/우루과이_프리메라_디비시온
-http://ko.dbpedia.org/resource/다누비오_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/하르디네스_델_이포드로모
-http://ko.dbpedia.org/resource/다누비오_FC	http://ko.dbpedia.org/property/구단주	아르투로 델 캄포
-http://ko.dbpedia.org/resource/다누비오_FC	http://ko.dbpedia.org/property/감독	루이스 곤살레스
-http://ko.dbpedia.org/resource/다누비오_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/우루과이
-http://ko.dbpedia.org/resource/다누비오_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/몬테비데오

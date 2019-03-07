@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/로센보르그_BK	http://dbpedia.org/ontology/foundingYear	1917
-http://ko.dbpedia.org/resource/로센보르그_BK	http://ko.dbpedia.org/property/구단주	테리에 스벤센
-http://ko.dbpedia.org/resource/로센보르그_BK	http://ko.dbpedia.org/property/감독	얀 욘슨
-http://ko.dbpedia.org/resource/로센보르그_BK	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/티펠리겐
-http://ko.dbpedia.org/resource/로센보르그_BK	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/엘리테세리엔
-http://ko.dbpedia.org/resource/로센보르그_BK	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/트론헤임
-http://ko.dbpedia.org/resource/로센보르그_BK	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/노르웨이
-http://ko.dbpedia.org/resource/로센보르그_BK	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/레르켄달_스타디온

@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/카미조_토우마	http://dbpedia.org/ontology/firstAppearance	제1권
-http://ko.dbpedia.org/resource/카미조_토우마	http://dbpedia.org/ontology/gender	남자
-http://ko.dbpedia.org/resource/카미조_토우마	http://dbpedia.org/ontology/occupation	고교생
-http://ko.dbpedia.org/resource/카미조_토우마	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/일본
-http://ko.dbpedia.org/resource/카미조_토우마	http://dbpedia.org/ontology/nationality	일본
-http://ko.dbpedia.org/resource/카미조_토우마	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/가마치_가즈마

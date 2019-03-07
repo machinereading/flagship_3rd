@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/지휘관	22
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/교전국	22
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/날짜	1937
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/바르셀로나
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/사상자	부상 1500명
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/결과	* 반혁명 운동의 시작
-* 통일노동자당 탄압
-* 카탈루냐 지방의 공권력 강화
-http://ko.dbpedia.org/resource/바르셀로나_5월_사건	http://ko.dbpedia.org/property/사상자	사망 500 ~ 1000명,

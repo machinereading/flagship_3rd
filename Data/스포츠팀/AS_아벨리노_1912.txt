@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스타디오_파르테니오
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://ko.dbpedia.org/property/구단주	왈테르 타코네
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://dbpedia.org/ontology/foundingYear	1912
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세리에_B
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이탈리아
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://ko.dbpedia.org/property/감독	마시모 라스텔리
-http://ko.dbpedia.org/resource/AS_아벨리노_1912	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아벨리노

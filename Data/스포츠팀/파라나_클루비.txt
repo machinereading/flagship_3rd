@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/파라나_클루비	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/쿠리치바
-http://ko.dbpedia.org/resource/파라나_클루비	http://ko.dbpedia.org/property/구단주	Aquilino Romani
-http://ko.dbpedia.org/resource/파라나_클루비	http://ko.dbpedia.org/property/감독	Guilherme Macuglia
-http://ko.dbpedia.org/resource/파라나_클루비	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브라질
-http://ko.dbpedia.org/resource/파라나_클루비	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/브라질_세리에_B
-http://ko.dbpedia.org/resource/파라나_클루비	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/캄페오나투_브라질레이루_세리이_B
-http://ko.dbpedia.org/resource/파라나_클루비	http://dbpedia.org/ontology/foundingYear	1989

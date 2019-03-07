@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/을유문화사	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/윤석중
-http://ko.dbpedia.org/resource/을유문화사	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/정진숙
-http://ko.dbpedia.org/resource/을유문화사	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/조풍연
-http://ko.dbpedia.org/resource/을유문화사	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/을유문화사	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/민병도
-http://ko.dbpedia.org/resource/을유문화사	http://ko.dbpedia.org/property/제품	이기적 유전자, 국화와 칼, 을유세계문학, 을유세계사상고전, 현대예술의 거장, 크로노스 총서 등
-http://ko.dbpedia.org/resource/을유문화사	http://ko.dbpedia.org/property/산업	출판
-http://ko.dbpedia.org/resource/을유문화사	http://dbpedia.org/ontology/industry	출판

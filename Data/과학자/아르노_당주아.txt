@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/아르노_당주아	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/로모노소프_금메달
-http://ko.dbpedia.org/resource/아르노_당주아	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/루진-당주아_정리
-http://ko.dbpedia.org/resource/아르노_당주아	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오슈_(프랑스)
-http://ko.dbpedia.org/resource/아르노_당주아	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/프랑스
-http://ko.dbpedia.org/resource/아르노_당주아	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
-http://ko.dbpedia.org/resource/아르노_당주아	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/제르_주

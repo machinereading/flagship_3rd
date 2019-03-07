@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/해부루
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/해모수
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/동명왕
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/한국
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/잔왕
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/연맹_왕국
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/foundingYear	0002
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/부여어
-http://ko.dbpedia.org/resource/부여	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/부여성

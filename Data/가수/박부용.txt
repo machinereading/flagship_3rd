@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/박부용	http://dbpedia.org/ontology/birthDate	1901
-http://ko.dbpedia.org/resource/박부용	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/신민요
-http://ko.dbpedia.org/resource/박부용	http://dbpedia.org/ontology/activeYearsStartYear	1933
-http://ko.dbpedia.org/resource/박부용	http://dbpedia.org/ontology/occupation	가수
-http://ko.dbpedia.org/resource/박부용	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/경상남도

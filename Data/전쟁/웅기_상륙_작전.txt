@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/교전국	일본령 조선
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/장소	http://ko.dbpedia.org/resource/일제강점기_조선
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/사상자	불명
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/결과	소련군의 승리
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/지휘관	이오시프 스탈린
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/지휘관	불명
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/날짜	1945
-http://ko.dbpedia.org/resource/웅기_상륙_작전	http://ko.dbpedia.org/property/지휘관	이반 유마셰프

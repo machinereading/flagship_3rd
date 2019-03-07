@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/마셔브룸	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/윌리_언솔드
-http://ko.dbpedia.org/resource/마셔브룸	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/조지_어빙_벨
-http://ko.dbpedia.org/resource/마셔브룸	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/길기트발티스탄_주
-http://ko.dbpedia.org/resource/마셔브룸	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/카라코람_산맥
-http://ko.dbpedia.org/resource/마셔브룸	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/파키스탄

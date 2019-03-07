@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/샘표식품	http://ko.dbpedia.org/property/산업	식품
-http://ko.dbpedia.org/resource/샘표식품	http://ko.dbpedia.org/property/제품	장류, 조미식품, 가공식품, 소스류
-http://ko.dbpedia.org/resource/샘표식품	http://dbpedia.org/ontology/industry	식품
-http://ko.dbpedia.org/resource/샘표식품	http://ko.dbpedia.org/property/창립자	박규회
-http://ko.dbpedia.org/resource/샘표식품	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시

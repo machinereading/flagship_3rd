@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/질_비센트_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/세군다리가
-http://ko.dbpedia.org/resource/질_비센트_FC	http://dbpedia.org/ontology/foundingYear	1924
-http://ko.dbpedia.org/resource/질_비센트_FC	http://ko.dbpedia.org/property/감독	호세 모타
-http://ko.dbpedia.org/resource/질_비센트_FC	http://ko.dbpedia.org/property/구단주	안토니오 플루자
-http://ko.dbpedia.org/resource/질_비센트_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/에스타디오_시다데_데_바르셀로스

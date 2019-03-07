@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/판치토_피스톨레스	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/월트_디즈니_컴퍼니
-http://ko.dbpedia.org/resource/판치토_피스톨레스	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/멕시코
-http://ko.dbpedia.org/resource/판치토_피스톨레스	http://dbpedia.org/ontology/species	http://ko.dbpedia.org/resource/닭
-http://ko.dbpedia.org/resource/판치토_피스톨레스	http://dbpedia.org/ontology/gender	수컷
-http://ko.dbpedia.org/resource/판치토_피스톨레스	http://dbpedia.org/ontology/firstAppearance	3인의 기사
-http://ko.dbpedia.org/resource/판치토_피스톨레스	http://dbpedia.org/ontology/nationality	http://ko.dbpedia.org/resource/멕시코

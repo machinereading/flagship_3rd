@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/심형래
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/김청기
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/천은경
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/등급	전체 관람가
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/시간	90
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/개봉	1986
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
-http://ko.dbpedia.org/resource/외계에서_온_우뢰매	http://ko.dbpedia.org/property/장르	http://ko.dbpedia.org/resource/SF

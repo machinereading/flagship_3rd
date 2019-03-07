@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/스페인의_마리아_루이사
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/피렌체
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/루도비코_1세
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/country	이탈리아
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/입헌군주제
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/foundingYear	1801
-http://ko.dbpedia.org/resource/에트루리아_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/파르마의_카를로_2세

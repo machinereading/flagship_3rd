@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://ko.dbpedia.org/property/설립	1754
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/사자
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://dbpedia.org/ontology/mascot	사자
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://ko.dbpedia.org/property/표어	In lumine Tuo videbimus lumen
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://ko.dbpedia.org/property/표어	주님의 빛 안에서 우리가 빛을 보리이다
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://ko.dbpedia.org/property/총장	리 C. 볼린저
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/뉴욕
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://dbpedia.org/ontology/country	미국
-http://ko.dbpedia.org/resource/컬럼비아_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국

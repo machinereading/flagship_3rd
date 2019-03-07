@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/펑샹_현
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/country	기
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이종엄
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/봉상_현
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/중국어
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/전제군주제
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/foundingYear	0907
-http://ko.dbpedia.org/resource/기_(오대_십국)	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/이무정

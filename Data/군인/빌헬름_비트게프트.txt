@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/의화단_운동
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://ko.dbpedia.org/property/복무	http://ko.dbpedia.org/resource/러시아_제국_육군
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://dbpedia.org/ontology/battle	http://ko.dbpedia.org/resource/러일_전쟁
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://ko.dbpedia.org/property/최종계급	해군 제독
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/러시아_제국_육군
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/오데사
-http://ko.dbpedia.org/resource/빌헬름_비트게프트	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/러시아_제국

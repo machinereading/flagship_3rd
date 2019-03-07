@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/언어	한국어
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/등급	15
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/개봉	1998
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/시간	108
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/심은하
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/이성재_(배우)
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/이정향
-http://ko.dbpedia.org/resource/미술관_옆_동물원	http://ko.dbpedia.org/property/장르	로맨스,드라마

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/FC_취리히	http://ko.dbpedia.org/property/감독	율리 포르테
-http://ko.dbpedia.org/resource/FC_취리히	http://ko.dbpedia.org/property/구단주	안칠로 카네파
-http://ko.dbpedia.org/resource/FC_취리히	http://dbpedia.org/ontology/foundingYear	1896
-http://ko.dbpedia.org/resource/FC_취리히	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/스위스_챌린지리그
-http://ko.dbpedia.org/resource/FC_취리히	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/스위스_슈퍼리그
-http://ko.dbpedia.org/resource/FC_취리히	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/취리히
-http://ko.dbpedia.org/resource/FC_취리히	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스위스
-http://ko.dbpedia.org/resource/FC_취리히	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/레치그룬트

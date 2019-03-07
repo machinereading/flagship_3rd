@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/미디어윌	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/미디어윌	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/언론
-http://ko.dbpedia.org/resource/미디어윌	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/언론
-http://ko.dbpedia.org/resource/미디어윌	http://ko.dbpedia.org/property/창립자	주원석
-http://ko.dbpedia.org/resource/미디어윌	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/신문
-http://ko.dbpedia.org/resource/미디어윌	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/잡지
-http://ko.dbpedia.org/resource/미디어윌	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/외식사업

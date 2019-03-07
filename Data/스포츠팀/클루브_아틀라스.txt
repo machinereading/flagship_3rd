@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/클루브_아틀라스	http://ko.dbpedia.org/property/감독	Tomás Boy
-http://ko.dbpedia.org/resource/클루브_아틀라스	http://ko.dbpedia.org/property/구단주	Grupo Salinas
-http://ko.dbpedia.org/resource/클루브_아틀라스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/리가_MX
-http://ko.dbpedia.org/resource/클루브_아틀라스	http://dbpedia.org/ontology/foundingYear	1916
-http://ko.dbpedia.org/resource/클루브_아틀라스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/멕시코
-http://ko.dbpedia.org/resource/클루브_아틀라스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/할리스코_주

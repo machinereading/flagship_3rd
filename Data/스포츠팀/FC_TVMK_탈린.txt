@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/에스토니아_메이스트릴리가
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://dbpedia.org/ontology/foundingYear	1951
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://ko.dbpedia.org/property/구단주	포트르 세딘
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://ko.dbpedia.org/property/감독	세르게이 라트니코프
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/카드리오루_경기장
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/에스토니아
-http://ko.dbpedia.org/resource/FC_TVMK_탈린	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/탈린

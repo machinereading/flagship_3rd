@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/다트머스_대학교	http://ko.dbpedia.org/property/표어	광야에서 외치는 이의 소리가 있다
-http://ko.dbpedia.org/resource/다트머스_대학교	http://ko.dbpedia.org/property/표어	Vox clamantis in deserto
-http://ko.dbpedia.org/resource/다트머스_대학교	http://ko.dbpedia.org/property/총장	필립 J. 핸론
-http://ko.dbpedia.org/resource/다트머스_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/해노버_(뉴햄프셔_주)
-http://ko.dbpedia.org/resource/다트머스_대학교	http://dbpedia.org/ontology/mascot	인디언, Keggy the Keg,무스
-http://ko.dbpedia.org/resource/다트머스_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/다트머스_대학교	http://dbpedia.org/ontology/country	미국
-http://ko.dbpedia.org/resource/다트머스_대학교	http://ko.dbpedia.org/property/설립	1769

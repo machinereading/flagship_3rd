@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/막스_델브뤽	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/베를린
-http://ko.dbpedia.org/resource/막스_델브뤽	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/독일_제국
-http://ko.dbpedia.org/resource/막스_델브뤽	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/생물학자
-http://ko.dbpedia.org/resource/막스_델브뤽	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_생리학·의학상
-http://ko.dbpedia.org/resource/막스_델브뤽	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/생물리학

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/소재지	가나가와 현 아시가라카미 군 야마키타 정 야가
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/스루가오야마_역
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/역명	야가
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/개업일	1947
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/야마키타_역
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/고텐바_선
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/노선	■ 고텐바 선
-http://ko.dbpedia.org/resource/야가_역_(가나가와_현)	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/도카이_여객철도

@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/일본체육대학	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/요코하마_시
-http://ko.dbpedia.org/resource/일본체육대학	http://ko.dbpedia.org/property/설립	1949
-http://ko.dbpedia.org/resource/일본체육대학	http://ko.dbpedia.org/property/총장	다니가마 료우쇼
-http://ko.dbpedia.org/resource/일본체육대학	http://dbpedia.org/ontology/mascot	벚꽃
-http://ko.dbpedia.org/resource/일본체육대학	http://dbpedia.org/ontology/mascot	벚꽃
-http://ko.dbpedia.org/resource/일본체육대학	http://ko.dbpedia.org/property/표어	體育富強之基

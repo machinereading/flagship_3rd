@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/소재지	가나가와 현 요코하마 시 쓰루미 구
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/노선	게이힌 급행 전철 ■ 본선
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/후역	가나가와신마치 KK34
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/역명	게이큐 쓰루미
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/후역	가게쓰엔 앞 KK30
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/전역	KK28 쓰루미이치바
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/개업일	1905
-http://ko.dbpedia.org/resource/게이큐_쓰루미_역	http://ko.dbpedia.org/property/전역	KK20 게이큐 가와사키

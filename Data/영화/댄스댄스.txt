@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/개봉	1999
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/감독	문성욱
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/주진모
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/주연	http://ko.dbpedia.org/resource/황인영
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/장르	로맨스
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/장르	드라마
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/시간	95
-http://ko.dbpedia.org/resource/댄스댄스	http://ko.dbpedia.org/property/등급	12

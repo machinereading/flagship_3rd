@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://dbpedia.org/ontology/industry	식품류
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://ko.dbpedia.org/property/산업	식품류
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/배틀크리크_(미시간_주)
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/윌_키스_켈로그
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/시리얼
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/과자
-http://ko.dbpedia.org/resource/켈로그_(기업)	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/미시간_주

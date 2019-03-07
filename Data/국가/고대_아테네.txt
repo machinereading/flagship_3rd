@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/아티케_그리스어
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아테네
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/아테네_민주정
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/foundingYear	-0508
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/아테네_민주주의
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/페리클레스
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/country	아테나이
-http://ko.dbpedia.org/resource/고대_아테네	http://dbpedia.org/ontology/foundingYear	0510

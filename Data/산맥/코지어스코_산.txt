@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/코지어스코_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/오스트레일리아
-http://ko.dbpedia.org/resource/코지어스코_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/그레이트디바이딩_산맥
-http://ko.dbpedia.org/resource/코지어스코_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/뉴사우스웨일스_주
-http://ko.dbpedia.org/resource/코지어스코_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/오스트레일리아_원주민
-http://ko.dbpedia.org/resource/코지어스코_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/1840년

@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/매트록스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/몬트리올
-http://ko.dbpedia.org/resource/매트록스	http://dbpedia.org/ontology/foundingYear	1976
-http://ko.dbpedia.org/resource/매트록스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터_하드웨어
-http://ko.dbpedia.org/resource/매트록스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터_하드웨어
-http://ko.dbpedia.org/resource/매트록스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/그래픽_카드

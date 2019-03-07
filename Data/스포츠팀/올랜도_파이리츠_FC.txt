@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://dbpedia.org/ontology/foundingYear	1937
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프리미어_사커_리그
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/소웨토
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://ko.dbpedia.org/property/구단주	어빈 코자
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://ko.dbpedia.org/property/감독	줄리오 레알
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/엘리스_파크_경기장
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/요하네스버그
-http://ko.dbpedia.org/resource/올랜도_파이리츠_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/남아프리카_공화국

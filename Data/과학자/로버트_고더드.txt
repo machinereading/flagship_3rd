@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/매사추세츠_주
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/우스터_(매사추세츠_주)
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/물리학자
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/공학자
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/교수
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/로버트_고더드	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/액체_로켓

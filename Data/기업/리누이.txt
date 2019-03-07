@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/리누이	http://ko.dbpedia.org/property/창립자	심미영
-http://ko.dbpedia.org/resource/리누이	http://ko.dbpedia.org/property/제품	Micky Cross Bag, Monroe Bag etc
-http://ko.dbpedia.org/resource/리누이	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시
-http://ko.dbpedia.org/resource/리누이	http://ko.dbpedia.org/property/제품	Darin Back Pack, Bono Back Pack
-http://ko.dbpedia.org/resource/리누이	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/가방
-http://ko.dbpedia.org/resource/리누이	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/휴대폰
-http://ko.dbpedia.org/resource/리누이	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/휴대폰
-http://ko.dbpedia.org/resource/리누이	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/가방

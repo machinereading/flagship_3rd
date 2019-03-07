@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/군산대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/군산대학교	http://dbpedia.org/ontology/mascot	황룡, 느티나무(교목)
-http://ko.dbpedia.org/resource/군산대학교	http://ko.dbpedia.org/property/설립	1946
-http://ko.dbpedia.org/resource/군산대학교	http://ko.dbpedia.org/property/총장	나의균
-http://ko.dbpedia.org/resource/군산대학교	http://ko.dbpedia.org/property/표어	진리탐구, 문화창조, 사회봉사

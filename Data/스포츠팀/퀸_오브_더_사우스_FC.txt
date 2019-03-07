@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/스코틀랜드_풋볼_리그_1부
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://dbpedia.org/ontology/foundingYear	1919
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/덤프리스
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/팰머스턴_파크
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/스코틀랜드
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://ko.dbpedia.org/property/구단주	데이비 레
-http://ko.dbpedia.org/resource/퀸_오브_더_사우스_FC	http://ko.dbpedia.org/property/감독	케니 브랜니건

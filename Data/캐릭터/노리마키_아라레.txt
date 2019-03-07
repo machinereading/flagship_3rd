@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/노리마키_아라레	http://dbpedia.org/ontology/firstAppearance	http://ko.dbpedia.org/resource/닥터_슬럼프
-http://ko.dbpedia.org/resource/노리마키_아라레	http://dbpedia.org/ontology/birthDate	1980
-http://ko.dbpedia.org/resource/노리마키_아라레	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/도리야마_아키라
-http://ko.dbpedia.org/resource/노리마키_아라레	http://dbpedia.org/ontology/species	안드로이드
-http://ko.dbpedia.org/resource/노리마키_아라레	http://dbpedia.org/ontology/occupation	중학생
-http://ko.dbpedia.org/resource/노리마키_아라레	http://dbpedia.org/ontology/gender	여자

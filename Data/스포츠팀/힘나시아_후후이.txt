@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://dbpedia.org/ontology/foundingYear	1931
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/8월_23일_경기장
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프리메라_B_나시오날
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/아르헨티나_프리메라_디비시온
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://ko.dbpedia.org/property/구단주	라울 오라시오 우조아
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://ko.dbpedia.org/property/감독	카를로스 라마쇼티
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/산살바도르데후후이
-http://ko.dbpedia.org/resource/힘나시아_후후이	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/아르헨티나

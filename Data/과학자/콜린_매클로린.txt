@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학자
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/수학
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/왕립_학회
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/매클로린_급수
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/스코틀랜드
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/아가일_뷰트
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/영국
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/적분판정법
-http://ko.dbpedia.org/resource/콜린_매클로린	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/매클로린의_부등식

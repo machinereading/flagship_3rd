@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/와리오	http://dbpedia.org/ontology/creator	http://ko.dbpedia.org/resource/요코이_군페이
-http://ko.dbpedia.org/resource/와리오	http://dbpedia.org/ontology/firstAppearance	슈퍼 마리오 랜드 2 (1992년)
-http://ko.dbpedia.org/resource/와리오	http://dbpedia.org/ontology/nationality	미국
-http://ko.dbpedia.org/resource/와리오	http://dbpedia.org/ontology/gender	남자
-http://ko.dbpedia.org/resource/와리오	http://dbpedia.org/ontology/birthDate	1979

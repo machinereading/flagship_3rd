@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/분자생물학
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/DNA
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/field	http://ko.dbpedia.org/resource/물리학
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/의식_(심리철학)
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/knownFor	http://ko.dbpedia.org/resource/분자생물학의_중심원리
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/노샘프턴셔_주
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/로열_메달
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/노벨_생리학·의학상
-http://ko.dbpedia.org/resource/프랜시스_크릭	http://dbpedia.org/ontology/award	http://ko.dbpedia.org/resource/코플리_메달

@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/아트멜	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/산호세_(캘리포니아_주)
-http://ko.dbpedia.org/resource/아트멜	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/반도체
-http://ko.dbpedia.org/resource/아트멜	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/마이크로컨트롤러
-http://ko.dbpedia.org/resource/아트멜	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/반도체
-http://ko.dbpedia.org/resource/아트멜	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/새너제이_(캘리포니아_주)
-http://ko.dbpedia.org/resource/아트멜	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/플래시_메모리
-http://ko.dbpedia.org/resource/아트멜	http://dbpedia.org/ontology/foundingYear	1984

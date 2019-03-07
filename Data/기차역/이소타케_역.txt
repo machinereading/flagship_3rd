@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/역명	이소타케
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서일본_여객철도
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/산인_본선
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/노선	■ 산인 본선
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/소재지	시마네 현 오다 시
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/시즈마_역
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/개업일	1917
-http://ko.dbpedia.org/resource/이소타케_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/니마_역

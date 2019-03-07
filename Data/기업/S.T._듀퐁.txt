@@ -1,7 +1,0 @@
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/만년필
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/제조업
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/시계
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/시몽_티소_듀퐁
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/라이터
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/파리
-http://ko.dbpedia.org/resource/S.T._듀퐁	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/제조업

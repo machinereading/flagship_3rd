@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/위트레흐트
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/foundingYear	1806
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/암스테르담
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/네덜란드어
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/루이_보나파르트
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/country	네덜란드
-http://ko.dbpedia.org/resource/홀란트_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/헤이그

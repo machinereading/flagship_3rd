@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/가양역
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/소재지	서울특별시 강서구 양천로 지하341
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/서울_지하철_9호선
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/후역	907
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/마곡나루역
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/전역	905
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/개업일	2009
-http://ko.dbpedia.org/resource/양천향교역	http://ko.dbpedia.org/property/역명	양천향교

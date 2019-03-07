@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/프랑스
-http://ko.dbpedia.org/resource/몽블랑_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/알프스_산맥
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/발레다오스타_주
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/이탈리아
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/1786년
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/오트사부아_주
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/미셸_파카르
-http://ko.dbpedia.org/resource/몽블랑_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/자크_발마

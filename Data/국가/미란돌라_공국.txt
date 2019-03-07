@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/미란돌라_공국	http://dbpedia.org/ontology/officialLanguage	이탈리아어
-http://ko.dbpedia.org/resource/미란돌라_공국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/미란돌라
-http://ko.dbpedia.org/resource/미란돌라_공국	http://dbpedia.org/ontology/country	미란돌라
-http://ko.dbpedia.org/resource/미란돌라_공국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제
-http://ko.dbpedia.org/resource/미란돌라_공국	http://dbpedia.org/ontology/foundingYear	1310

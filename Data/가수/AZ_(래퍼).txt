@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/AZ_(래퍼)	http://dbpedia.org/ontology/occupation	http://ko.dbpedia.org/resource/랩_(음악)
-http://ko.dbpedia.org/resource/AZ_(래퍼)	http://dbpedia.org/ontology/activeYearsStartYear	1994
-http://ko.dbpedia.org/resource/AZ_(래퍼)	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/힙합_음악
-http://ko.dbpedia.org/resource/AZ_(래퍼)	http://dbpedia.org/ontology/birthDate	1972-03-09
-http://ko.dbpedia.org/resource/AZ_(래퍼)	http://dbpedia.org/ontology/instrument	http://ko.dbpedia.org/resource/랩_(음악)

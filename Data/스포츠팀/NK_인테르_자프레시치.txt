@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/NK_인테르_자프레시치	http://ko.dbpedia.org/property/감독	Borimir Perković
-http://ko.dbpedia.org/resource/NK_인테르_자프레시치	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프르바_HNL
-http://ko.dbpedia.org/resource/NK_인테르_자프레시치	http://ko.dbpedia.org/property/구단주	Branko Laljak
-http://ko.dbpedia.org/resource/NK_인테르_자프레시치	http://dbpedia.org/ontology/foundingYear	1929
-http://ko.dbpedia.org/resource/NK_인테르_자프레시치	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/크로아티아

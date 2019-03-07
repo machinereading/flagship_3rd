@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/소재지	도쿄 도 하치오지 시
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/소재지	이시카와마치 2953-1
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/역명	기타하치오지
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/노선	동일본 여객철도 ■ 하치코 선
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/고미야_역
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/개업일	1959
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/전역	하치오지
-http://ko.dbpedia.org/resource/기타하치오지_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/하치오지_역

@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/오투씨앤아이	http://ko.dbpedia.org/property/창립자	http://ko.dbpedia.org/resource/신희
-http://ko.dbpedia.org/resource/오투씨앤아이	http://ko.dbpedia.org/property/산업	원격지원, 정보 보안
-http://ko.dbpedia.org/resource/오투씨앤아이	http://ko.dbpedia.org/property/제품	O2COM, O2CARE, B인터넷 PC닥터, Norton Internet Security
-http://ko.dbpedia.org/resource/오투씨앤아이	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/정보_보안
-http://ko.dbpedia.org/resource/오투씨앤아이	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/송파구
-http://ko.dbpedia.org/resource/오투씨앤아이	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/서울특별시

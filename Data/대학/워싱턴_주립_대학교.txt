@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/워싱턴_주립_대학교	http://dbpedia.org/ontology/mascot	http://ko.dbpedia.org/resource/쿠거
-http://ko.dbpedia.org/resource/워싱턴_주립_대학교	http://dbpedia.org/ontology/mascot	쿠거
-http://ko.dbpedia.org/resource/워싱턴_주립_대학교	http://ko.dbpedia.org/property/총장	http://ko.dbpedia.org/resource/엘슨_플로이드
-http://ko.dbpedia.org/resource/워싱턴_주립_대학교	http://ko.dbpedia.org/property/표어	World Class. Face to Face.
-http://ko.dbpedia.org/resource/워싱턴_주립_대학교	http://ko.dbpedia.org/property/설립	1890
-http://ko.dbpedia.org/resource/워싱턴_주립_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/미국

@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/로체_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/네팔
-http://ko.dbpedia.org/resource/로체_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/티베트_자치구
-http://ko.dbpedia.org/resource/로체_산	http://ko.dbpedia.org/property/산맥	http://ko.dbpedia.org/resource/히말라야_산맥
-http://ko.dbpedia.org/resource/로체_산	http://dbpedia.org/ontology/firstAscentPerson	http://ko.dbpedia.org/resource/크시슈토프_비엘리츠키
-http://ko.dbpedia.org/resource/로체_산	http://dbpedia.org/ontology/locatedInArea	http://ko.dbpedia.org/resource/쿰부

@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/히가시나가사와_역
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/우스기_역
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/모가미_군
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/야마가타_현
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/소재지	http://ko.dbpedia.org/resource/모가미_정
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/역명	瀬見温泉
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/역명	세미온센
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/개업일	1915
-http://ko.dbpedia.org/resource/세미온센_역	http://ko.dbpedia.org/property/노선	■ 리쿠우토 선

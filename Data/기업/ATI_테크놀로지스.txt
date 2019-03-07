@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://dbpedia.org/ontology/foundingYear	1985
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/비디오_카드
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/메인보드
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/온타리오_주
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/마크햄
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://dbpedia.org/ontology/location	http://ko.dbpedia.org/resource/캐나다
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://dbpedia.org/ontology/industry	http://ko.dbpedia.org/resource/컴퓨터_하드웨어
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://ko.dbpedia.org/property/제품	http://ko.dbpedia.org/resource/그래픽_처리_장치
-http://ko.dbpedia.org/resource/ATI_테크놀로지스	http://ko.dbpedia.org/property/산업	http://ko.dbpedia.org/resource/컴퓨터_하드웨어

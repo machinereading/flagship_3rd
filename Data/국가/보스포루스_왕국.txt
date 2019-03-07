@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/보스포루스_왕국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/왕국
-http://ko.dbpedia.org/resource/보스포루스_왕국	http://dbpedia.org/ontology/foundingYear	-0438
-http://ko.dbpedia.org/resource/보스포루스_왕국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/판티카파이온
-http://ko.dbpedia.org/resource/보스포루스_왕국	http://dbpedia.org/ontology/foundingYear	0438
-http://ko.dbpedia.org/resource/보스포루스_왕국	http://dbpedia.org/ontology/leaderName	http://ko.dbpedia.org/resource/티베리오스_이울리오스_레스쿠포리스_6세
-http://ko.dbpedia.org/resource/보스포루스_왕국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/그리스어

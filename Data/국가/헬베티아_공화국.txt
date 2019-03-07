@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/루체른
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/공화제
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/독일어
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/프랑스어
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/foundingYear	1798
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/officialLanguage	http://ko.dbpedia.org/resource/이탈리아어
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/country	스위스
-http://ko.dbpedia.org/resource/헬베티아_공화국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/아라우_(스위스)

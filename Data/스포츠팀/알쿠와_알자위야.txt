@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/알쿠와_알자위야	http://dbpedia.org/ontology/foundingYear	1931
-http://ko.dbpedia.org/resource/알쿠와_알자위야	http://ko.dbpedia.org/property/구단주	후세인 칼칼리
-http://ko.dbpedia.org/resource/알쿠와_알자위야	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/이라크_프리미어리그
-http://ko.dbpedia.org/resource/알쿠와_알자위야	http://ko.dbpedia.org/property/감독	사바 압둘잘릴
-http://ko.dbpedia.org/resource/알쿠와_알자위야	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/이라크

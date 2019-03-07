@@ -1,6 +1,0 @@
-http://ko.dbpedia.org/resource/코타키나발루	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/Malaysia
-http://ko.dbpedia.org/resource/코타키나발루	http://dbpedia.org/ontology/populationTotal	176667
-http://ko.dbpedia.org/resource/코타키나발루	http://ko.dbpedia.org/property/별명	K.K.
-http://ko.dbpedia.org/resource/코타키나발루	http://dbpedia.org/ontology/area	394
-http://ko.dbpedia.org/resource/코타키나발루	http://dbpedia.org/ontology/isPartOf	http://ko.dbpedia.org/resource/사바_주
-http://ko.dbpedia.org/resource/코타키나발루	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/말레이시아

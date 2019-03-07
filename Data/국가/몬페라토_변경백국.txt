@@ -1,5 +1,0 @@
-http://ko.dbpedia.org/resource/몬페라토_변경백국	http://dbpedia.org/ontology/capital	http://ko.dbpedia.org/resource/카살레몬페라토
-http://ko.dbpedia.org/resource/몬페라토_변경백국	http://dbpedia.org/ontology/officialLanguage	이탈리아어
-http://ko.dbpedia.org/resource/몬페라토_변경백국	http://dbpedia.org/ontology/foundingYear	0961
-http://ko.dbpedia.org/resource/몬페라토_변경백국	http://dbpedia.org/ontology/country	몬페라토
-http://ko.dbpedia.org/resource/몬페라토_변경백국	http://dbpedia.org/ontology/governmentType	http://ko.dbpedia.org/resource/군주제

@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/드라마
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/희비극
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/판타지
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/religion	http://ko.dbpedia.org/resource/감리교
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/birthPlace	http://ko.dbpedia.org/resource/글로스터셔_주
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/genre	http://ko.dbpedia.org/resource/범죄물
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/notableWork	http://ko.dbpedia.org/resource/해리_포터
-http://ko.dbpedia.org/resource/J._K._롤링	http://dbpedia.org/ontology/education	http://ko.dbpedia.org/resource/엑서터_대학교

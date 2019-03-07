@@ -1,9 +1,0 @@
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/장르	드라마, 스릴러
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/개봉	2016
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/한국어
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/감독	http://ko.dbpedia.org/resource/박찬욱
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/시간	144
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/시간	167
-http://ko.dbpedia.org/resource/아가씨	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/South_Korea
-http://ko.dbpedia.org/resource/아가씨	http://ko.dbpedia.org/property/언어	http://ko.dbpedia.org/resource/일본어
-http://ko.dbpedia.org/resource/아가씨	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/대한민국

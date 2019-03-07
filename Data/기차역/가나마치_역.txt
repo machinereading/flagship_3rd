@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/전역	http://ko.dbpedia.org/resource/가메아리_역
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/후역	http://ko.dbpedia.org/resource/마쓰도_역
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/소재지	도쿄 도 가쓰시카 구
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/소재지	가나마치 6초메 4-1
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/노선	http://ko.dbpedia.org/resource/동일본_여객철도
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/노선	■ 조반 완행선
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/역명	가나마치
-http://ko.dbpedia.org/resource/가나마치_역	http://ko.dbpedia.org/property/개업일	1897

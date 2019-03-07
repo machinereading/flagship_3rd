@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/미국
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브레머튼_(워싱턴_주)
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/프리미어_디벨로프먼트_리그
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://dbpedia.org/ontology/league	http://ko.dbpedia.org/resource/USL_프리미어_디벨로프먼트_리그
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://dbpedia.org/ontology/ground	http://ko.dbpedia.org/resource/브러머턴_기념_경기장
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://dbpedia.org/ontology/foundingYear	2007
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://ko.dbpedia.org/property/구단주	로빈 웨이트
-http://ko.dbpedia.org/resource/킷샙_퓨마스	http://ko.dbpedia.org/property/감독	피터 퓨잉

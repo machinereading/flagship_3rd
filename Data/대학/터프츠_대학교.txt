@@ -1,8 +1,0 @@
-http://ko.dbpedia.org/resource/터프츠_대학교	http://ko.dbpedia.org/property/총장	앤서니 모나코
-http://ko.dbpedia.org/resource/터프츠_대학교	http://ko.dbpedia.org/property/총장	Anthony P. Monaco
-http://ko.dbpedia.org/resource/터프츠_대학교	http://dbpedia.org/ontology/city	http://ko.dbpedia.org/resource/메드퍼드_(매사추세츠_주)
-http://ko.dbpedia.org/resource/터프츠_대학교	http://dbpedia.org/ontology/mascot	점보 (Jumbo코끼리)
-http://ko.dbpedia.org/resource/터프츠_대학교	http://dbpedia.org/ontology/mascot	점보
-http://ko.dbpedia.org/resource/터프츠_대학교	http://ko.dbpedia.org/property/설립	1852
-http://ko.dbpedia.org/resource/터프츠_대학교	http://ko.dbpedia.org/property/표어	Pax et Lux
-http://ko.dbpedia.org/resource/터프츠_대학교	http://dbpedia.org/ontology/country	http://ko.dbpedia.org/resource/United_States
