@@ -224,7 +224,7 @@ def DM(keywords, question_triple, pre_state, state):
 	intro_triples = []
 
 	if (len(keywords) == 0) :
-		return intro_triples, question_triple, keywords, pre_state, state
+		return intro_triples, question_triple, keywords, state, state
 
 	if (state == 'T_INTRO') :
 		most_similarity = 0
@@ -380,11 +380,11 @@ def main():
 			print('SYSTEM : ', system_utterence)
 		user_utterence = input('USER : ')
 		keywords, pre_state, state = NLU(user_utterence, pre_state, state)
-		#print('NLU', keywords, state)
+		#print('NLU', keywords, state, pre_state)
 		intro_triples, question_triple, keywords, pre_state, state = DM(keywords, question_triple, pre_state, state)
-		#print('DM', intro_triples, question_triple, keywords, state)
+		#print('DM', intro_triples, question_triple, keywords, state, pre_state)
 		system_utterence, pre_state, state = NLG(intro_triples, question_triple, keywords, pre_state, state)
-		#print('NLG', state)
+		#print('NLG', state, pre_state)
 		print('SYSTEM : ' + system_utterence)
 		if (state == 'CLOSE') :
 			print('----------------------------------------------------------------------------------')
